@@ -19,5 +19,7 @@
             "text": "You are the spiderman of this world"
         }
     ],
-    "book":[]
+    "book":[],
+    "user":[],
+    "post":[]
 }
