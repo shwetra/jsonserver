@@ -9010,14 +9010,15 @@
   "Sansar":[
     {
       "image":"https://cdn1.smartprix.com/rx-i9lW2ZbX5-w1200-h1200/9lW2ZbX5.jpg",
-      "name": "vivo sansar",
-      "quantity": "Effective Pixels: 64 MP",
-      "discountprice": "₹2347",
-      "price": "₹22290"
+      "brand": "vivo",
+      "name": "Vivo sansar",
+      "discount_price": "Rs. 1409",
+      "price": "Rs. 22999"
 
     },
     {
       "image": "https://rukminim1.flixcart.com/image/612/612/krtjgcw0/fmcg-combo/p/l/n/combo-of-mixed-herbs-30g-peri-peri-seasoning-75g-sumac-berry-75g-original-imag5gq677kcvjcq.jpeg?q :70",
+      "brand": "CUTECUMBER",
       "name": "Easy Life Combo of Mixed Herbs 30g, Peri Peri Seasoning...",
       "quantity": "Mixed Herbs 30g, Peri Peri Seasoning 75g Sumac berry 75g",
       "discountprice": "₹347",
