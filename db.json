@@ -2018,197 +2018,203 @@
   
    "girlsData" : [
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14955462/2021/7/27/808b3090-603b-4d32-b550-21e3683e959d1627399841405StyloBugGirlsPinkTieredKurtiwithShararaWithDupatta7.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14955462/2021/7/27/808b3090-603b-4d32-b550-21e3683e959d1627399841405StyloBugGirlsPinkTieredKurtiwithShararaWithDupatta7.jpg",
       "brand": "Stylo Bug",
       "name": "Girls Kurta with Sharara",
+      "description": "A beautiful pink kurta with sharara for girls from Stylo Bug.",
       "discount_price": "Rs. 1398",
       "price": "Rs. 3995",
       "id": 0
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/9/903437c6-a4fa-4c95-9536-621b02f835051575843044296-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/12/9/903437c6-a4fa-4c95-9536-621b02f835051575843044296-1.jpg",
       "brand": "Bitiya by Bhama",
       "name": "Girls Printed Kurti with Sharara & Dupatta",
+      "description": "A printed kurti with sharara and dupatta for girls from Bitiya by Bhama.",
       "discount_price": "Rs. 1199",
       "price": "Rs. 2999",
       "id": 1
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18778630/2022/6/18/89a332c5-6c02-40ec-b20f-3314937a10671655553902079CutiekinsFloralPrintedPeplumTopDhotiSet-MaroonBrown1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18778630/2022/6/18/89a332c5-6c02-40ec-b20f-3314937a10671655553902079CutiekinsFloralPrintedPeplumTopDhotiSet-MaroonBrown1.jpg",
       "brand": "Cutiekins",
       "name": "Girls Printed Top with Dhoti Pants",
+      "description": "A stylish dhoti set with a floral printed top for girls from Cutiekins.",
       "discount_price": "Rs. 899",
       "price": "Rs. 2999",
       "id": 2
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095458/2022/4/29/be0b4750-a706-4dbb-8bea-4b8db08240201651244821782pspeachesGirlsPinkLehengaCholi1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095458/2022/4/29/be0b4750-a706-4dbb-8bea-4b8db08240201651244821782pspeachesGirlsPinkLehengaCholi1.jpg",
       "brand": "pspeaches",
       "name": "Ready to Wear Lehenga Blouse With Dupatta",
+      "description": "A ready-to-wear lehenga blouse with dupatta for girls from pspeaches.",
       "discount_price": "Rs. 1461",
       "price": "Rs. 4568",
       "id": 3
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16980018/2022/1/29/c0c3adad-113f-4b3d-8b4c-747ba9bcb3c81643462302051pspeachesOffWhiteFloralChiffonDress1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16980018/2022/1/29/c0c3adad-113f-4b3d-8b4c-747ba9bcb3c81643462302051pspeachesOffWhiteFloralChiffonDress1.jpg",
       "brand": "pspeaches",
       "name": "Floral Chiffon Dress",
+      "description": "A beautiful floral chiffon dress for girls from pspeaches.",
       "discount_price": "Rs. 607",
       "price": "Rs. 1899",
       "id": 4
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15396092/2021/9/7/415faca5-7b3c-41c5-8e95-11c4f411f8f81631020548440StyloBugGirlsBlueFloralEmbroideredTieredKurtiwithShararaWith1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15396092/2021/9/7/415faca5-7b3c-41c5-8e95-11c4f411f8f81631020548440StyloBugGirlsBlueFloralEmbroideredTieredKurtiwithShararaWith1.jpg",
       "brand": "Stylo Bug",
       "name": "Girls Blue Kurti with Sharara",
+      "description": "A blue floral embroidered tiered kurti with sharara for girls from Stylo Bug.",
       "discount_price": "Rs. 1398",
       "price": "Rs. 3995",
       "id": 5
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11427716/2022/1/7/05ce3387-733e-4bd7-a60b-7b7d4b59a49d1641551612595-CUTECUMBER-Girls-Red--White-Printed-Fit-and-Flare-Dress-4811-2.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11427716/2022/1/7/05ce3387-733e-4bd7-a60b-7b7d4b59a49d1641551612595-CUTECUMBER-Girls-Red--White-Printed-Fit-and-Flare-Dress-4811-2.jpg",
       "brand": "CUTECUMBER",
       "name": "Girls Printed Fit and Flare Dress",
+      "description": "A printed fit and flare dress for girls from CUTECUMBER.",
       "discount_price": "Rs. 999",
       "price": "Rs. 1640",
       "id": 6
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/17/090f9dc1-781d-43ed-a77b-80eb0675a50f1602890526587-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/17/090f9dc1-781d-43ed-a77b-80eb0675a50f1602890526587-1.jpg",
       "brand": "Cutiekins",
       "name": "Girls Printed Top with Palazzos",
+      "description": "A printed top with palazzos set for girls from Cutiekins.",
       "discount_price": "Rs. 781",
       "price": "Rs. 1699",
       "id": 7
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18791212/2022/6/20/657af591-f14d-456b-abf5-77f4c49600001655726793828CutiekinsGirlsPinkWhiteEmbellishedSequinnedReadytoWearLeheng1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18791212/2022/6/20/657af591-f14d-456b-abf5-77f4c49600001655726793828CutiekinsGirlsPinkWhiteEmbellishedSequinnedReadytoWearLeheng1.jpg",
       "brand": "Cutiekins",
       "name": "Ready to Wear Lehenga Blouse With Dupatta",
+      "description": "An embellished sequinned ready-to-wear lehenga blouse with dupatta for girls from Cutiekins.",
       "discount_price": "Rs. 1409",
       "price": "Rs. 2999",
       "id": 8
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16628710/2022/1/10/dc190f88-f2dc-463d-802b-d9a8bcd4710f1641789278176ATUNGirlsMaroonWhitePrintedBasicJumpsuit1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16628710/2022/1/10/dc190f88-f2dc-463d-802b-d9a8bcd4710f1641789278176ATUNGirlsMaroonWhitePrintedBasicJumpsuit1.jpg",
       "brand": "A.T.U.N.",
       "name": "Girls Printed Basic Jumpsuit",
+      "description": "A printed basic jumpsuit for girls from A.T.U.N.",
       "discount_price": "Rs. 363",
       "price": "Rs. 1299",
       "id": 9
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/857479/2022/5/12/3a00b83b-e3ac-4081-9554-6512986e3e431652353800779NaughtyNinosGirlsOff-WhitePrintedDungareeswithTop1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/857479/2022/5/12/3a00b83b-e3ac-4081-9554-6512986e3e431652353800779NaughtyNinosGirlsOff-WhitePrintedDungareeswithTop1.jpg",
       "brand": "Naughty Ninos",
       "name": "Girls Dungarees with T-shirt",
+      "description": "A stylish set of dungarees with a matching T-shirt for girls from Naughty Ninos.",
       "discount_price": "Rs. 794",
       "price": "Rs. 1499",
       "id": 10
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16870316/2022/7/11/7f3d1e0b-b35d-4a5e-9b3b-6ea9e2b2337f1657530645146-Sangria-Girls-Red--Green-Colourblocked-Printed-Pure-Cotton-A-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16870316/2022/7/11/7f3d1e0b-b35d-4a5e-9b3b-6ea9e2b2337f1657530645146-Sangria-Girls-Red--Green-Colourblocked-Printed-Pure-Cotton-A-1.jpg",
       "brand": "Sangria",
       "name": "Girls Cotton A-Line Dress",
+      "description": "A comfortable and stylish A-line dress for girls from Sangria.",
       "discount_price": "Rs. 584",
       "price": "Rs. 1299",
       "id": 50
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19126294/2022/7/16/56ba9fe9-cc2e-40e1-8ef2-93bcf9ca2c281657951193309PantaloonsBabyInfantGirlsNavy-BluePinkPrintedCottonAnkle-Len1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19126294/2022/7/16/56ba9fe9-cc2e-40e1-8ef2-93bcf9ca2c281657951193309PantaloonsBabyInfantGirlsNavy-BluePinkPrintedCottonAnkle-Len1.jpg",
       "brand": "Pantaloons Baby",
+      "discount_price": "Rs. 794",
+      "price": "Rs. 1499",
       "name": "Infant Girls Printed Cotton Ankle-Length Leggings",
+      "description": "Cute and comfortable ankle-length leggings for infant girls from Pantaloons Baby.",
       "id": 51
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18430688/2022/5/25/2fbb67ef-d741-4974-af05-1adf4d58103c1653474700145pspeachesGirlsRedLehengaCholi1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18430688/2022/5/25/2fbb67ef-d741-4974-af05-1adf4d58103c1653474700145pspeachesGirlsRedLehengaCholi1.jpg",
       "brand": "pspeaches",
       "name": "Ready to Wear Lehenga Blouse With Dupatta",
+      "description": "A stunning ready-to-wear lehenga blouse with dupatta for girls from pspeaches.",
       "discount_price": "Rs. 1249",
       "price": "Rs. 4999",
       "id": 52
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11212122/2022/5/12/1458a8d9-b050-40df-a1b7-761ae1a74ce61652353787500NaughtyNinosGirlsPinkYellowStripedTopwithPalazzos1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11212122/2022/5/12/1458a8d9-b050-40df-a1b7-761ae1a74ce61652353787500NaughtyNinosGirlsPinkYellowStripedTopwithPalazzos1.jpg",
       "brand": "Naughty Ninos",
       "name": "Girls Striped Top with Palazzos",
+      "description": "A stylish striped top paired with palazzos for girls from Naughty Ninos.",
       "discount_price": "Rs. 798",
       "price": "Rs. 1699",
       "id": 53
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16201570/2022/7/5/5d860625-261f-4d26-96b7-80f8906b65091657041268757CrocsUnisexKidsWhiteGemBandCrosliteClogs1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16201570/2022/7/5/5d860625-261f-4d26-96b7-80f8906b65091657041268757CrocsUnisexKidsWhiteGemBandCrosliteClogs1.jpg",
       "brand": "Crocs",
       "name": "Unisex Kids Gem Band Clogs",
+      "description": "Comfortable and stylish unisex clogs with a gem band for kids from Crocs.",
       "discount_price": "Rs. 1621",
       "price": "Rs. 2495",
       "id": 54
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17078866/2022/2/7/74b94d71-14c7-4d42-aecd-ae879651f10f1644254832982ATUNBurgundyNetDress1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17078866/2022/2/7/74b94d71-14c7-4d42-aecd-ae879651f10f1644254832982ATUNBurgundyNetDress1.jpg",
       "brand": "A.T.U.N.",
       "name": "Girls Solid Fit & Flare Dress",
+      "description": "A beautiful solid fit and flare dress for girls from A.T.U.N.",
       "discount_price": "Rs. 839",
       "price": "Rs. 3499",
       "id": 55
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095444/2022/7/22/1c04eeca-8b87-4a0e-8ce5-4d07b411cd051658464246929pspeachesGirlsOrangeBluePrintedReadytoWearLehengaBlouseWithD1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095444/2022/7/22/1c04eeca-8b87-4a0e-8ce5-4d07b411cd051658464246929pspeachesGirlsOrangeBluePrintedReadytoWearLehengaBlouseWithD1.jpg",
       "brand": "pspeaches",
       "name": "Ready to Wear Lehenga Blouse With Dupatta",
+      "description": "A gorgeous ready-to-wear lehenga blouse with dupatta for girls from pspeaches.",
       "discount_price": "Rs. 1370",
       "price": "Rs. 4283",
       "id": 56
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15545018/2021/9/21/95c8742b-5c40-4362-9245-ad28196b22431632164678019maxGirlsMulticolouredTypographyPrintedAppliqueT-shirt1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15545018/2021/9/21/95c8742b-5c40-4362-9245-ad28196b22431632164678019maxGirlsMulticolouredTypographyPrintedAppliqueT-shirt1.jpg",
       "brand": "max",
       "name": "Girls 3 Pure Cotton T-shirts",
+      "description": "A set of three pure cotton T-shirts for girls from max.",
       "discount_price": "Rs. 620",
       "price": "Rs. 689",
       "id": 57
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095456/2022/4/29/63754ccd-f0c9-4b22-a7c0-2f5b8696cd1d1651244047547pspeachesGirlsPinkLehengaCholi1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18095456/2022/4/29/63754ccd-f0c9-4b22-a7c0-2f5b8696cd1d1651244047547pspeachesGirlsPinkLehengaCholi1.jpg",
       "brand": "pspeaches",
       "name": "Ready to Wear Lehenga Set",
+      "description": "A stunning ready-to-wear lehenga set for girls from pspeaches.",
       "discount_price": "Rs. 1644",
       "price": "Rs. 5140",
       "id": 58
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18084562/2022/4/29/3962f30a-7712-4b75-ae02-23d5e26fd05d1651202490622Cottonjerseycroppedtop1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18084562/2022/4/29/3962f30a-7712-4b75-ae02-23d5e26fd05d1651202490622Cottonjerseycroppedtop1.jpg",
       "brand": "H&M",
       "name": "Girls Cotton Cropped Top",
+      "description": "A comfortable and stylish cotton cropped top for girls from H&M.",
+      "discount_price": "Rs. 644",
+      "price": "Rs. 1140",
       "id": 59
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19099402/2022/7/15/f5c73527-6799-4e7c-b507-cfca11093e5d1657880954053YouGotPlanBComfortable100Cotton-SuperCritters-GirlBoxers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19099402/2022/7/15/f5c73527-6799-4e7c-b507-cfca11093e5d1657880954053YouGotPlanBComfortable100Cotton-SuperCritters-GirlBoxers1.jpg",
       "brand": "You Got Plan B",
       "name": "Set of 3 Boxer-Style Briefs",
+      "discount_price": "Rs. 644",
+      "price": "Rs. 1140",
+      "description": "A set of three comfortable boxer-style briefs for girls from You Got Plan B.",
       "id": 60
-    }  
+    }
   ],
   
    "mensData" : [
