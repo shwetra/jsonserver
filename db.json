@@ -1,116 +1,127 @@
 
 
-{ "mobileData" : [
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q:70",
-      "brand": "realme C35 (Glowing Green, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Polymer Battery",
-      "discount_price": "₹11,999",
-      "price": "₹13,999",
-      "id": 0
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/p/y/u/galaxy-f22-sm-e225fzkhins-samsung-original-imag4z99fagskjxd.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F22 (Denim Black, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Lithium-ion Battery",
-      "discount_price": "₹11,999",
-      "price": "₹14,999",
-      "id": 1
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kyeqjrk0/mobile/y/u/t/-original-imagan9qzdf2hbgy.jpeg?q:70",
-      "brand": "REDMI Note 10S (Deep Sea Blue, 64 GB)",
-      "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium-Ploymer Battery",
-      "discount_price": "₹12,499",
-      "price": "₹16,999",
-      "id": 2
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q:70",
-      "brand": "POCO C31 (Royal Blue, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹6,999",
-      "price": "₹10,999",
-      "id": 3
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q:70",
-      "brand": "REDMI 10 (Pacific Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Lithium Polymer Battery",
-      "discount_price": "₹9,999",
-      "price": "₹14,999",
-      "id": 4
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/8/a/y/-original-imaggbtszycsgjp5.jpeg?q:70",
-      "brand": "vivo T1X (Space Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹11,999",
-      "price": "₹16,990",
-      "id": 5
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/x/d/z/-original-imagf9wt5emzsjqz.jpeg?q:70",
-      "brand": "OPPO K10 5G (Ocean Blue, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Ion Polymer Battery",
-      "discount_price": "₹16,499",
-      "price": "₹20,999",
-      "id": 6
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/x/d/z/-original-imagf9wt5emzsjqz.jpeg?q:70",
-      "brand": "OPPO K10 5G (Ocean Blue, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Ion Polymer Battery",
-      "discount_price": "₹17,499",
-      "price": "₹25,999",
-      "id": 7
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktbu6q80/mobile/f/s/e/8s-5g-rmx3381-realme-original-imag6zhgra57dtqe.jpeg?q:70",
-      "brand": "realme 8s 5G (Universe Purple, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹17,999",
-      "price": "₹20,999",
-      "id": 8
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/5/7/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99fp4qdfby.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F22 (Denim Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Lithium-ion Battery",
-      "discount_price": "₹11,999",
-      "price": "₹14,999",
-      "id": 9
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q:70",
-      "brand": "POCO C31 (Royal Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹7,999",
-      "price": "₹11,999",
-      "id": 10
-    },
+{ 
+  "mobileData" : [
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/y/g/i/-original-imagc7ryyhrrcgxh.jpeg?q:70",
+    "brand": "Realme C35 (Glowing Green, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+    "battery": "5000 mAh Lithium Polymer Battery",
+    "discount_price": "₹11,999",
+    "price": "₹13,999",
+    "id": 0,
+    "description": "The Realme C35 features a stunning Glowing Green design and comes with 4 GB RAM and 64 GB ROM, which is expandable up to 1 TB. It is powered by a 5000 mAh Lithium Polymer Battery, ensuring long-lasting usage. With its affordable price and impressive specifications, the Realme C35 is a great choice for budget-conscious consumers."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/p/y/u/galaxy-f22-sm-e225fzkhins-samsung-original-imag4z99fagskjxd.jpeg?q:70",
+    "brand": "SAMSUNG Galaxy F22 (Denim Black, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+    "battery": "6000 mAh Lithium-ion Battery",
+    "discount_price": "₹11,999",
+    "price": "₹14,999",
+    "id": 1,
+    "description": "The SAMSUNG Galaxy F22 in Denim Black offers a seamless user experience with its 4 GB RAM and 64 GB ROM, which can be expanded up to 1 TB. It is equipped with a powerful 6000 mAh Lithium-ion Battery, ensuring long-lasting battery life. The Galaxy F22 combines style, performance, and reliability, making it a great choice for Samsung enthusiasts."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/kyeqjrk0/mobile/y/u/t/-original-imagan9qzdf2hbgy.jpeg?q:70",
+    "brand": "REDMI Note 10S (Deep Sea Blue, 64 GB)",
+    "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+    "battery": "5000 mAh Lithium-Polymer Battery",
+    "discount_price": "₹12,499",
+    "price": "₹16,999",
+    "id": 2,
+    "description": "The REDMI Note 10S in Deep Sea Blue offers a premium smartphone experience with its powerful specifications. It comes with 6 GB RAM and 64 GB ROM, expandable up to 512 GB, providing ample storage for your files and apps. The 5000 mAh Lithium-Polymer Battery ensures all-day usage without worrying about running out of power."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q:70",
+    "brand": "POCO C31 (Royal Blue, 32 GB)",
+    "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+    "battery": "5000 mAh Lithium-ion Polymer Battery",
+    "discount_price": "₹6,999",
+    "price": "₹10,999",
+    "id": 3,
+    "description": "The POCO C31 in Royal Blue offers a budget-friendly option with reliable performance. It features 3 GB RAM and 32 GB ROM, which can be expanded up to 512 GB, providing sufficient storage for your apps and media. The 5000 mAh Lithium-ion Polymer Battery ensures a long battery life, allowing you to use your phone throughout the day."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/l0tweq80/mobile/w/r/t/-original-imagcgtgwg5taegn.jpeg?q:70",
+    "brand": "REDMI 10 (Pacific Blue, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+    "battery": "6000 mAh Lithium Polymer Battery",
+    "discount_price": "₹9,999",
+    "price": "₹14,999",
+    "id": 4,
+    "description": "The REDMI 10 in Pacific Blue combines style and performance. It offers 4 GB RAM and 64 GB ROM, expandable up to 1 TB, ensuring ample storage space for your files and apps. The 6000 mAh Lithium Polymer Battery provides long-lasting battery life, allowing you to stay connected throughout the day."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/8/a/y/-original-imaggbtszycsgjp5.jpeg?q:70",
+    "brand": "vivo T1X (Space Blue, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM",
+    "battery": "5000 mAh Battery",
+    "discount_price": "₹11,999",
+    "price": "₹16,990",
+    "id": 5,
+    "description": "The vivo T1X in Space Blue is a stylish and reliable smartphone. It features 4 GB RAM and 64 GB ROM, offering sufficient storage for your apps and files. The 5000 mAh Battery ensures a long battery life, allowing you to enjoy uninterrupted usage throughout the day."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/x/d/z/-original-imagf9wt5emzsjqz.jpeg?q:70",
+    "brand": "OPPO K10 5G (Ocean Blue, 128 GB)",
+    "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+    "battery": "5000 mAh Lithium Ion Polymer Battery",
+    "discount_price": "₹16,499",
+    "price": "₹20,999",
+    "id": 6,
+    "description": "The OPPO K10 5G in Ocean Blue offers an immersive 5G experience with its powerful specifications. It comes with 6 GB RAM and 128 GB ROM, expandable up to 1 TB, providing ample storage for your apps and media. The 5000 mAh Lithium Ion Polymer Battery ensures long-lasting battery life, allowing you to stay connected on the go."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/l4d2ljk0/mobile/x/d/z/-original-imagf9wt5emzsjqz.jpeg?q:70",
+    "brand": "OPPO K10 5G (Ocean Blue, 128 GB)",
+    "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+    "battery": "5000 mAh Lithium Ion Polymer Battery",
+    "discount_price": "₹17,499",
+    "price": "₹25,999",
+    "id": 7,
+    "description": "The OPPO K10 5G in Ocean Blue provides a high-performance 5G smartphone experience. With 8 GB RAM and 128 GB ROM, expandable up to 1 TB, it offers ample storage space for your apps and multimedia files. The 5000 mAh Lithium Ion Polymer Battery ensures long battery life, allowing you to make the most of its powerful features."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/ktbu6q80/mobile/f/s/e/8s-5g-rmx3381-realme-original-imag6zhgra57dtqe.jpeg?q:70",
+    "brand": "realme 8s 5G (Universe Purple, 128 GB)",
+    "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+    "battery": "5000 mAh Battery",
+    "discount_price": "₹17,999",
+    "price": "₹20,999",
+    "id": 8,
+    "description": "The realme 8s 5G in Universe Purple offers a powerful 5G smartphone experience. It comes with 6 GB RAM and 128 GB ROM, which can be expanded up to 1 TB, providing ample storage for your files and apps. The 5000 mAh Battery ensures long-lasting battery life, allowing you to stay connected and enjoy fast 5G connectivity."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/5/7/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99fp4qdfby.jpeg?q:70",
+    "brand": "SAMSUNG Galaxy F22 (Denim Blue, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+    "battery": "6000 mAh Lithium-ion Battery",
+    "discount_price": "₹11,999",
+    "price": "₹14,999",
+    "id": 9,
+    "description": "The SAMSUNG Galaxy F22 in Denim Blue offers a seamless user experience with its 4 GB RAM and 64 GB ROM, which can be expanded up to 1 TB. It is equipped with a powerful 6000 mAh Lithium-ion Battery, ensuring long-lasting battery life. The Galaxy F22 combines style, performance, and reliability, making it a great choice for Samsung enthusiasts."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/p/e/4/c31-mzb0a0jin-poco-original-imag7bzqxgdhgf2n.jpeg?q:70",
+    "brand": "POCO C31 (Matte Black, 64 GB)",
+    "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+    "battery": "5000 mAh Lithium-ion Polymer Battery",
+    "discount_price": "₹6,999",
+    "price": "₹10,999",
+    "id": 10,
+    "description": "The POCO C31 in Matte Black offers a budget-friendly option with reliable performance. It features 4 GB RAM and 64 GB ROM, which can be expanded up to 512 GB, providing sufficient storage for your apps and media. The 5000 mAh Lithium-ion Polymer Battery ensures a long battery life, allowing you to use your phone throughout the day."
+  },
+  {
+    "image": "https://rukminim1.flixcart.com/image/312/312/kpsnzww0/mobile/7/c/o/x7-max-5g-quantum-black-256-oppo-original-imag3qswtkggkcbw.jpeg?q:70",
+    "brand": "OPPO Reno6 5G (Aurora Blue, 256 GB)",
+    "specs": "12 GB RAM | 256 GB ROM",
+    "battery": "4500 mAh Lithium-ion Polymer Battery",
+    "discount_price": "₹35,999",
+    "price": "₹39,999",
+    "id": 11,
+    "description": "The OPPO Reno6 5G in Aurora Blue is a premium smartphone with powerful specifications. It features 12 GB RAM and 256 GB ROM, offering ample storage for your apps, files, and multimedia content. The 4500 mAh Lithium-ion Polymer Battery provides long-lasting battery life, ensuring that you can make the most of its advanced features."
+  },
     {
       "image":
         "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/x/x/t/9i-sport-mzb0a10in-redmi-original-imag785rwf3q8sft.jpeg?q:70",
@@ -122,886 +133,984 @@
       "id": 11
     },
     {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/m/w/p/9i-sport-mzb0a0yin-redmi-original-imag785ryfspqg3a.jpeg?q:70",
+      "image": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/x/x/t/9i-sport-mzb0a10in-redmi-original-imag785rwf3q8sft.jpeg?q:70",
+      "brand": "REDMI 9i Sport (Metallic Blue, 64 GB)",
+      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+      "battery": "5000 mAh Li-Polymer Battery",
+      "discount_price": "₹8,999",
+      "price": "₹9,999",
+      "id": 11,
+      "description": "The REDMI 9i Sport in Metallic Blue offers a reliable and feature-packed smartphone experience. With 4 GB RAM and 64 GB ROM, expandable up to 512 GB, it provides ample storage for your apps, files, and media. The 5000 mAh Li-Polymer Battery ensures long-lasting battery life, keeping you connected throughout the day."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ku04o7k0/mobile/m/w/p/9i-sport-mzb0a0yin-redmi-original-imag785ryfspqg3a.jpeg?q:70",
       "brand": "REDMI 9i Sport (Coral Green, 64 GB)",
       "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
       "battery": "5000 mAh Li-Polymer Battery",
       "discount_price": "₹8,999",
       "price": "₹9,999",
-      "id": 12
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktbu6q80/mobile/x/w/y/8i-rmx3151-realme-original-imag6zhnabagtrzu.jpeg?q:70",
+      "id": 12,
+      "description": "Experience the vibrant and stylish REDMI 9i Sport in Coral Green. It features 4 GB RAM and 64 GB ROM, expandable up to 512 GB, providing ample space for your apps and files. The 5000 mAh Li-Polymer Battery ensures long-lasting battery life, allowing you to stay connected and enjoy your favorite content on the go."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/ktbu6q80/mobile/x/w/y/8i-rmx3151-realme-original-imag6zhnabagtrzu.jpeg?q:70",
       "brand": "realme 8i (Space Black, 64 GB)",
       "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
       "battery": "5000 mAh Battery",
       "discount_price": "₹13,999",
       "price": "₹15,999",
-      "id": 13
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/9/a/w/-original-imagcaaw5gzbdtxj.jpeg?q:70",
+      "id": 13,
+      "description": "The realme 8i in Space Black is a powerful and stylish smartphone designed for enhanced performance. It comes with 4 GB RAM and 64 GB ROM, expandable up to 256 GB, offering ample storage for your apps, photos, and videos. The 5000 mAh Battery ensures long-lasting usage, allowing you to stay productive and entertained throughout the day."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/9/a/w/-original-imagcaaw5gzbdtxj.jpeg?q:70",
       "brand": "REDMI Note 10T 5G (Mint Green, 128 GB)",
       "specs": "6 GB RAM | 128 GB ROM",
       "battery": "5000 mAh Lithium Polymer Battery",
       "discount_price": "₹13,999",
       "price": "₹18,999",
-      "id": 14
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kuef2q80/mobile/w/j/r/redmi-9a-sport-9a-mi-original-imag7gy6tzuz3hk8.jpeg?q:70",
+      "id": 14,
+      "description": "The REDMI Note 10T 5G in Mint Green is a feature-packed smartphone that delivers seamless performance. With 6 GB RAM and 128 GB ROM, it provides ample storage for your apps, games, and multimedia files. The 5000 mAh Lithium Polymer Battery offers long-lasting battery life, ensuring that you stay connected and entertained for extended periods."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kuef2q80/mobile/w/j/r/redmi-9a-sport-9a-mi-original-imag7gy6tzuz3hk8.jpeg?q:70",
       "brand": "Redmi 9A Sport (Metallic Blue, 32 GB)",
       "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
       "battery": "5000 mAh Battery",
       "discount_price": "₹6,821",
       "price": "₹6,825",
-      "id": 15
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/y/j/4/-original-imagcaaw4d7bv7pj.jpeg?q:70",
+      "id": 15,
+      "description": "The Redmi 9A Sport in Metallic Blue is a budget-friendly smartphone with essential features. It offers 2 GB RAM and 32 GB ROM, expandable up to 512 GB, providing sufficient storage for your apps and files. The 5000 mAh Battery ensures long-lasting usage, making it a reliable companion for your everyday tasks."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/y/j/4/-original-imagcaaw4d7bv7pj.jpeg?q:70",
       "brand": "REDMI Note 10T 5G (Metallic Blue, 64 GB)",
       "specs": "4 GB RAM | 64 GB ROM",
       "battery": "5000 mAh Lithium Polymer Battery",
       "discount_price": "₹11,999",
       "price": "₹16,999",
-      "id": 16
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l2f20sw0/mobile/b/u/0/-original-imagdrsysyqztnhh.jpeg?q:70",
+      "id": 16,
+      "description": "Experience the power and versatility of the REDMI Note 10T 5G in Metallic Blue. With 4 GB RAM and 64 GB ROM, it offers ample storage for your apps, photos, and videos. The 5000 mAh Lithium Polymer Battery ensures long-lasting usage, allowing you to enjoy your favorite content and stay connected for extended periods."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2f20sw0/mobile/b/u/0/-original-imagdrsysyqztnhh.jpeg?q:70",
       "brand": "Infinix Smart 6 (Light Sea Green, 64 GB)",
       "specs": "2 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
       "battery": "5000 mAh Li-ion Polymer Battery",
       "discount_price": "₹6,999",
       "price": "₹8,999",
-      "id": 17
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg?q:70",
+      "id": 17,
+      "description": "The Infinix Smart 6 in Light Sea Green is a stylish and feature-rich smartphone designed for everyday use. It comes with 2 GB RAM and 64 GB ROM, expandable up to 512 GB, offering sufficient storage for your apps, photos, and documents. The 5000 mAh Li-ion Polymer Battery ensures long-lasting performance, keeping you connected throughout the day."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/h/x/3/-original-imagduwqakhhkrse.jpeg?q:70",
       "brand": "OPPO K10 (Blue Flame, 128 GB)",
       "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
       "battery": "5000 mAh Lithium Ion Battery",
       "discount_price": "₹14,990",
       "price": "₹18,999",
-      "id": 18
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn4xhu80/mobile/d/f/c/f19-cph2219-oppo-original-imagfvj5cshwgwhp.jpeg?q:70",
+      "id": 18,
+      "description": "The OPPO K10 in Blue Flame is a premium smartphone with high-end specifications. It features 6 GB RAM and 128 GB ROM, expandable up to 1 TB, providing abundant storage for your apps, games, and media files. The 5000 mAh Lithium Ion Battery offers long-lasting battery life, ensuring uninterrupted usage throughout the day."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/kn4xhu80/mobile/d/f/c/f19-cph2219-oppo-original-imagfvj5cshwgwhp.jpeg?q:70",
       "brand": "OPPO F19 (Prism Black, 128 GB)",
       "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
       "battery": "5000 mAh Battery",
       "discount_price": "₹14,990",
       "price": "₹20,990",
-      "id": 19
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/i/1/y/-original-imagdu8gtefvchbn.jpeg?q:70",
+      "id": 19,
+      "description": "The OPPO F19 in Prism Black is a sleek and powerful smartphone that combines style with performance. It features 6 GB RAM and 128 GB ROM, expandable up to 256 GB, providing ample space for your apps, photos, and multimedia content. The 5000 mAh Battery ensures long-lasting usage, allowing you to stay connected all day long."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/i/1/y/-original-imagdu8gtefvchbn.jpeg?q:70",
       "brand": "POCO M4 5G (Power Black, 64 GB)",
       "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
       "battery": "5000 mAh Lithium Ion Polymer Battery",
       "discount_price": "₹10,999",
       "price": "₹15,999",
-      "id": 20
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/x/o/a/-original-imagfhu75eupxyft.jpeg?q:70",
+      "id": 20,
+      "description": "The POCO M4 5G in Power Black is a feature-packed smartphone that offers exceptional performance. With 4 GB RAM and 64 GB ROM, expandable up to 512 GB, it provides ample space for your apps, games, and media files. The 5000 mAh Lithium Ion Polymer Battery ensures long-lasting usage, allowing you to enjoy uninterrupted entertainment on the go."
+      },
+      {
+      "image": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/x/o/a/-original-imagfhu75eupxyft.jpeg?q:70",
       "brand": "SAMSUNG Galaxy F13 (Waterfall Blue, 64 GB)",
       "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Lithium Ion Battery",
-      "discount_price": "₹11,999",
-      "price": "₹14,999",
-      "id": 21
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q:70",
-      "brand": "POCO C31 (Shadow Gray, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹6,999",
-      "price": "₹10,999",
-      "id": 22
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kyeqjrk0/mobile/u/0/8/-original-imagan9qhw9nyhce.jpeg?q:70",
-      "brand": "REDMI Note 10S (Shadow Black, 64 GB)",
-      "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium-Ploymer Battery",
-      "discount_price": "₹12,499",
-      "price": "₹16,999",
-      "id": 23
-    },
-    {
-     "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/h/b/c/narzo-50i-rmx3231-realme-original-imag75hcyzzggbat.jpeg?q:70",
-      "brand": "realme Narzo 50i (Carbon Black, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
       "battery": "5000 mAh Battery",
-      "discount_price": "₹7,499",
-      "price": "₹7,999",
-      "id": 24
-    },
-    {
-       "image":
-        "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/v/c/i/-original-imagcv2dpkd75r6z.jpeg?q:70",
-      "brand": "POCO X4 Pro 5G (Yellow, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹18,999",
-      "price": "₹25,999",
-      "id": 25
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/v/c/i/-original-imagcv2dpkd75r6z.jpeg?q:70",
-      "brand": "POCO X4 Pro 5G (Yellow, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹18,999",
-      "price": "₹25,999",
-      "id": 26
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/b/6/narzo-30-5g-rmx3242-realme-original-imag45yjub2vdrzx.jpeg?q:70",
-      "brand": "realme Narzo 30 5G (Racing Silver, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹16,999",
+      "discount_price": "₹14,999",
       "price": "₹17,999",
-      "id": 27
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/h/b/c/narzo-50i-rmx3231-realme-original-imag75hcyzzggbat.jpeg?q:70",
-      "brand": "realme Narzo 50i (Carbon Black, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹7,499",
-      "price": "₹7,999",
-      "id": 28
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/y/j/4/-original-imagcaaw4d7bv7pj.jpeg?q:70",
-      "brand": "REDMI Note 10T 5G (Metallic Blue, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM",
-      "battery": "5000 mAh Lithium Polymer Battery",
-      "discount_price": "₹13,999",
-      "price": "₹18,999",
-      "id": 29
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/a/6/b/-original-imagc7tdwfp2gz4h.jpeg?q:70",
-      "brand": "POCO M4 Pro (Yellow, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹14,999",
-      "price": "₹21,999",
-      "id": 30
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/s/o/j/narzo-50i-rmx3231-realme-original-imag75h86v5thnzy.jpeg?q:70",
-      "brand": "realme Narzo 50i (Mint Green, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹7,499",
-      "price": "₹7,999",
-      "id": 31
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/s/o/j/narzo-50i-rmx3231-realme-original-imag75h86v5thnzy.jpeg?q:70",
-      "brand": "realme Narzo 50i (Mint Green, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹8,999",
-      "price": "₹9,999",
-      "id": 32
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/1/k/g/-original-imagc7ukmgugpdfy.jpeg?q:70",
-      "brand": "realme C35 (Glowing Black, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Polymer Battery",
-      "discount_price": "₹13,999",
-      "price": "₹15,999",
-      "id": 33
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kv6zvrk0/mobile/n/a/s/a16-cph2269-oppo-original-imag85qsuwthwthy.jpeg?q:70",
-      "brand": "OPPO A16 (Pearl Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹12,990",
-      "price": "₹15,990",
-      "id": 34
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q:70",
-      "brand": "realme C21Y (Cross Blue, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹9,499",
-      "price": "₹9,999",
-      "id": 35
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q:70",
-      "brand": "realme C21Y (Cross Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹10,499",
-      "price": "₹10,999",
-      "id": 36
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q:70",
-      "brand": "realme C21Y (Cross Black, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹9,499",
-      "price": "₹9,999",
-      "id": 37
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q:70",
-      "brand": "realme C21Y (Cross Black, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹10,499",
-      "price": "₹10,999",
-      "id": 38
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/mobile/m/w/x/itel-power-110-it5608-original-imafy7rmszbxuzcp.jpeg?q:70",
-      "brand": "Itel Power 110",
-      "specs": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
-      "battery": "2500 mAh Lithium-ion Battery",
-      "discount_price": "₹1,278",
-      "price": "₹1,349",
-      "id": 39
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q:70",
-      "brand": "APPLE iPhone 12 (White, 64 GB)",
-      "specs": "64 GB ROM",
-      "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
-      "discount_price": "₹52,999",
-      "price": "₹65,900",
-      "id": 40
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/l/d/r/-original-imagh3rhckpwhgyd.jpeg?q:70",
-      "brand": "realme C30 with Airtel Prepaid Offer (Denim Black, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Ion Battery",
-      "discount_price": "₹6,899",
-      "price": "₹8,499",
-      "id": 41
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/q/f/w/-original-imagcv2dgezfbfet.jpeg?q:70",
-      "brand": "POCO X4 Pro 5G (Laser Black, 64 GB)",
-      "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹15,999",
-      "price": "₹22,999",
-      "id": 42
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l4ln8nk0/mobile/6/s/i/-original-imagfgf9nf8psuyv.jpeg?q:70",
-      "brand": "OPPO A57 (Glowing Green, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹13,999",
-      "price": "₹16,990",
-      "id": 43
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn3i1zk0/mobile/o/o/k/it5626-it5626-itel-original-imagfugg7hbhf86g.jpeg?q:70",
-      "brand": "Itel IT5626",
-      "specs": "8 MB RAM | 8 MB ROM | Expandable Upto 32 GB",
-      "battery": "2500 mAh Lithium ion Battery",
-      "discount_price": "₹1,818",
-      "price": "₹1,849",
-      "id": 44
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l1whaq80/mobile/j/n/3/-original-imagdcqazsfcpe5p.jpeg?q:70",
-      "brand": "vivo Y21G (Midnight Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Battery",
-      "discount_price": "₹13,499",
-      "price": "₹17,990",
-      "id": 45
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/f/d/h/f19-pro-5g-cph2213-oppo-original-imagfz397gzbjxtb.jpeg?q:70",
-      "brand": "OPPO F19 Pro+ 5G (Space Silver, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "4310 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹19,990",
-      "price": "₹29,990",
-      "id": 46
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/x/o/a/-original-imagfhu75eupxyft.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Lithium Ion Battery",
-      "discount_price": "₹12,999",
-      "price": "₹16,999",
-      "id": 47
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kpbipow0/mobile/c/x/1/f19-cph2219-oppo-original-imag3kvkwxhhxjha.jpeg?q:70",
-      "brand": "OPPO F19 (Space Silver, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹17,490",
-      "price": "",
-      "id": 48
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/p/m/9/f19-pro-5g-cph2213-oppo-original-imagfz38hbzjhkqx.jpeg?q:70",
-      "brand": "OPPO F19 Pro+ 5G (Fluid Black, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "4310 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹25,690",
-      "price": "",
-      "id": 49
-    },
-    {
-     "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/p/m/9/f19-pro-5g-cph2213-oppo-original-imagfz38hbzjhkqx.jpeg?q:70",
-      "brand": "OPPO F19 Pro+ 5G (Fluid Black, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "4310 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹25,690",
-      "price": "",
-      "id": 50
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/w/0/6/-original-imagcv2dcyjzcmvd.jpeg?q:70",
-      "brand": "POCO X4 Pro 5G (Laser Blue, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹18,999",
-      "price": "₹25,999",
-      "id": 51
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kua4r680/mobile/g/a/r/9-active-m2006c3mii-redmi-original-imag7f5he4efhmtd.jpeg?q:70",
-      "brand": "REDMI 9 Activ (Metallic Purple, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium Polymer Battery",
-      "discount_price": "₹10,999",
-      "price": "₹12,999",
-      "id": 52
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjyscxm8fv.jpeg?q:70",
-      "brand": "APPLE iPhone SE (Black, 64 GB)",
-      "specs": "64 GB ROM",
-      "battery": "A13 Bionic Chip with 3rd Gen Neural Engine Processor",
-      "discount_price": "₹29,999",
-      "price": "₹39,900",
-      "id": 53
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/krtjgcw0/mobile/v/k/3/smart-5a-x657c-infinix-original-imag5gnz8pz7nmkk.jpeg?q:70",
-      "brand": "Infinix Smart 5A (Midnight Black, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Li-ion Polymer Battery",
-      "discount_price": "₹6,999",
-      "price": "₹7,999",
-      "id": 54
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku5ufm80/mobile/8/b/1/sport-9a-redmi-original-imag7chjvhxdhhyh.jpeg?q:70",
-      "brand": "Redmi 9A Sport (Carbon Black, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹7,614",
-      "price": "₹7,930",
-      "id": 55
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/5/x/x/-original-imaggt7cx43jqzpj.jpeg?q:70",
-      "brand": "Infinix Hot 12 Pro (Lightsaber Green, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹11,999",
-      "price": "₹15,999",
-      "id": 56
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kpsnzww0/mobile/s/l/k/k9-max-k9-max-karbonn-original-imag3ybtgpc9egzt.jpeg?q:70",
-      "brand": "KARBONN K9 max",
-      "specs": "64 MB RAM | 64 MB ROM",
-      "battery": "2500 mAh Battery",
-      "discount_price": "₹1,890",
-      "price": "",
-      "id": 57
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8dbzv8vh7t.jpeg?q:70",
-      "brand": "APPLE iPhone 12 (Red, 64 GB)",
-      "specs": "64 GB ROM",
-      "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
-      "discount_price": "₹52,999",
-      "price": "₹65,900",
-      "id": 58
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kzhbfrk0/mobile/c/g/n/k9-max-k9-max-black-karbonn-original-imagbh4xfygqyesz.jpeg?q:70",
-      "brand": "KARBONN K9 max",
-      "specs": "64 MB RAM | 64 MB ROM",
-      "battery": "2500 mAh Battery",
-      "discount_price": "₹1,395",
-      "price": "",
-      "id": 59
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ktn9pjk0/mobile/r/t/m/x413-blue-x413-micromax-original-imag6xzak7k4gjrg.jpeg?q:70",
-      "brand": "Micromax X413",
-      "specs": "32 MB RAM | 32 MB ROM",
-      "battery": "800 mAh Battery",
-      "discount_price": "₹1,049",
-      "price": "",
-      "id": 60
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/g/h/4/note-11t-21091116ai-mzb0a8qin-redmi-original-imag9g37hzxggjgg.jpeg?q:70",
-      "brand": "REDMI Note 11T 5G (Stardust White, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹15,641",
-      "price": "₹17,099",
-      "id": 61
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/t/q/o/note-11t-5g-21091116ai-mzb0a8qin-redmi-original-imag9g3wygd8829v.jpeg?q:70",
-      "brand": "REDMI Note 11T 5G (Aquamarine Blue, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹16,468",
-      "price": "₹16,647",
-      "id": 62
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/n/g/galaxy-m32-b096vd213d-samsung-original-imag4pfh5k9anrfc.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy M32 (Light Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "6000 mAh Battery",
-      "discount_price": "₹12,328",
-      "price": "₹13,499",
-      "id": 63
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ko0d6kw0/mobile/6/h/y/iphone-12-mjnm3hn-a-apple-original-imag2k2v6ehvnzfd.jpeg?q:70",
-      "brand": "APPLE iPhone 12 (Purple, 64 GB)",
-      "specs": "64 GB ROM",
-      "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
-      "discount_price": "₹59,999",
-      "price": "₹65,900",
-      "id": 64
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l2f20sw0/mobile/n/t/p/10a-b09xb6tk6v-redmi-original-imagdrghghkneesf.jpeg?q:70",
-      "brand": "REDMI 10A (Sea Blue, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹8,820",
-      "price": "₹8,949",
-      "id": 65
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/g/l/5/-original-imagdu8j9k3ejjc3.jpeg?q:70",
-      "brand": "POCO M4 5G (Yellow, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium Ion Polymer Battery",
-      "discount_price": "₹12,999",
-      "price": "₹18,999",
-      "id": 66
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kylvr0w0/mobile/u/q/4/pova-neo-le6-tecno-original-imagatye3ymtmcpt.jpeg?q:70",
-      "brand": "Tecno Pova Neo (Obsidian Black, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
-      "battery": "6000 mAh Battery",
-      "discount_price": "₹12,420",
-      "price": "₹12,779",
-      "id": 67
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/mobile/z/f/w/itel-power-100-new-it5607-original-imafy7rnczkvpxbc.jpeg?q:70",
-      "brand": "Itel Power 100 New",
-      "specs": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
-      "battery": "2500 mAh Lithium-ion Battery",
-      "discount_price": "₹1,288",
-      "price": "₹1,359",
-      "id": 68
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn6cxow0/mobile/q/4/z/guru-music-2-sm-b310ezkdins-samsung-original-imagfwzxgcgd3va3.jpeg?q:70",
-      "brand": "SAMSUNG Guru Music 2",
-      "specs": "NA ROM",
-      "battery": "1 Year Manufacturer Warranty",
-      "discount_price": "₹1,850",
-      "price": "₹1,950",
-      "id": 69
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l5bd5zk0/mobile/v/1/p/-original-imaggygkjbeqvvfw.jpeg?q:70",
-      "brand": "Infinix Note 12 5G (Snowfall, 64 GB)",
-      "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
-      "battery": "5000 mAh Li-ion Polymer Battery",
-      "discount_price": "₹14,999",
-      "price": "₹19,999",
-      "id": 70
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l5bd5zk0/mobile/s/i/j/-original-imaggygkm7grhrxf.jpeg?q:70",
-      "brand": "Infinix Note 12 5G (Force Black, 64 GB)",
-      "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
-      "battery": "5000 mAh Li-ion Polymer Battery",
-      "discount_price": "₹14,999",
-      "price": "₹19,999",
-      "id": 71
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l1ch4sw0/mobile/f/t/n/-original-imagcx87hnxb3v2u.jpeg?q:70",
-      "brand": "Infinix Hot 11 2022 (Aurora Green, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Li-ion Polymer Battery",
-      "discount_price": "₹8,999",
-      "price": "₹12,999",
-      "id": 72
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kv9urgw0/mobile/y/f/4/2g-dual-sim-2-4-inch-display-32-mb-storage-0-8-mp-camera-vga-original-imag87pzysh9yvkt.jpeg?q:70",
-      "brand": "IAIR S19",
-      "specs": "32 MB RAM | 32 MB ROM",
-      "battery": "2800 mAh Battery",
-      "discount_price": "₹1,539",
-      "price": "",
-      "id": 73
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l3hmwsw0/mobile/l/k/q/-original-imagehzbaw2wugme.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Ion Battery",
-      "discount_price": "₹15,999",
-      "price": "₹22,999",
-      "id": 74
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l3hmwsw0/mobile/l/k/q/-original-imagehzbaw2wugme.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Ion Battery",
-      "discount_price": "₹15,999",
-      "price": "₹22,999",
-      "id": 75
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kfmv9u80/mobile/p/p/w/nokia-125-12gmnb21a02-original-imafwfrfc3s2gayp.jpeg?q:70",
-      "brand": "Nokia 125 DS 2020",
-      "specs": "4 MB RAM | 4 MB ROM",
-      "battery": "MediaTek Processor",
-      "discount_price": "₹2,099",
-      "price": "₹2,399",
-      "id": 76
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/v/5/e/galaxy-f42-5g-sm-e426bzahins-samsung-original-imag7anfwxsgumgz.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy F42 5G (Matte Black, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Battery",
-      "discount_price": "₹17,999",
-      "price": "₹23,999",
-      "id": 77
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kmjhw280/mobile/l/i/s/galaxy-m12-galaxy-m12-samsung-original-imagffyujuzhbuz7.jpeg?q:70",
-      "brand": "SAMSUNG Galaxy M12 (White, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM",
-      "battery": "6000 mAh Battery",
-      "discount_price": "₹11,199",
-      "price": "",
-      "id": 78
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l01blow0/mobile/x/s/z/note-11s-2201117sl-redmi-original-imagbwx4mqamdbzj.jpeg?q:70",
-      "brand": "REDMI Note 11S (Horizon Blue, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹17,729",
-      "price": "₹18,292",
-      "id": 79
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kjswia80/mobile/i/s/d/a15s-cph2179-oppo-original-imafzapzntzqtfhh.jpeg?q:70",
-      "brand": "OPPO A15s (Dynamic Black, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM",
-      "battery": "4230 mAh Battery",
-      "discount_price": "₹11,498",
-      "price": "",
-      "id": 80
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kydb3ww0/mobile/d/c/l/-original-imagahj8tnvgzm8r.jpeg?q:70",
-      "brand": "vivo Y21T (Midnight Blue, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Battery",
-      "discount_price": "₹15,499",
-      "price": "₹19,990",
-      "id": 81
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kydb3ww0/mobile/h/z/e/-original-imagahj8kauqpzmf.jpeg?q:70",
-      "brand": "vivo Y21T (Pearl White, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium Battery",
-      "discount_price": "₹15,499",
-      "price": "₹19,990",
-      "id": 82
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kulk9zk0/mobile/r/t/k/d20-d20-iair-original-imag7zrh2qrsb9vv.jpeg?q:70",
-      "brand":
-        "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera...",
-      "specs": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
-      "battery": "1200 mAh Battery",
-      "discount_price": "₹999",
-      "price": "",
-      "id": 83
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q:70",
-      "brand": "realme C21 (Cross Black, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹9,499",
-      "price": "₹9,999",
-      "id": 84
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0zm64w0/mobile/l/y/t/-original-imagcntwearctmyj.jpeg?q:70",
-      "brand": "Itel A49 (Sky Cyan, 32 GB)",
-      "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 128 GB",
-      "battery": "4000 mAh Li-Polymer Battery",
-      "discount_price": "₹6,385",
-      "price": "₹6,395",
-      "id": 85
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/w/g/r/mi-redmi-9a-b08696xb4b-original-imafve7pjpemhwk5.jpeg?q:70",
-      "brand": "Redmi 9A (Sea Blue, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹7,979",
-      "price": "₹8,599",
-      "id": 86
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kjbr8280/mobile/w/3/f/lava-34-ultra-34-ultra-original-imafywyjhrhtexg5.jpeg?q:70",
-      "brand": "LAVA 34 Ultra",
-      "specs": "24 MB RAM | 32 MB ROM | Expandable Upto 64 GB",
-      "battery": "2575 mAh Li-ion Battery",
-      "discount_price": "₹1,770",
-      "price": "",
-      "id": 87
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/ky7lci80/mobile/k/b/g/-original-imagagf6fzbhuhny.jpeg?q:70",
-      "brand": "Xiaomi 11i Hypercharge 5G (Purple Mist, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "4500 mAh Li-Polymer Battery",
-      "discount_price": "₹28,999",
-      "price": "₹33,999",
-      "id": 88
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/k0lbdzk0/mobile/h/n/f/karbonn-k9-na-original-imafkcquxdnhckkx.jpeg?q:70",
-      "brand": "KARBONN Jumbo K9",
-      "specs": "Expandable Upto 8 GB",
-      "battery": "1800 mAh Li-Ion Battery",
-      "discount_price": "₹1,349",
-      "price": "",
-      "id": 89
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kyrlifk0/mobile/y/e/f/k310i-k310i-karbonn-original-imagaxgcsyxvsq5p.jpeg?q:70",
-      "brand": "KARBONN K310i",
-      "specs": "10 MB RAM | 10 MB ROM",
-      "battery": "1 Year Warranty",
-      "discount_price": "₹899",
-      "price": "",
-      "id": 90
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l15bxjk0/mobile/a/j/z/spark-8c-kg5k-tecno-original-imagcs2hcfugw7xt.jpeg?q:70",
-      "brand": "Tecno Spark 8C (Iris Purple, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹9,848",
-      "price": "",
-      "id": 91
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/knoxnrk0/mobile/4/b/p/m2-reloaded-mzb0957in-poco-original-imag2aqyhdfvsty8.jpeg?q:70",
-      "brand": "POCO M2 Reloaded (Greyish Black, 64 GB)",
-      "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Lithium Polymer Battery",
-      "discount_price": "₹10,890",
-      "price": "",
-      "id": 92
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l08gsy80/mobile/k/q/d/spark-8c-kg5k-tecno-original-imagc2abg78mghvg.jpeg?q:70",
-      "brand": "Tecno Spark 8C (Magnet Black, 64 GB)",
-      "specs": "3 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹8,849",
-      "price": "₹8,899",
-      "id": 93
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kjx6tu80/mobile/c/e/8/oppo-a12-cph2083-original-imafze3h8d7n7jnh.jpeg?q:70",
-      "brand": "OPPO A12 (Deep Blue, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "4230 mAh Battery",
-      "discount_price": "₹9,990",
-      "price": "₹10,990",
-      "id": 94
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kb1470w0/mobile/q/g/g/oppo-a12-cph2083-original-imafsh2hfkyamqyt.jpeg?q:70",
-      "brand": "OPPO A12 (Blue, 32 GB)",
-      "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
-      "battery": "4230 mAh Battery",
-      "discount_price": "₹9,990",
-      "price": "₹10,990",
-      "id": 95
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/6/8/o/-original-imagcafj5zcxz9wg.jpeg?q:70",
-      "brand": "POCO M4 Pro 5G (Power Black, 128 GB)",
-      "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
-      "battery": "5000 mAh Lithium-ion Polymer Battery",
-      "discount_price": "₹16,999",
-      "price": "₹21,999",
-      "id": 96
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/t/e/b/k50i-5g-22041216i-redmi-original-imagghcw3htf3heg.jpeg?q:70",
-      "brand": "REDMI K50i 5G (Stealth Black, 128 GB)",
-      "specs": "6 GB RAM | 128 GB ROM",
-      "battery": "5080 mAh Battery",
-      "discount_price": "₹25,900",
-      "price": "",
-      "id": 97
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kr9jafk0/mobile/h/f/0/k66-the-music-house-4-k66-kechaoda-original-imag53k6x8h4grm6.jpeg?q:70",
-      "brand": "Kechaoda K66 The Music House 4",
-      "specs": "32 MB RAM | 64 MB ROM | Expandable Upto 32 GB",
-      "battery": "400 mAh Battery",
-      "discount_price": "₹1,199",
-      "price": "₹1,280",
-      "id": 98
-    },
-    {
-      "image":
-        "https://rukminim1.flixcart.com/image/312/312/kxuqdu80/mobile/u/9/q/camon-18-ch6h-tecno-original-imaga7hwefnrytpy.jpeg?q:70",
-      "brand": "Tecno Camon 18 (Dusk Grey, 128 GB)",
-      "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
-      "battery": "5000 mAh Battery",
-      "discount_price": "₹12,999",
-      "price": "",
-      "id": 99
-    }
+      "id": 21,
+      "description": "The SAMSUNG Galaxy F13 in Waterfall Blue is a powerful and stylish smartphone designed to meet your daily needs. It comes with 4 GB RAM and 64 GB ROM, expandable up to 1 TB, providing ample storage for your apps, photos, and videos. The 5000 mAh Battery ensures long-lasting performance, keeping you connected and entertained throughout the day."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/b/o/m/c31-mzb0a0min-poco-original-imag7bzqxekkpkrv.jpeg?q:70",
+        "brand": "POCO C31 (Shadow Gray, 32 GB)",
+        "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹6,999",
+        "price": "₹10,999",
+        "id": 22,
+        "description": "The POCO C31 features a stylish Shadow Gray design with 32 GB of internal storage. It has 3 GB of RAM and supports expandable storage up to 512 GB. The phone is powered by a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kyeqjrk0/mobile/u/0/8/-original-imagan9qhw9nyhce.jpeg?q:70",
+        "brand": "REDMI Note 10S (Shadow Black, 64 GB)",
+        "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+        "battery": "5000 mAh Lithium-Ploymer Battery",
+        "discount_price": "₹12,499",
+        "price": "₹16,999",
+        "id": 23,
+        "description": "The REDMI Note 10S comes in a sleek Shadow Black color with 64 GB of internal storage. It has 6 GB of RAM and supports expandable storage up to 512 GB. The phone is equipped with a 5000 mAh Lithium-Ploymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/h/b/c/narzo-50i-rmx3231-realme-original-imag75hcyzzggbat.jpeg?q:70",
+        "brand": "realme Narzo 50i (Carbon Black, 32 GB)",
+        "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹7,499",
+        "price": "₹7,999",
+        "id": 24,
+        "description": "The realme Narzo 50i comes in a sleek Carbon Black color with 32 GB of internal storage. It has 2 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/v/c/i/-original-imagcv2dpkd75r6z.jpeg?q:70",
+        "brand": "POCO X4 Pro 5G (Yellow, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹18,999",
+        "price": "₹25,999",
+        "id": 25,
+        "description": "The POCO X4 Pro 5G features a vibrant Yellow color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 1 TB. The phone is equipped with a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/v/c/i/-original-imagcv2dpkd75r6z.jpeg?q:70",
+        "brand": "POCO X4 Pro 5G (Yellow, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹18,999",
+        "price": "₹25,999",
+        "id": 26,
+        "description": "The POCO X4 Pro 5G features a vibrant Yellow color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 1 TB. The phone is equipped with a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kq18n0w0/mobile/d/b/6/narzo-30-5g-rmx3242-realme-original-imag45yjub2vdrzx.jpeg?q:70",
+        "brand": "realme Narzo 30 5G (Racing Silver, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹16,999",
+        "price": "₹17,999",
+        "id": 27,
+        "description": "The realme Narzo 30 5G comes in a stylish Racing Silver color with 128 GB of internal storage. It has 6 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/h/b/c/narzo-50i-rmx3231-realme-original-imag75hcyzzggbat.jpeg?q:70",
+        "brand": "realme Narzo 50i (Carbon Black, 32 GB)",
+        "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹7,499",
+        "price": "₹7,999",
+        "id": 28,
+        "description": "The realme Narzo 50i comes in a sleek Carbon Black color with 32 GB of internal storage. It has 2 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/y/j/4/-original-imagcaaw4d7bv7pj.jpeg?q:70",
+        "brand": "REDMI Note 10T 5G (Metallic Blue, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM",
+        "battery": "5000 mAh Lithium Polymer Battery",
+        "discount_price": "₹13,999",
+        "price": "₹18,999",
+        "id": 29,
+        "description": "The REDMI Note 10T 5G comes in a stylish Metallic Blue color with 128 GB of internal storage. It has 6 GB of RAM and does not support expandable storage. The phone is equipped with a 5000 mAh Lithium Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/a/6/b/-original-imagc7tdwfp2gz4h.jpeg?q:70",
+        "brand": "POCO M4 Pro (Yellow, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹14,999",
+        "price": "₹21,999",
+        "id": 30,
+        "description": "The POCO M4 Pro comes in a vibrant Yellow color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 1 TB. The phone is equipped with a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/s/o/j/narzo-50i-rmx3231-realme-original-imag75h86v5thnzy.jpeg?q:70",
+        "brand": "realme Narzo 50i (Mint Green, 32 GB)",
+        "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹7,499",
+        "price": "₹7,999",
+        "id": 31,
+        "description": "The realme Narzo 50i comes in a refreshing Mint Green color with 32 GB of internal storage. It has 2 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ktx9si80/mobile/s/o/j/narzo-50i-rmx3231-realme-original-imag75h86v5thnzy.jpeg?q:70",
+        "brand": "realme Narzo 50i (Mint Green, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹8,999",
+        "price": "₹9,999",
+        "id": 32,
+        "description": "The realme Narzo 50i comes in a refreshing Mint Green color with 64 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/1/k/g/-original-imagc7ukmgugpdfy.jpeg?q:70",
+        "brand": "Realme 35 (Blue, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹14,999",
+        "price": "₹21,999",
+        "id": 33,
+        "description": "The POCO M4 Pro comes in a vibrant Blue color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 1 TB. The phone is equipped with a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kv6zvrk0/mobile/n/a/s/a16-cph2269-oppo-original-imag85qsuwthwthy.jpeg?q:70",
+        "brand": "OPPO A16 (Pearl Blue, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹12,990",
+        "price": "₹15,990",
+        "id": 34,
+        "description": "The OPPO A16 comes in a stylish Pearl Blue color with 64 GB of internal storage. It has 4 GB of RAM and is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q:70",
+        "brand": "realme C21Y (Cross Blue, 32 GB)",
+        "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹9,499",
+        "price": "₹9,999",
+        "id": 35,
+        "description": "The realme C21Y comes in a stylish Cross Blue color with 32 GB of internal storage. It has 3 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/k/o/m/c21y-rmx3261-realme-original-imag65kcytrk8dtr.jpeg?q:70",
+        "brand": "realme C21Y (Cross Blue, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹10,499",
+        "price": "₹10,999",
+        "id": 36,
+        "description": "The realme C21Y comes in a stylish Cross Blue color with 64 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q:70",
+        "brand": "realme C21Y (Cross Black, 32 GB)",
+        "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹9,499",
+        "price": "₹9,999",
+        "id": 37,
+        "description": "The realme C21Y comes in a stylish Cross Black color with 32 GB of internal storage. It has 3 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ksnjp8w0/mobile/h/u/u/c21y-rmx3261-realme-original-imag65kcafgjqknz.jpeg?q:70",
+        "brand": "realme C21Y (Cross Black, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹10,499",
+        "price": "₹10,999",
+        "id": 38,
+        "description": "The realme C21Y comes in a stylish Cross Black color with 64 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/mobile/m/w/x/itel-power-110-it5608-original-imafy7rmszbxuzcp.jpeg?q:70",
+        "brand": "Itel Power 110",
+        "specs": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+        "battery": "2500 mAh Lithium-ion Battery",
+        "discount_price": "₹1,278",
+        "price": "₹1,349",
+        "id": 39,
+        "description": "The Itel Power 110 comes with 4 MB of RAM and 4 MB of internal storage. It supports expandable storage up to 32 GB and is powered by a 2500 mAh Lithium-ion Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/j/f/9/apple-iphone-12-dummyapplefsn-original-imafwg8dkyh2zgrh.jpeg?q:70",
+        "brand": "APPLE iPhone 12 (White, 64 GB)",
+        "specs": "64 GB ROM",
+        "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
+        "discount_price": "₹52,999",
+        "price": "₹65,900",
+        "id": 40,
+        "description": "The APPLE iPhone 12 comes in a stunning White color with 64 GB of internal storage. It features a powerful A14 Bionic Chip with Next Generation Neural Engine Processor."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/l/d/r/-original-imagh3rhckpwhgyd.jpeg?q:70",
+        "brand": "realme C30 with Airtel Prepaid Offer (Denim Black, 32 GB)",
+        "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium Ion Battery",
+        "discount_price": "₹6,899",
+        "price": "₹8,499",
+        "id": 41,
+        "description": "The realme C30 with Airtel Prepaid Offer comes in a stylish Denim Black color with 32 GB of internal storage. It has 2 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Lithium Ion Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/q/f/w/-original-imagcv2dgezfbfet.jpeg?q:70",
+        "brand": "POCO X4 Pro 5G (Laser Black, 64 GB)",
+        "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹15,999",
+        "price": "₹22,999",
+        "id": 42,
+        "description": "The POCO X4 Pro 5G comes in a stylish Laser Black color with 64 GB of internal storage. It has 6 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l4ln8nk0/mobile/6/s/i/-original-imagfgf9nf8psuyv.jpeg?q:70",
+        "brand": "OPPO A57 (Glowing Green, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹13,999",
+        "price": "₹16,990",
+        "id": 43,
+        "description": "The OPPO A57 comes in a vibrant Glowing Green color with 64 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kn3i1zk0/mobile/o/o/k/it5626-it5626-itel-original-imagfugg7hbhf86g.jpeg?q:70",
+        "brand": "Itel IT5626",
+        "specs": "8 MB RAM | 8 MB ROM | Expandable Upto 32 GB",
+        "battery": "2500 mAh Lithium-ion Battery",
+        "discount_price": "₹1,818",
+        "price": "₹1,849",
+        "id": 44,
+        "description": "The Itel IT5626 comes with 8 MB of RAM and 8 MB of internal storage. It supports expandable storage up to 32 GB and is powered by a 2500 mAh Lithium-ion Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l1whaq80/mobile/j/n/3/-original-imagdcqazsfcpe5p.jpeg?q:70",
+        "brand": "vivo Y21G (Midnight Blue, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium Battery",
+        "discount_price": "₹13,499",
+        "price": "₹17,990",
+        "id": 45,
+        "description": "The vivo Y21G comes in a sleek Midnight Blue color with 64 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Lithium Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/f/d/h/f19-pro-5g-cph2213-oppo-original-imagfz397gzbjxtb.jpeg?q:70",
+        "brand": "OPPO F19 Pro+ 5G (Space Silver, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "4310 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹19,990",
+        "price": "₹29,990",
+        "id": 46,
+        "description": "The OPPO F19 Pro+ 5G comes in a stylish Space Silver color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 4310 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/mobile/x/o/a/-original-imagfhu75eupxyft.jpeg?q:70",
+        "brand": "SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",
+        "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "6000 mAh Lithium Ion Battery",
+        "discount_price": "₹12,999",
+        "price": "₹16,999",
+        "id": 47,
+        "description": "The SAMSUNG Galaxy F13 comes in a stunning Waterfall Blue color with 128 GB of internal storage. It has 4 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 6000 mAh Lithium Ion Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kpbipow0/mobile/c/x/1/f19-cph2219-oppo-original-imag3kvkwxhhxjha.jpeg?q:70",
+        "brand": "OPPO F19 (Space Silver, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹17,490",
+        "price": "",
+        "id": 48,
+        "description": "The OPPO F19 comes in an elegant Space Silver color with 128 GB of internal storage. It has 6 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/p/m/9/f19-pro-5g-cph2213-oppo-original-imagfz38hbzjhkqx.jpeg?q:70",
+        "brand": "OPPO F19 Pro+ 5G (Fluid Black, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "4310 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹25,690",
+        "price": "",
+        "id": 49,
+        "description": "The OPPO F19 Pro+ 5G comes in a sleek Fluid Black color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 4310 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kn97te80/mobile/p/m/9/f19-pro-5g-cph2213-oppo-original-imagfz38hbzjhkqx.jpeg?q:70",
+        "brand": "OPPO F19 Pro+ 5G (Fluid Black, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "4310 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹25,690",
+        "price": "",
+        "id": 50,
+        "description": "The OPPO F19 Pro+ 5G comes in a sleek Fluid Black color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 4310 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l19m93k0/mobile/w/0/6/-original-imagcv2dcyjzcmvd.jpeg?q:70",
+        "brand": "POCO X4 Pro 5G (Laser Blue, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹18,999",
+        "price": "₹25,999",
+        "id": 51,
+        "description": "The POCO X4 Pro 5G comes in a vibrant Laser Blue color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 1 TB. The phone is powered by a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kua4r680/mobile/g/a/r/9-active-m2006c3mii-redmi-original-imag7f5he4efhmtd.jpeg?q:70",
+        "brand": "REDMI 9 Activ (Metallic Purple, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+        "battery": "5000 mAh Lithium Polymer Battery",
+        "discount_price": "₹10,999",
+        "price": "₹12,999",
+        "id": 52,
+        "description": "The REDMI 9 Activ comes in a stylish Metallic Purple color with 128 GB of internal storage. It has 6 GB of RAM and supports expandable storage up to 512 GB. The phone is powered by a 5000 mAh Lithium Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/k9loccw0/mobile/p/z/q/apple-iphone-se-mxd02hn-a-original-imafrcpjyscxm8fv.jpeg?q:70",
+        "brand": "APPLE iPhone SE (Black, 64 GB)",
+        "specs": "64 GB ROM",
+        "battery": "A13 Bionic Chip with 3rd Gen Neural Engine Processor",
+        "discount_price": "₹29,999",
+        "price": "₹39,900",
+        "id": 53,
+        "description": "The APPLE iPhone SE comes in a sleek Black color with 64 GB of internal storage. It features a powerful A13 Bionic Chip with 3rd Gen Neural Engine Processor."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/krtjgcw0/mobile/v/k/3/smart-5a-x657c-infinix-original-imag5gnz8pz7nmkk.jpeg?q:70",
+        "brand": "Infinix Smart 5A (Midnight Black, 32 GB)",
+        "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Li-ion Polymer Battery",
+        "discount_price": "₹6,999",
+        "price": "₹7,999",
+        "id": 54,
+        "description": "The Infinix Smart 5A comes in a sleek Midnight Black color with 32 GB of internal storage. It has 2 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Li-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ku5ufm80/mobile/8/b/1/sport-9a-redmi-original-imag7chjvhxdhhyh.jpeg?q:70",
+        "brand": "Redmi 9A Sport (Carbon Black, 32 GB)",
+        "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹7,614",
+        "price": "₹7,930",
+        "id": 55,
+        "description": "The Redmi 9A Sport comes in a stylish Carbon Black color with 32 GB of internal storage. It has 3 GB of RAM and supports expandable storage up to 512 GB. The phone is powered by a 5000 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/5/x/x/-original-imaggt7cx43jqzpj.jpeg?q:70",
+        "brand": "Infinix Hot 12 Pro (Lightsaber Green, 128 GB)",
+        "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "5000 mAh Lithium-ion Polymer Battery",
+        "discount_price": "₹11,999",
+        "price": "₹15,999",
+        "id": 56,
+        "description": "The Infinix Hot 12 Pro comes in a vibrant Lightsaber Green color with 128 GB of internal storage. It has 8 GB of RAM and supports expandable storage up to 256 GB. The phone is powered by a 5000 mAh Lithium-ion Polymer Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kpsnzww0/mobile/s/l/k/k9-max-k9-max-karbonn-original-imag3ybtgpc9egzt.jpeg?q:70",
+        "brand": "KARBONN K9 max",
+        "specs": "64 MB RAM | 64 MB ROM",
+        "battery": "2500 mAh Battery",
+        "discount_price": "₹1,890",
+        "price": "",
+        "id": 57,
+        "description": "The KARBONN K9 max features 64 MB of RAM and 64 MB of ROM. It is powered by a 2500 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/q/8/f/apple-iphone-12-dummyapplefsn-original-imafwg8dbzv8vh7t.jpeg?q:70",
+        "brand": "APPLE iPhone 12 (Red, 64 GB)",
+        "specs": "64 GB ROM",
+        "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
+        "discount_price": "₹52,999",
+        "price": "₹65,900",
+        "id": 58,
+        "description": "The APPLE iPhone 12 comes in a stunning Red color with 64 GB of internal storage. It features a powerful A14 Bionic Chip with Next Generation Neural Engine Processor."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kzhbfrk0/mobile/c/g/n/k9-max-k9-max-black-karbonn-original-imagbh4xfygqyesz.jpeg?q:70",
+        "brand": "KARBONN K9 max",
+        "specs": "64 MB RAM | 64 MB ROM",
+        "battery": "2500 mAh Battery",
+        "discount_price": "₹1,395",
+        "price": "",
+        "id": 59,
+        "description": "The KARBONN K9 max features 64 MB of RAM and 64 MB of ROM. It is powered by a 2500 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ktn9pjk0/mobile/r/t/m/x413-blue-x413-micromax-original-imag6xzak7k4gjrg.jpeg?q:70",
+        "brand": "Micromax X413",
+        "specs": "32 MB RAM | 32 MB ROM",
+        "battery": "800 mAh Battery",
+        "discount_price": "₹1,049",
+        "price": "",
+        "id": 60,
+        "description": "The Micromax X413 features 32 MB of RAM and 32 MB of ROM. It is powered by an 800 mAh Battery."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/g/h/4/note-11t-21091116ai-mzb0a8qin-redmi-original-imag9g37hzxggjgg.jpeg?q:70",
+        "brand": "REDMI Note 11T 5G (Stardust White, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹15,641",
+        "price": "₹17,099",
+        "id": 61,
+        "description": "The REDMI Note 11T 5G features a stunning Stardust White color. It comes with 6 GB RAM and 128 GB of internal storage, providing ample space for your apps and files. The device is equipped with a powerful 5000 mAh battery, ensuring long-lasting usage. With its 5G connectivity, you can enjoy high-speed internet browsing and smooth streaming. Grab this smartphone at a discounted price of ₹15,641."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/t/q/o/note-11t-5g-21091116ai-mzb0a8qin-redmi-original-imag9g3wygd8829v.jpeg?q:70",
+        "brand": "REDMI Note 11T 5G (Aquamarine Blue, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹16,468",
+        "price": "₹16,647",
+        "id": 62,
+        "description": "Get mesmerized by the Aquamarine Blue color of the REDMI Note 11T 5G. It comes with 6 GB RAM and 128 GB of internal storage, allowing you to store all your favorite content. The powerful 5000 mAh battery ensures that you stay connected all day long. With 5G capability, you can experience blazing-fast internet speeds. Avail a discount and purchase this smartphone for just ₹16,468."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/n/g/galaxy-m32-b096vd213d-samsung-original-imag4pfh5k9anrfc.jpeg?q:70",
+        "brand": "SAMSUNG Galaxy M32 (Light Blue, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "battery": "6000 mAh Battery",
+        "discount_price": "₹12,328",
+        "price": "₹13,499",
+        "id": 63,
+        "description": "Experience the elegance of the Light Blue variant of the SAMSUNG Galaxy M32. It offers 4 GB RAM and 64 GB of internal storage, which can be expanded up to 1 TB. The device is powered by a robust 6000 mAh battery, ensuring a long-lasting performance. Capture stunning photos and videos with its advanced camera system. Purchase this smartphone now at a discounted price of ₹12,328."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/ko0d6kw0/mobile/6/h/y/iphone-12-mjnm3hn-a-apple-original-imag2k2v6ehvnzfd.jpeg?q:70",
+        "brand": "APPLE iPhone 12 (Purple, 64 GB)",
+        "specs": "64 GB ROM",
+        "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
+        "discount_price": "₹59,999",
+        "price": "₹65,900",
+        "id": 64,
+        "description": "Introducing the stunning Purple variant of the APPLE iPhone 12. It offers 64 GB of internal storage, providing ample space for your apps and media. The device is powered by the A14 Bionic Chip, delivering fast and efficient performance. Capture breathtaking photos and videos with its advanced camera system. Own this iconic smartphone at a discounted price of ₹59,999."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l2f20sw0/mobile/n/t/p/10a-b09xb6tk6v-redmi-original-imagdrghghkneesf.jpeg?q:70",
+        "brand": "REDMI 10A (Sea Blue, 64 GB)",
+        "specs": "4 GB RAM | 64 GB ROM",
+        "battery": "5000 mAh Battery",
+        "discount_price": "₹8,820",
+        "price": "₹8,949",
+        "id": 65,
+        "description": "The REDMI 10A comes in a stylish Sea Blue color. It offers 4 GB RAM and 64 GB of internal storage, providing ample space for your apps and files. The device is equipped with a powerful 5000 mAh battery, ensuring long-lasting usage. Capture stunning photos and videos with its impressive camera setup. Avail a discount and purchase this smartphone for just ₹8,820."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/g/l/5/-original-imagdu8j9k3ejjc3.jpeg?q:70",
+        "brand": "POCO M4 5G (Yellow, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+        "battery": "5000 mAh Lithium Ion Polymer Battery",
+        "discount_price": "₹12,999",
+        "price": "₹18,999",
+        "id": 66,
+        "description": "Experience the vibrant Yellow color of the POCO M4 5G. It comes with 6 GB RAM and 128 GB of internal storage, which can be expanded up to 512 GB. The device is powered by a reliable 5000 mAh battery, offering extended usage. Capture stunning photos and enjoy immersive entertainment on its large display. Purchase this smartphone at a discounted price of ₹12,999."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kylvr0w0/mobile/u/q/4/pova-neo-le6-tecno-original-imagatye3ymtmcpt.jpeg?q:70",
+        "brand": "Tecno Pova Neo (Obsidian Black, 128 GB)",
+        "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+        "battery": "6000 mAh Battery",
+        "discount_price": "₹12,420",
+        "price": "₹12,779",
+        "id": 67,
+        "description": "Get the Tecno Pova Neo in the elegant Obsidian Black color. It offers 6 GB RAM and 128 GB of internal storage, which can be expanded up to 256 GB. The device is powered by a long-lasting 6000 mAh battery, ensuring uninterrupted usage. Enjoy a smooth and immersive user experience on its large display. Avail a discount and own this smartphone for just ₹12,420."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/mobile/z/f/w/itel-power-100-new-it5607-original-imafy7rnczkvpxbc.jpeg?q:70",
+        "brand": "Itel Power 100 New",
+        "specs": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+        "battery": "2500 mAh Lithium-ion Battery",
+        "discount_price": "₹1,288",
+        "price": "₹1,359",
+        "id": 68,
+        "description": "The Itel Power 100 New is a reliable and affordable feature phone. It offers 4 MB RAM and 4 MB of internal storage, which can be expanded up to 32 GB. The device is equipped with a 2500 mAh battery, ensuring decent usage time. Stay connected with its basic communication features. Purchase this feature phone now at a discounted price of ₹1,288."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/kn6cxow0/mobile/q/4/z/guru-music-2-sm-b310ezkdins-samsung-original-imagfwzxgcgd3va3.jpeg?q:70",
+        "brand": "SAMSUNG Guru Music 2",
+        "specs": "NA ROM",
+        "battery": "1 Year Manufacturer Warranty",
+        "discount_price": "₹1,850",
+        "price": "₹1,950",
+        "id": 69,
+        "description": "The SAMSUNG Guru Music 2 is a classic feature phone with a focus on music. It offers ample storage for your music collection. The device comes with a long-lasting battery and a 1-year manufacturer warranty. Stay connected and enjoy your favorite tunes on this reliable feature phone. Purchase it now at a discounted price of ₹1,850."
+      },
+      {
+        "image": "https://rukminim1.flixcart.com/image/312/312/l5bd5zk0/mobile/v/1/p/-original-imaggygkjbeqvvfw.jpeg?q:70",
+        "brand": "Infinix Note 12 5G (Snowfall, 64 GB)",
+        "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+        "battery": "5000 mAh Li-ion Polymer Battery",
+        "discount_price": "₹14,999",
+        "price": "₹19,999",
+        "id": 70,
+        "description": "Experience the beauty of the Snowfall color variant of the Infinix Note 12 5G. It offers 6 GB RAM and 64 GB of internal storage, which can be expanded up to 2 TB. The device is equipped with a powerful 5000 mAh battery, ensuring a long-lasting performance. Capture stunning photos and enjoy immersive visuals on its large display. Avail a discount and purchase this smartphone for just ₹14,999."
+      },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/g/h/4/note-11t-21091116ai-mzb0a8qin-redmi-original-imag9g37hzxggjgg.jpeg?q:70",
+          "brand": "REDMI Note 11T 5G (Stardust White, 128 GB)",
+          "specs" : "6 GB RAM | 128 GB ROM",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹15,641",
+          "price": "₹17,099",
+          "id": 61,
+          "description": "The REDMI Note 11T 5G features a stunning Stardust White color. It comes with 6 GB RAM and 128 GB of internal storage, providing ample space for your apps and files. The device is equipped with a powerful 5000 mAh battery, ensuring long-lasting usage. With its 5G connectivity, you can enjoy high-speed internet browsing and smooth streaming. Grab this smartphone at a discounted price of ₹15,641."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kwv0djk0/mobile/t/q/o/note-11t-5g-21091116ai-mzb0a8qin-redmi-original-imag9g3wygd8829v.jpeg?q:70",
+          "brand": "REDMI Note 11T 5G (Aquamarine Blue, 128 GB)",
+          "specs": "6 GB RAM | 128 GB ROM",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹16,468",
+          "price": "₹16,647",
+          "id": 62,
+          "description": "Get mesmerized by the Aquamarine Blue color of the REDMI Note 11T 5G. It comes with 6 GB RAM and 128 GB of internal storage, allowing you to store all your favorite content. The powerful 5000 mAh battery ensures that you stay connected all day long. With 5G capability, you can experience blazing-fast internet speeds. Avail a discount and purchase this smartphone for just ₹16,468."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/n/g/galaxy-m32-b096vd213d-samsung-original-imag4pfh5k9anrfc.jpeg?q:70",
+          "brand": "SAMSUNG Galaxy M32 (Light Blue, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "battery": "6000 mAh Battery",
+          "discount_price": "₹12,328",
+          "price": "₹13,499",
+          "id": 63,
+          "description": "Experience the elegance of the Light Blue variant of the SAMSUNG Galaxy M32. It offers 4 GB RAM and 64 GB of internal storage, which can be expanded up to 1 TB. The device is powered by a robust 6000 mAh battery, ensuring a long-lasting performance. Capture stunning photos and videos with its advanced camera system. Purchase this smartphone now at a discounted price of ₹12,328."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/ko0d6kw0/mobile/6/h/y/iphone-12-mjnm3hn-a-apple-original-imag2k2v6ehvnzfd.jpeg?q:70",
+          "brand": "APPLE iPhone 12 (Purple, 64 GB)",
+          "specs": "64 GB ROM",
+          "battery": "A14 Bionic Chip with Next Generation Neural Engine Processor",
+          "discount_price": "₹59,999",
+          "price": "₹65,900",
+          "id": 64,
+          "description": "Introducing the stunning Purple variant of the APPLE iPhone 12. It offers 64 GB of internal storage, providing ample space for your apps and media. The device is powered by the A14 Bionic Chip, delivering fast and efficient performance. Capture breathtaking photos and videos with its advanced camera system. Own this iconic smartphone at a discounted price of ₹59,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l2f20sw0/mobile/n/t/p/10a-b09xb6tk6v-redmi-original-imagdrghghkneesf.jpeg?q:70",
+          "brand": "REDMI 10A (Sea Blue, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹8,820",
+          "price": "₹8,949",
+          "id": 65,
+          "description": "The REDMI 10A comes in a stylish Sea Blue color. It offers 4 GB RAM and 64 GB of internal storage, providing ample space for your apps and files. The device is equipped with a powerful 5000 mAh battery, ensuring long-lasting usage. Capture stunning photos and videos with its impressive camera setup. Avail a discount and purchase this smartphone for just ₹8,820."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l2jcccw0/mobile/g/l/5/-original-imagdu8j9k3ejjc3.jpeg?q:70",
+          "brand": "POCO M4 5G (Yellow, 128 GB)",
+          "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+          "battery": "5000 mAh Lithium Ion Polymer Battery",
+          "discount_price": "₹12,999",
+          "price": "₹18,999",
+          "id": 66,
+          "description": "Experience the vibrant Yellow color of the POCO M4 5G. It comes with 6 GB RAM and 128 GB of internal storage, which can be expanded up to 512 GB. The device is powered by a reliable 5000 mAh battery, offering extended usage. Capture stunning photos and enjoy immersive entertainment on its large display. Purchase this smartphone at a discounted price of ₹12,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kylvr0w0/mobile/u/q/4/pova-neo-le6-tecno-original-imagatye3ymtmcpt.jpeg?q:70",
+          "brand": "Tecno Pova Neo (Obsidian Black, 128 GB)",
+          "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+          "battery": "6000 mAh Battery",
+          "discount_price": "₹12,420",
+          "price": "₹12,779",
+          "id": 67,
+          "description": "Get the Tecno Pova Neo in the elegant Obsidian Black color. It offers 6 GB RAM and 128 GB of internal storage, which can be expanded up to 256 GB. The device is powered by a long-lasting 6000 mAh battery, ensuring uninterrupted usage. Enjoy a smooth and immersive user experience on its large display. Avail a discount and own this smartphone for just ₹12,420."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/mobile/z/f/w/itel-power-100-new-it5607-original-imafy7rnczkvpxbc.jpeg?q:70",
+          "brand": "Itel Power 100 New",
+          "specs": "4 MB RAM | 4 MB ROM | Expandable Upto 32 GB",
+          "battery": "2500 mAh Lithium-ion Battery",
+          "discount_price": "₹1,288",
+          "price": "₹1,359",
+          "id": 68,
+          "description": "The Itel Power 100 New is a reliable and affordable feature phone. It offers 4 MB RAM and 4 MB of internal storage, which can be expanded up to 32 GB. The device is equipped with a 2500 mAh battery, ensuring decent usage time. Stay connected with its basic communication features. Purchase this feature phone now at a discounted price of ₹1,288."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kn6cxow0/mobile/q/4/z/guru-music-2-sm-b310ezkdins-samsung-original-imagfwzxgcgd3va3.jpeg?q:70",
+          "brand": "SAMSUNG Guru Music 2",
+          "specs": "NA ROM",
+          "battery": "1 Year Manufacturer Warranty",
+          "discount_price": "₹1,850",
+          "price": "₹1,950",
+          "id": 69,
+          "description": "The SAMSUNG Guru Music 2 is a classic feature phone with a focus on music. It offers ample storage for your music collection. The device comes with a long-lasting battery and a 1-year manufacturer warranty. Stay connected and enjoy your favorite tunes on this reliable feature phone. Purchase it now at a discounted price of ₹1,850."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l5bd5zk0/mobile/v/1/p/-original-imaggygkjbeqvvfw.jpeg?q:70",
+          "brand": "Infinix Note 12 5G (Snowfall, 64 GB)",
+          "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+          "battery": "5000 mAh Li-ion Polymer Battery",
+          "discount_price": "₹14,999",
+          "price": "₹19,999",
+          "id": 70,
+          "description": "Experience the beauty of the Snowfall color variant of the Infinix Note 12 5G. It offers 6 GB RAM and 64 GB of internal storage, which can be expanded up to 2 TB. The device is equipped with a powerful 5000 mAh battery, ensuring a long-lasting performance. Capture stunning photos and enjoy immersive visuals on its large display. Avail a discount and purchase this smartphone for just ₹14,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l5bd5zk0/mobile/s/i/j/-original-imaggygkm7grhrxf.jpeg?q:70",
+          "brand": "Infinix Note 12 5G (Force Black, 64 GB)",
+          "specs": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+          "battery": "5000 mAh Li-ion Polymer Battery",
+          "discount_price": "₹14,999",
+          "price": "₹19,999",
+          "id": 71,
+          "description": "Experience the power of 5G with the Infinix Note 12 5G in the Force Black color variant. It offers 6 GB RAM and 64 GB of internal storage, expandable up to 2 TB. The device features a 5000 mAh Li-ion Polymer battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Get this smartphone now at a discounted price of ₹14,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l1ch4sw0/mobile/f/t/n/-original-imagcx87hnxb3v2u.jpeg?q:70",
+          "brand": "Infinix Hot 11 2022 (Aurora Green, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Li-ion Polymer Battery",
+          "discount_price": "₹8,999",
+          "price": "₹12,999",
+          "id": 72,
+          "description": "Introducing the Infinix Hot 11 2022 in the Aurora Green color variant. It offers 4 GB RAM and 64 GB of internal storage, expandable up to 1 TB. The device comes with a powerful 5000 mAh Li-ion Polymer battery for extended usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Avail a discount and own this smartphone for just ₹8,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kv9urgw0/mobile/y/f/4/2g-dual-sim-2-4-inch-display-32-mb-storage-0-8-mp-camera-vga-original-imag87pzysh9yvkt.jpeg?q:70",
+          "brand": "IAIR S19",
+          "specs": "32 MB RAM | 32 MB ROM",
+          "battery": "2800 mAh Battery",
+          "discount_price": "₹1,539",
+          "price": "",
+          "id": 73,
+          "description": "Discover the IAIR S19 smartphone with its compact design and essential features. It offers 32 MB RAM and 32 MB of internal storage. The device is equipped with a 2800 mAh battery to keep you connected throughout the day. Capture memorable moments with the 0.8 MP camera and enjoy the convenience of a dual SIM setup. Grab this smartphone at an affordable price of ₹1,539."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l3hmwsw0/mobile/l/k/q/-original-imagehzbaw2wugme.jpeg?q:70",
+          "brand": "SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",
+          "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium Ion Battery",
+          "discount_price": "₹15,999",
+          "price": "₹22,999",
+          "id": 74,
+          "description": "Discover the SAMSUNG Galaxy F23 5G in the Copper Blush color variant. It offers 4 GB RAM and 128 GB of internal storage, expandable up to 1 TB. The device is equipped with a powerful 5000 mAh Lithium Ion battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Avail a discount and own this smartphone for just ₹15,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l3hmwsw0/mobile/l/k/q/-original-imagehzbaw2wugme.jpeg?q:70",
+          "brand": "SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",
+          "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium Ion Battery",
+          "discount_price": "₹15,999",
+          "price": "₹22,999",
+          "id": 75,
+          "description": "Discover the SAMSUNG Galaxy F23 5G in the Copper Blush color variant. It offers 4 GB RAM and 128 GB of internal storage, expandable up to 1 TB. The device is equipped with a powerful 5000 mAh Lithium Ion battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Avail a discount and own this smartphone for just ₹15,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kfmv9u80/mobile/p/p/w/nokia-125-12gmnb21a02-original-imafwfrfc3s2gayp.jpeg?q:70",
+          "brand": "Nokia 125 DS 2020",
+          "specs": "4 MB RAM | 4 MB ROM",
+          "battery": "MediaTek Processor",
+          "discount_price": "₹2,099",
+          "price": "₹2,399",
+          "id": 76,
+          "description": "Introducing the Nokia 125 DS 2020, a reliable and affordable feature phone. It offers 4 MB RAM and 4 MB of internal storage. The device is powered by a MediaTek processor, ensuring smooth performance. Stay connected with dual SIM support and enjoy the convenience of a long-lasting battery. Get this feature phone at a discounted price of ₹2,099."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/ku4ezrk0/mobile/v/5/e/galaxy-f42-5g-sm-e426bzahins-samsung-original-imag7anfwxsgumgz.jpeg?q:70",
+          "brand": "SAMSUNG Galaxy F42 5G (Matte Black, 128 GB)",
+          "specs": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium-ion Battery",
+          "discount_price": "₹17,999",
+          "price": "₹23,999",
+          "id": 77,
+          "description": "Experience the power of 5G with the SAMSUNG Galaxy F42 5G in the Matte Black color variant. It offers 6 GB RAM and 128 GB of internal storage, expandable up to 1 TB. The device features a 5000 mAh Lithium-ion battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Avail a discount and own this smartphone for just ₹17,999."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kmjhw280/mobile/l/i/s/galaxy-m12-galaxy-m12-samsung-original-imagffyujuzhbuz7.jpeg?q:70",
+          "brand": "SAMSUNG Galaxy M12 (White, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM",
+          "battery": "6000 mAh Battery",
+          "discount_price": "₹11,199",
+          "price": "",
+          "id": 78,
+          "description": "Discover the SAMSUNG Galaxy M12 in the White color variant. It offers 4 GB RAM and 64 GB of internal storage. The device is powered by a massive 6000 mAh battery for long-lasting usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Get this smartphone at a discounted price of ₹11,199."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l01blow0/mobile/x/s/z/note-11s-2201117sl-redmi-original-imagbwx4mqamdbzj.jpeg?q:70",
+          "brand": "REDMI Note 11S (Horizon Blue, 128 GB)",
+          "specs": "8 GB RAM | 128 GB ROM",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹17,729",
+          "price": "₹18,292",
+          "id": 79,
+          "description": "Introducing the REDMI Note 11S in the Horizon Blue color variant. It offers 8 GB RAM and 128 GB of internal storage. The device is equipped with a powerful 5000 mAh battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Avail a discount and own this smartphone for just ₹17,729."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kjswia80/mobile/i/s/d/a15s-cph2179-oppo-original-imafzapzntzqtfhh.jpeg?q:70",
+          "brand": "OPPO A15s (Dynamic Black, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM",
+          "battery": "4230 mAh Battery",
+          "discount_price": "₹11,498",
+          "price": "",
+          "id": 80,
+          "description": "Discover the OPPO A15s in the Dynamic Black color variant. It offers 4 GB RAM and 64 GB of internal storage. The device is equipped with a 4230 mAh battery for all-day usage. Capture stunning photos, enjoy immersive visuals, and stay connected. Get this smartphone at an affordable price of ₹11,498."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kydb3ww0/mobile/d/c/l/-original-imagahj8tnvgzm8r.jpeg?q:70",
+          "brand": "vivo Y21T (Midnight Blue, 128 GB)",
+          "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium Battery",
+          "discount_price": "₹15,499",
+          "price": "₹19,990",
+          "id": 81,
+          "description": "Experience the power of vivo Y21T in the Midnight Blue color variant. It offers 4 GB RAM and 128 GB of internal storage, expandable up to 1 TB. The device is equipped with a 5000 mAh Lithium battery for long-lasting usage. Get this smartphone at a discounted price of ₹15,499."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kydb3ww0/mobile/h/z/e/-original-imagahj8kauqpzmf.jpeg?q:70",
+          "brand": "vivo Y21T (Pearl White, 128 GB)",
+          "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium Battery",
+          "discount_price": "₹15,499",
+          "price": "₹19,990",
+          "id": 82,
+          "description": "Discover the vivo Y21T in the Pearl White color variant. It offers 4 GB RAM and 128 GB of internal storage, expandable up to 1 TB. The device features a 5000 mAh Lithium battery for all-day usage. Avail a discount and own this smartphone for just ₹15,499."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kulk9zk0/mobile/r/t/k/d20-d20-iair-original-imag7zrh2qrsb9vv.jpeg?q:70",
+          "brand":
+            "IAIR Basic Feature Dual Sim Mobile Phone with 1200mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera...",
+          "specs": "32 MB RAM | 32 MB ROM | Expandable Upto 32 GB",
+          "battery": "1200 mAh Battery",
+          "discount_price": "₹999",
+          "price": "",
+          "id": 83,
+          "description": "Introducing the IAIR Basic Feature Dual Sim Mobile Phone with a 1200mAh battery. It comes with a 1.77-inch display screen and a 0.8 MP camera. The device offers 32 MB RAM and 32 MB of internal storage, expandable up to 32 GB. Get this feature phone at an affordable price of ₹999."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q:70",
+          "brand": "realme C21 (Cross Black, 32 GB)",
+          "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹9,499",
+          "price": "₹9,999",
+          "id": 84,
+          "description": "Experience the realme C21 in the Cross Black color variant. It offers 3 GB RAM and 32 GB of internal storage, expandable up to 256 GB. The device features a 5000 mAh battery for all-day usage. Get this smartphone at a discounted price of ₹9,499."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/l0zm64w0/mobile/l/y/t/-original-imagcntwearctmyj.jpeg?q:70",
+          "brand": "Itel A49 (Sky Cyan, 32 GB)",
+          "specs": "2 GB RAM | 32 GB ROM | Expandable Upto 128 GB",
+          "battery": "4000 mAh Li-Polymer Battery",
+          "discount_price": "₹6,385",
+          "price": "₹6,395",
+          "id": 85,
+          "description": "Discover the Itel A49 in the Sky Cyan color variant. It offers 2 GB RAM and 32 GB of internal storage, expandable up to 128 GB. The device is equipped with a 4000 mAh Li-Polymer battery. Avail a discount and own this smartphone for just ₹6,385."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kesv0y80/mobile/w/g/r/mi-redmi-9a-b08696xb4b-original-imafve7pjpemhwk5.jpeg?q:70",
+          "brand": "Redmi 9A (Sea Blue, 32 GB)",
+          "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹7,979",
+          "price": "₹8,599",
+          "id": 86,
+          "description": "Introducing the Redmi 9A in the Sea Blue color variant. It offers 3 GB RAM and 32 GB of internal storage, expandable up to 512 GB. The device features a 5000 mAh battery for long-lasting usage. Get this smartphone at a discounted price of ₹7,979."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/kjbr8280/mobile/w/3/f/lava-34-ultra-34-ultra-original-imafywyjhrhtexg5.jpeg?q:70",
+          "brand": "LAVA 34 Ultra",
+          "specs": "24 MB RAM | 32 MB ROM | Expandable Upto 64 GB",
+          "battery": "2575 mAh Li-ion Battery",
+          "discount_price": "₹1,770",
+          "price": "",
+          "id": 87,
+          "description": "Experience the LAVA 34 Ultra feature phone with 24 MB RAM and 32 MB of internal storage, expandable up to 64 GB. The device is powered by a 2575 mAh Li-ion battery. Get this feature phone at an affordable price of ₹1,770."
+        },
+        {
+          "image":
+            "https://rukminim1.flixcart.com/image/312/312/ky7lci80/mobile/y/e/f/k310i-k310i-karbonn-original-imagaxgcsyxvsq5p.jpeg?q:70",
+          "brand": "KARBONN K310i",
+          "specs": "10 MB RAM | 10 MB ROM",
+          "battery": "1 Year Warranty",
+          "discount_price": "₹899",
+          "price": "",
+          "id": 90,
+          "description": "Introducing the KARBONN K310i feature phone with 10 MB RAM and 10 MB of internal storage. The device comes with a 1-year warranty. Get this feature phone at an affordable price of ₹899."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l15bxjk0/mobile/a/j/z/spark-8c-kg5k-tecno-original-imagcs2hcfugw7xt.jpeg?q:70",
+          "brand": "Tecno Spark 8C (Iris Purple, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹9,848",
+          "price": "",
+          "id": 91,
+          "description": "The Tecno Spark 8C in iris purple color variant features 4 GB RAM and 64 GB of internal storage, expandable up to 256 GB. It is equipped with a reliable 5000 mAh battery, ensuring long-lasting usage. With its attractive design and impressive specifications, it offers great value for money."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/knoxnrk0/mobile/4/b/p/m2-reloaded-mzb0957in-poco-original-imag2aqyhdfvsty8.jpeg?q:70",
+          "brand": "POCO M2 Reloaded (Greyish Black, 64 GB)",
+          "specs": "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+          "battery": "5000 mAh Lithium Polymer Battery",
+          "discount_price": "₹10,890",
+          "price": "",
+          "id": 92,
+          "description": "The POCO M2 Reloaded comes in a stylish greyish black color variant and offers 4 GB RAM and 64 GB of internal storage, which can be expanded up to 512 GB. It is equipped with a high-capacity 5000 mAh lithium polymer battery, ensuring long hours of usage. With its powerful performance and expandable storage, it provides a great user experience."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l08gsy80/mobile/k/q/d/spark-8c-kg5k-tecno-original-imagc2abg78mghvg.jpeg?q:70",
+          "brand": "Tecno Spark 8C (Magnet Black, 64 GB)",
+          "specs": "3 GB RAM | 64 GB ROM | Expandable Upto 256 GB",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹8,849",
+          "price": "₹8,899",
+          "id": 93,
+          "description": "The Tecno Spark 8C in magnet black color variant features 3 GB RAM and 64 GB of internal storage, expandable up to 256 GB. It is powered by a reliable 5000 mAh battery, ensuring long-lasting usage. With its attractive design and expandable storage capacity, it offers a great combination of style and functionality."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kjx6tu80/mobile/c/e/8/oppo-a12-cph2083-original-imafze3h8d7n7jnh.jpeg?q:70",
+          "brand": "OPPO A12 (Deep Blue, 32 GB)",
+          "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+          "battery": "4230 mAh Battery",
+          "discount_price": "₹9,990",
+          "price": "₹10,990",
+          "id": 94,
+          "description": "The OPPO A12 in deep blue color variant offers 3 GB RAM and 32 GB of internal storage, which can be expanded up to 256 GB. It is powered by a reliable 4230 mAh battery, providing sufficient power for daily usage. With its stylish design and expandable storage, it delivers a great smartphone experience."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kb1470w0/mobile/q/g/g/oppo-a12-cph2083-original-imafsh2hfkyamqyt.jpeg?q:70",
+          "brand": "OPPO A12 (Blue, 32 GB)",
+          "specs": "3 GB RAM | 32 GB ROM | Expandable Upto 256 GB",
+          "battery": "4230 mAh Battery",
+          "discount_price": "₹9,990",
+          "price": "₹10,990",
+          "id": 95,
+          "description": "The OPPO A12 in blue color variant offers 3 GB RAM and 32 GB of internal storage, which can be expanded up to 256 GB. It is equipped with a reliable 4230 mAh battery, ensuring long hours of usage. With its attractive design and expandable storage capacity, it provides a great combination of style and performance."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/l0igvww0/mobile/6/8/o/-original-imagcafj5zcxz9wg.jpeg?q:70",
+          "brand": "POCO M4 Pro 5G (Power Black, 128 GB)",
+          "specs": "8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+          "battery": "5000 mAh Lithium-ion Polymer Battery",
+          "discount_price": "₹16,999",
+          "price": "₹21,999",
+          "id": 96,
+          "description": "The POCO M4 Pro 5G in power black color variant offers 8 GB RAM and 128 GB of internal storage, expandable up to 1 TB. It is equipped with a high-capacity 5000 mAh lithium-ion polymer battery, providing long hours of usage on a single charge. With its powerful performance and expandable storage, it is a great choice for tech enthusiasts."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/t/e/b/k50i-5g-22041216i-redmi-original-imagghcw3htf3heg.jpeg?q:70",
+          "brand": "REDMI K50i 5G (Stealth Black, 128 GB)",
+          "specs": "6 GB RAM | 128 GB ROM",
+          "battery": "5080 mAh Battery",
+          "discount_price": "₹25,900",
+          "price": "",
+          "id": 97,
+          "description": "The REDMI K50i 5G comes in a sleek stealth black color variant and offers 6 GB RAM and 128 GB of internal storage. It is powered by a high-capacity 5080 mAh battery, ensuring long hours of usage. With its stylish design and impressive specifications, it provides a seamless 5G experience for users."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kr9jafk0/mobile/h/f/0/k66-the-music-house-4-k66-kechaoda-original-imag53k6x8h4grm6.jpeg?q:70",
+          "brand": "Kechaoda K66 The Music House 4",
+          "specs": "32 MB RAM | 64 MB ROM | Expandable Upto 32 GB",
+          "battery": "400 mAh Battery",
+          "discount_price": "₹1,199",
+          "price": "₹1,280",
+          "id": 98,
+          "description": "The Kechaoda K66 The Music House 4 is a feature phone that offers 32 MB RAM and 64 MB of internal storage, expandable up to 32 GB. It is equipped with a 400 mAh battery, providing decent battery life. With its compact design and music-centric features, it is a great option for those who prefer simplicity."
+        },
+        {
+          "image": "https://rukminim1.flixcart.com/image/312/312/kxuqdu80/mobile/u/9/q/camon-18-ch6h-tecno-original-imaga7hwefnrytpy.jpeg?q:70",
+          "brand": "Tecno Camon 18 (Dusk Grey, 128 GB)",
+          "specs": "4 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+          "battery": "5000 mAh Battery",
+          "discount_price": "₹12,999",
+          "price": "",
+          "id": 99,
+          "description": "The Tecno Camon 18 in dusk grey color variant offers 4 GB RAM and 128 GB of internal storage, expandable up to 512 GB. It is powered by a reliable 5000 mAh battery, ensuring long-lasting usage. With its attractive design and expandable storage capacity, it provides a great combination of style and performance."
+        }
   ],
   
    "boysData" : [
