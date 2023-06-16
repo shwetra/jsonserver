@@ -2233,823 +2233,823 @@
   
    "mensData" : [
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5415202/2018/5/23/7a32e5c1-6ac6-4219-984e-63cb68497fa21527075068613-Roadster-Men-Trousers-6171527075067295-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5415202/2018/5/23/7a32e5c1-6ac6-4219-984e-63cb68497fa21527075068613-Roadster-Men-Trousers-6171527075067295-1.jpg",
       "brand": "Roadster",
       "name": "Men Cargos",
       "discount_price": "Rs. 1127",
       "price": "Rs. 2399",
-      "id": 0
+      "id": 0,
+      "description": "Roadster Men Cargos are versatile and comfortable trousers suitable for casual outings. They feature a cargo-style design with multiple pockets for convenient storage. Made from durable materials, these cargos offer a relaxed fit and are perfect for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/6/3/ea10ab6c-883e-437a-8780-ed87484393f81654235830793-Roadster-Men-Black--Grey-Checked-Casual-Sustainable-Shirt-42-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1376577/2022/6/3/ea10ab6c-883e-437a-8780-ed87484393f81654235830793-Roadster-Men-Black--Grey-Checked-Casual-Sustainable-Shirt-42-1.jpg",
       "brand": "Roadster",
       "name": "Men Pure Cotton Casual Shirt",
       "discount_price": "Rs. 524",
       "price": "Rs. 1499",
-      "id": 1
+      "id": 1,
+      "description": "Roadster Men Pure Cotton Casual Shirt is a stylish and comfortable shirt suitable for everyday wear. It features a black and grey checked pattern and is made from sustainable cotton fabric. The shirt has a regular fit and can be paired with jeans or chinos for a casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16513990/2022/1/26/d8f01fca-59e2-4f82-8214-9cd61d373be41643184909272-Roadster-Men-White-Sneakers-6661643184908868-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16513990/2022/1/26/d8f01fca-59e2-4f82-8214-9cd61d373be41643184909272-Roadster-Men-White-Sneakers-6661643184908868-1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 872",
       "price": "Rs. 3795",
-      "id": 2
+      "id": 2,
+      "description": "Roadster Men Sneakers are stylish and comfortable footwear options for casual occasions. They feature a classic white design with lace-up closure. These sneakers are made with high-quality materials to ensure durability and provide excellent grip and comfort while walking or running."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2308267/2018/1/29/11517216335231-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-5591517216335098-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2308267/2018/1/29/11517216335231-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-5591517216335098-1.jpg",
       "brand": "Roadster",
       "name": "Typography Cotton T-shirt",
       "discount_price": "Rs. 209",
       "price": "Rs. 599",
-      "id": 3
+      "id": 3,
+      "description": "Roadster Typography Cotton T-shirt is a trendy and comfortable t-shirt made from soft and breathable cotton fabric. It features a maroon color with a printed design on the front. This round neck t-shirt is perfect for casual outings and can be paired with jeans or shorts."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5670082/2022/4/19/33026568-9ea9-4fa6-9344-67e06e2186c71650361538625-Roadster-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Low-Distress-Stre-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5670082/2022/4/19/33026568-9ea9-4fa6-9344-67e06e2186c71650361538625-Roadster-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Low-Distress-Stre-1.jpg",
       "brand": "Roadster",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 594",
       "price": "Rs. 1699",
-      "id": 4
+      "id": 4,
+      "description": "Roadster Men Skinny Fit Jeans are a stylish and comfortable choice for a modern look. These jeans feature a navy blue color with a skinny fit and a mid-rise waist. The distressed detailing adds a trendy touch to the jeans, making them suitable for casual and semi-formal occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8673407/2019/4/1/ffa55417-328e-4259-a757-07aa873135201554120715115-WROGN-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Je-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8673407/2019/4/1/ffa55417-328e-4259-a757-07aa873135201554120715115-WROGN-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Je-1.jpg",
       "brand": "WROGN",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 1259",
       "price": "Rs. 2799",
-      "id": 5
+      "id": 5,
+      "description": "WROGN Men Skinny Fit Jeans are designed for a modern and stylish look. These jeans feature a blue color with a skinny fit and a mid-rise waist. They are made from stretchable fabric, providing a comfortable and flattering fit. The clean look adds a sophisticated touch to the jeans."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1758578/2017/5/12/11494569522819-WROGN-Men-Shirts-8521494569522516-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1758578/2017/5/12/11494569522819-WROGN-Men-Shirts-8521494569522516-1.jpg",
       "brand": "WROGN",
       "name": "Men Slim Fit Casual Shirt",
       "discount_price": "Rs. 1149",
       "price": "Rs. 2299",
-      "id": 6
+      "id": 6,
+      "description": "WROGN Men Slim Fit Casual Shirt is a stylish and comfortable shirt suitable for casual occasions. It features a slim fit design and is made from high-quality fabric. The shirt has a versatile solid color and can be paired with jeans or chinos for a smart-casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
       "brand": "Roadster",
       "name": "Printed Casual Shirt",
       "discount_price": "Rs. 749",
       "price": "Rs. 1499",
-      "id": 7
+      "id": 7,
+      "description": "Roadster Printed Casual Shirt is a fashionable and comfortable shirt for casual occasions. It features a regular fit and a stylish printed design. Made from high-quality fabric, this shirt offers a soft and comfortable feel. Pair it with jeans or chinos for a trendy and casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13077156/2021/1/27/0dbb8154-b2c0-4db2-aacf-8437c609672b1611743030950-Mast--Harbour-Men-Jeans-5961611743029391-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13077156/2021/1/27/0dbb8154-b2c0-4db2-aacf-8437c609672b1611743030950-Mast--Harbour-Men-Jeans-5961611743029391-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 599",
       "price": "Rs. 1499",
-      "id": 8
+      "id": 8,
+      "description": "Mast & Harbour Men Skinny Fit Jeans are trendy and comfortable jeans suitable for a stylish look. They feature a skinny fit and are made from high-quality denim fabric. These jeans are versatile and can be paired with t-shirts, shirts, or jackets for various casual and semi-formal outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17425548/2022/3/7/0adbc936-ec99-4157-ab34-9a7226e0738f1646660549902RoadsterMenBlackSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17425548/2022/3/7/0adbc936-ec99-4157-ab34-9a7226e0738f1646660549902RoadsterMenBlackSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 872",
       "price": "Rs. 3795",
-      "id": 9
+      "id": 9,
+      "description": "Roadster Men Sneakers are stylish and comfortable footwear options for casual outings. These sneakers feature a sleek black design with lace-up closure. They are made with high-quality materials to ensure durability and provide excellent cushioning and support for all-day comfort."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1678869/2017/3/17/11489743045853-Mast--Harbour-Men-Black-Solid-Regular-Fit-Chino-7871489743045672-2.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1678869/2017/3/17/11489743045853-Mast--Harbour-Men-Black-Solid-Regular-Fit-Chino-7871489743045672-2.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Chino Joggers",
       "discount_price": "Rs. 874",
       "price": "Rs. 2499",
-      "id": 10
+      "id": 10,
+      "description": "Mast & Harbour Men Chino Joggers are stylish and comfortable bottoms for a casual and sporty look. They feature a black color with a regular fit and are made from high-quality chino fabric. The jogger-style design provides ease of movement, making them suitable for active lifestyles."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350726/2022/5/12/1fbba260-8584-4d2a-86fa-a5fa91ddad701652344722392-Puma-Men-White--Black-Colourblocked-IDP-Sneakers-87416523447-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350726/2022/5/12/1fbba260-8584-4d2a-86fa-a5fa91ddad701652344722392-Puma-Men-White--Black-Colourblocked-IDP-Sneakers-87416523447-1.jpg",
       "brand": "Puma",
       "name": "Men Colourblocked IDP Sneakers",
       "discount_price": "Rs. 3374",
       "price": "Rs. 4499",
-      "id": 11
+      "id": 11,
+      "description": "Puma Men Colourblocked IDP Sneakers are stylish and sporty shoes designed for comfort and performance. These sneakers feature a white and black colorblocked design with lace-up closure. They are made with high-quality materials to provide durability and excellent cushioning for all-day comfort. The sneakers are suitable for various activities and can be paired with casual or sporty outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2478210/2019/11/8/85bba7bd-b3f3-4ea3-a063-5890340301471573214255868-WROGN-Men-Pink-Slim-Fit-Solid-Casual-Shirt-7431573214250598-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2478210/2019/11/8/85bba7bd-b3f3-4ea3-a063-5890340301471573214255868-WROGN-Men-Pink-Slim-Fit-Solid-Casual-Shirt-7431573214250598-1.jpg",
       "brand": "WROGN",
       "name": "Men Slim Fit Casual Shirt",
       "discount_price": "Rs. 1199",
       "price": "Rs. 2399",
-      "id": 12
+      "id": 12,
+      "description": "WROGN Men Slim Fit Casual Shirt is a stylish and comfortable shirt suitable for casual occasions. It features a slim fit design and is made from high-quality fabric. The shirt has a versatile solid pink color and can be paired with jeans or chinos for a smart-casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
       "brand": "Nike",
       "name": "Men Winflo 8 Running Shoes",
       "discount_price": "Rs. 7050",
       "price": "Rs. 8295",
-      "id": 13
+      "id": 13,
+      "description": "Nike Men Winflo 8 Running Shoes are designed for optimal performance and comfort during running sessions. These shoes feature a sleek design with excellent cushioning and support. The lightweight construction and breathable upper keep your feet cool and comfortable. The Winflo 8 is suitable for both casual runners and serious athletes."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11007314/2020/6/5/605acdc7-6157-48eb-84f0-27e432126c611591355165720-Mast--Harbour-Men-Shirts-4111591355163609-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Checked Regular Casual Shirt",
       "discount_price": "Rs. 1099",
       "price": "Rs. 1999",
-      "id": 14
+      "id": 14,
+      "description": "Mast & Harbour Checked Regular Casual Shirt is a versatile and stylish shirt suitable for various occasions. It features a regular fit design with a classic checked pattern. The shirt is made from high-quality fabric to ensure comfort and durability. Pair it with jeans or chinos for a smart-casual or semi-formal look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10248557/2022/8/3/7e905109-4e00-422e-866c-60c2df73b97c1659524393162-Puma-Men-Black-Enzo-Running-Shoes-6251659524392836-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10248557/2022/8/3/7e905109-4e00-422e-866c-60c2df73b97c1659524393162-Puma-Men-Black-Enzo-Running-Shoes-6251659524392836-1.jpg",
       "brand": "Puma",
       "name": "Men Enzo Running Shoes",
       "discount_price": "Rs. 2584",
       "price": "Rs. 5499",
-      "id": 15
+      "id": 15,
+      "description": "Puma Men Enzo Running Shoes are designed for both style and performance. These shoes feature a sleek black design with a lace-up closure. They are made with high-quality materials to provide excellent cushioning and support during running or other athletic activities. The Enzo Running Shoes offer a comfortable fit and modern look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2275336/2021/11/10/9d98163d-83f6-4bca-875d-88bb539e1a071636534889039-Roadster-Men-Maroon-Slub-Effect-Printed-Round-Neck-T-shirt-8-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2275336/2021/11/10/9d98163d-83f6-4bca-875d-88bb539e1a071636534889039-Roadster-Men-Maroon-Slub-Effect-Printed-Round-Neck-T-shirt-8-1.jpg",
       "brand": "Roadster",
       "name": "Slub Effect Printed Cotton Pure Cotton T-shirt",
       "discount_price": "Rs. 239",
       "price": "Rs. 599",
-      "id": 16
+      "id": 16,
+      "description": "Roadster Slub Effect Printed Cotton Pure Cotton T-shirt is a trendy and comfortable t-shirt for casual wear. It features a maroon color with a slub effect and a printed design. The t-shirt is made from pure cotton fabric, ensuring softness and breathability. Pair it with jeans or shorts for a cool and relaxed look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1923646/2018/10/9/4047301c-1394-4f63-8110-4db695b893e71539082423667-Roadster-Men-Green-Regular-Fit-Solid-Joggers-187153908242205-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1923646/2018/10/9/4047301c-1394-4f63-8110-4db695b893e71539082423667-Roadster-Men-Green-Regular-Fit-Solid-Joggers-187153908242205-1.jpg",
       "brand": "Roadster",
       "name": "Men Cotton Joggers",
       "discount_price": "Rs. 769",
       "price": "Rs. 2199",
-      "id": 17
+      "id": 17,
+      "description": "Roadster Men Cotton Joggers are comfortable and stylish bottoms suitable for casual outings or workouts. These joggers feature a regular fit design with a solid green color. They are made from high-quality cotton fabric, providing breathability and ease of movement. The joggers have an elasticated waistband and cuffs for a secure and comfortable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667077/2018/2/8/11518090736106-Roadster-Men-Black-Shadow-Checks-Casual-Shirt-1211518090735845-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667077/2018/2/8/11518090736106-Roadster-Men-Black-Shadow-Checks-Casual-Shirt-1211518090735845-1.jpg",
       "brand": "Roadster",
       "name": "Shadow Check Casual Shirt",
       "discount_price": "Rs. 679",
       "price": "Rs. 1699",
-      "id": 18
+      "id": 18,
+      "description": "Roadster Shadow Check Casual Shirt is a versatile and fashionable shirt suitable for both casual and semi-formal occasions. It features a classic shadow check pattern in black and white. The shirt is made from high-quality fabric to ensure comfort and durability. Pair it with jeans or chinos for a stylish and confident look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11361514/2021/12/9/8c6963cf-7893-4833-8ce7-9a38530fa6631639025038149-WROGN-Men-Blue-Faded-Cotton-Casual-Shirt-6181639025037462-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11361514/2021/12/9/8c6963cf-7893-4833-8ce7-9a38530fa6631639025038149-WROGN-Men-Blue-Faded-Cotton-Casual-Shirt-6181639025037462-1.jpg",
       "brand": "WROGN",
       "name": "Faded Cotton Casual Shirt",
       "discount_price": "Rs. 1199",
       "price": "Rs. 2399",
-      "id": 19
+      "id": 19,
+      "description": "WROGN Faded Cotton Casual Shirt is a stylish and comfortable shirt suitable for casual occasions. It features a faded blue color and is made from soft and breathable cotton fabric. The shirt has a regular fit design with a button-down collar and can be paired with jeans or chinos for a relaxed yet fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18684780/2022/7/5/db84d2f5-8aa1-429b-bfe4-6b7e9da63d3e1657008072890-Flying-Machine-Men-Casual-Shoes-4931657008072384-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18684780/2022/7/5/db84d2f5-8aa1-429b-bfe4-6b7e9da63d3e1657008072890-Flying-Machine-Men-Casual-Shoes-4931657008072384-1.jpg",
       "brand": "Flying Machine",
       "name": "Men Slip-On Sneakers",
       "discount_price": "Rs. 1299",
       "price": "Rs. 1999",
-      "id": 20
+      "id": 20,
+      "description": "Flying Machine Men Slip-On Sneakers are trendy and comfortable shoes suitable for casual outings. These sneakers feature a slip-on style with elasticated inserts for easy wear and a secure fit. They are made from high-quality materials and have a cushioned footbed for all-day comfort. The slip-on sneakers have a versatile design that pairs well with jeans, shorts, or casual trousers."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7139512/2018/9/21/52ac3343-f859-4ac7-92f1-3d2451fe92951537510763979-Roadster-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1421537510763791-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7139512/2018/9/21/52ac3343-f859-4ac7-92f1-3d2451fe92951537510763979-Roadster-Men-Black-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1421537510763791-1.jpg",
       "brand": "Roadster",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 874",
       "price": "Rs. 2499",
-      "id": 21
+      "id": 21,
+      "description": "Roadster Men Skinny Fit Jeans are crafted with a modern and sleek design. These jeans feature a black color with a mid-rise and clean look. They are made from stretchable denim fabric, providing a comfortable and flexible fit. The skinny fit style offers a trendy and fashionable appearance. Pair them with a casual shirt or t-shirt for a stylish ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10167307/2022/4/18/3afd98da-3278-4179-827f-647bbac0e9511650284917884TheRoadsterLifestyleCoMenBlackSolidHoodedSweatshirt1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10167307/2022/4/18/3afd98da-3278-4179-827f-647bbac0e9511650284917884TheRoadsterLifestyleCoMenBlackSolidHoodedSweatshirt1.jpg",
       "brand": "Roadster",
       "name": "Men Solid Sweatshirt",
       "discount_price": "Rs. 779",
       "price": "Rs. 1299",
-      "id": 22
+      "id": 22,
+      "description": "Roadster Men Solid Sweatshirt is a comfortable and stylish choice for chilly days. This sweatshirt comes in black color with a hood and long sleeves. It is made from high-quality fabric that provides warmth and softness. The solid design makes it versatile and easy to pair with jeans, joggers, or casual trousers. Stay cozy and fashionable with this sweatshirt."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19353768/2022/8/2/cd11bde1-8c9c-4580-b1d7-90c227bc31801659439588824AllenSollyGreyTrousers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19353768/2022/8/2/cd11bde1-8c9c-4580-b1d7-90c227bc31801659439588824AllenSollyGreyTrousers1.jpg",
       "brand": "Allen Solly",
       "name": "Men Slim Fit Trousers",
       "discount_price": "Rs. 1741",
       "price": "Rs. 2049",
-      "id": 23
+      "id": 23,
+      "description": "Allen Solly Men Slim Fit Trousers are a perfect blend of style and comfort. These trousers come in a slim fit design with a versatile grey color. They are made from high-quality fabric, ensuring durability and a smooth feel. The trousers feature a mid-rise waist and can be paired with formal shirts or casual t-shirts for various occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15119106/2022/6/13/42a914aa-70a2-40b8-b8e3-d760c766739d1655120732223PumaMenBlackLogoPrintedFront-OpenHoodedSweatshirt1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15119106/2022/6/13/42a914aa-70a2-40b8-b8e3-d760c766739d1655120732223PumaMenBlackLogoPrintedFront-OpenHoodedSweatshirt1.jpg",
       "brand": "Puma",
       "name": "Men Printed Hooded Sweatshirt",
       "discount_price": "Rs. 2099",
       "price": "Rs. 3499",
-      "id": 24
+      "id": 24,
+      "description": "Puma Men Printed Hooded Sweatshirt is a stylish and comfortable choice for casual wear. This sweatshirt features a black color with a printed design on the front. It has a front-open style with a hood and long sleeves. Made from high-quality fabric, it offers warmth and softness. Pair it with jeans or joggers for a cool and sporty look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350728/2022/5/11/0f1ce8f1-6394-4785-9c67-d238acce820c1652267748897-Puma-Men-Casual-Shoes-9391652267748578-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350728/2022/5/11/0f1ce8f1-6394-4785-9c67-d238acce820c1652267748897-Puma-Men-Casual-Shoes-9391652267748578-1.jpg",
       "brand": "Puma",
       "name": "Men Colourblocked Sneakers",
       "discount_price": "Rs. 3374",
       "price": "Rs. 4499",
-      "id": 25
+      "id": 25,
+      "description": "Puma Men Colourblocked Sneakers are stylish and comfortable shoes for casual outings. These sneakers feature a colorblocked design in multiple shades. They are made from high-quality materials, ensuring durability and comfort. The sneakers have a lace-up closure and a cushioned footbed for added support. Pair them with jeans, shorts, or casual trousers for a trendy look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8894685/2019/3/27/bc668260-5bd7-4cb1-9d91-239e2a5d1f221553667952837-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Sh-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8894685/2019/3/27/bc668260-5bd7-4cb1-9d91-239e2a5d1f221553667952837-Roadster-Men-Maroon--Navy-Blue-Regular-Fit-Checked-Casual-Sh-1.jpg",
       "brand": "Roadster",
       "name": "Men Micro Check Casual Shirt",
       "discount_price": "Rs. 629",
       "price": "Rs. 1499",
-      "id": 26
+      "id": 26,
+      "description": "Roadster Men Micro Check Casual Shirt is a stylish and versatile shirt for casual occasions. This shirt features a micro check pattern in maroon and navy blue. It has a regular fit design with a button-down collar and long sleeves. Made from high-quality fabric, it offers comfort and durability. Pair it with jeans or chinos for a smart and trendy look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1823142/2017/4/27/11493281526215-WROGN-Men-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-5201493281525914-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1823142/2017/4/27/11493281526215-WROGN-Men-Navy-Blue-Slim-Fit-Checked-Casual-Shirt-5201493281525914-1.jpg",
       "brand": "WROGN",
       "name": "Slim Fit Checked Casual Shirt",
       "discount_price": "Rs. 1195",
       "price": "Rs. 2299",
-      "id": 27
+      "id": 27,
+      "description": "WROGN Slim Fit Checked Casual Shirt is a fashionable and comfortable shirt for casual occasions. This shirt features a navy blue color with a slim fit design. It has a checked pattern and is made from high-quality fabric, providing a soft and breathable feel. The shirt pairs well with jeans or chinos, offering a stylish and confident look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10941384/2020/2/13/9447a845-892a-49f5-91ee-4de8a6589a541581587257528-Roadster-Men-Tshirts-8221581587255142-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10941384/2020/2/13/9447a845-892a-49f5-91ee-4de8a6589a541581587257528-Roadster-Men-Tshirts-8221581587255142-1.jpg",
       "brand": "Roadster",
       "name": "Solid Round Neck Pure Cotton T-shirt",
       "discount_price": "Rs. 499",
       "price": "Rs. 999",
-      "id": 28
+      "id": 28,
+      "description": "Roadster Solid Round Neck Pure Cotton T-shirt is a classic and comfortable choice for everyday wear. This t-shirt comes in a solid design with a round neck and short sleeves. It is made from pure cotton fabric, ensuring softness and breathability. The t-shirt can be paired with jeans, shorts, or casual trousers for a relaxed and stylish look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667048/2017/1/23/11485147470285-Roadster-Men-Maroon-Regular-Fit-Checked-Casual-Shirt-1531485147470065-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1667048/2017/1/23/11485147470285-Roadster-Men-Maroon-Regular-Fit-Checked-Casual-Shirt-1531485147470065-1.jpg",
       "brand": "Roadster",
       "name": "Regular Checked Casual Shirt",
       "discount_price": "Rs. 679",
       "price": "Rs. 1699",
-      "id": 29
+      "id": 29,
+      "description": "Roadster Regular Checked Casual Shirt is a versatile and stylish shirt for casual occasions. This shirt features a regular fit design with a checked pattern in maroon color. It has a button-down collar and long sleeves. Made from high-quality fabric, it offers comfort and durability. Pair it with jeans or chinos for a smart and trendy look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333752/2022/2/28/1b9a9e4a-3eaf-43e6-b6ef-b255ae87c8461646053483586RoadsterMenBlueTexturedSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333752/2022/2/28/1b9a9e4a-3eaf-43e6-b6ef-b255ae87c8461646053483586RoadsterMenBlueTexturedSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Textured Sneakers",
       "discount_price": "Rs. 899",
       "price": "Rs. 4495",
-      "id": 30
+      "id": 30,
+      "description": "Roadster Men Textured Sneakers are trendy and comfortable shoes for casual wear. These sneakers feature a textured design in a stylish blue color. They are made from high-quality materials, ensuring durability and comfort. The lace-up closure and cushioned footbed provide a secure and comfortable fit. Pair them with jeans, shorts, or casual trousers for a fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6510458/2018/10/30/da83c4d2-8416-4f3a-bc6d-46129eaf5ef71540895310508-Roadster-Men-Black-Solid-Sweatshirt-9721540895310347-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6510458/2018/10/30/da83c4d2-8416-4f3a-bc6d-46129eaf5ef71540895310508-Roadster-Men-Black-Solid-Sweatshirt-9721540895310347-1.jpg",
       "brand": "Roadster",
       "name": "Men Solid Sweatshirt",
       "discount_price": "Rs. 629",
       "price": "Rs. 1399",
-      "id": 31
+      "id": 31,
+      "description": "Roadster Men Solid Sweatshirt is a stylish and comfortable choice for casual wear. This sweatshirt comes in a solid black color, perfect for versatile styling. It features long sleeves and a classic round neck. Made from high-quality fabric, it offers warmth and softness. Pair it with jeans or joggers for a trendy and relaxed look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2303701/2019/3/7/dcb5e566-c7ab-4e0e-bdfb-66d93d7932901551949925470-Roadster-Men-Navy-Blue-Printed-Round-Neck-T-shirt-1471551949-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2303701/2019/3/7/dcb5e566-c7ab-4e0e-bdfb-66d93d7932901551949925470-Roadster-Men-Navy-Blue-Printed-Round-Neck-T-shirt-1471551949-1.jpg",
       "brand": "Roadster",
       "name": "Varsity Cotton T-shirt",
       "discount_price": "Rs. 384",
       "price": "Rs. 699",
-      "id": 32
+      "id": 32,
+      "description": "Roadster Varsity Cotton T-shirt is a stylish and comfortable choice for casual outings. This t-shirt features a navy blue color with a printed design on the front, adding a trendy touch. It has a round neck and short sleeves for a classic look. Made from soft and breathable cotton fabric, it ensures all-day comfort. Pair it with jeans or shorts for a cool and casual ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2167363/2019/10/17/8c63e255-4aee-4da8-8f8e-3897c94c2d471571291553064-Roadster-Men-Black-Regular-Fit-Solid-Chinos-2911571291551227-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2167363/2019/10/17/8c63e255-4aee-4da8-8f8e-3897c94c2d471571291553064-Roadster-Men-Black-Regular-Fit-Solid-Chinos-2911571291551227-1.jpg",
       "brand": "Roadster",
       "name": "Men Chinos",
       "discount_price": "Rs. 799",
       "price": "Rs. 1999",
-      "id": 33
+      "id": 33,
+      "description": "Roadster Men Chinos are a versatile and stylish choice for casual and semi-formal occasions. These chinos come in a classic black color with a regular fit design. They feature a button and zip closure, along with multiple pockets for convenience. Made from high-quality fabric, they offer comfort and durability. Pair them with a shirt or a casual t-shirt for a polished and fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14782606/2022/8/9/416e812e-da8a-4167-bb8c-0e48dac3322b1660043426558-ADIDAS-Men-Black--Grey-Runesy-Woven-Design-Running-Shoes-610-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14782606/2022/8/9/416e812e-da8a-4167-bb8c-0e48dac3322b1660043426558-ADIDAS-Men-Black--Grey-Runesy-Woven-Design-Running-Shoes-610-1.jpg",
       "brand": "ADIDAS",
       "name": "Men Runesy Shoes",
       "discount_price": "Rs. 3199",
       "price": "Rs. 3999",
-      "id": 34
+      "id": 34,
+      "description": "ADIDAS Men Runesy Shoes are high-performance running shoes designed for comfort and style. These shoes feature a black and grey woven design, offering a sleek and modern look. They are equipped with cushioning and support for a comfortable running experience. The durable outsole provides traction and stability. Whether you're hitting the track or running errands, these shoes will keep you going in style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16470850/2021/12/11/c430d9f6-89e0-4d58-92a1-60982a662f0b1639202760038CasualShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16470850/2021/12/11/c430d9f6-89e0-4d58-92a1-60982a662f0b1639202760038CasualShoes1.jpg",
       "brand": "Puma",
       "name": "Men Sneakers",
       "discount_price": "Rs. 1719",
       "price": "Rs. 3999",
-      "id": 35
+      "id": 35,
+      "description": "Puma Men Sneakers are stylish and comfortable shoes for everyday wear. These sneakers feature a versatile design with a combination of black and white colors. They are made from high-quality materials, ensuring durability and long-lasting performance. The cushioned insole and padded collar provide enhanced comfort. Whether you're going for a walk or hanging out with friends, these sneakers will complement your casual attire."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5669835/2018/6/12/fe5aa3f1-2e78-4a64-b465-372640475a681528807456962-Roadster-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-4841528807456704-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/5669835/2018/6/12/fe5aa3f1-2e78-4a64-b465-372640475a681528807456962-Roadster-Men-Navy-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-4841528807456704-1.jpg",
       "brand": "Roadster",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 594",
       "price": "Rs. 1699",
-      "id": 36
+      "id": 36,
+      "description": "Roadster Men Skinny Fit Jeans are a stylish and trendy choice for fashion-conscious individuals. These jeans come in a navy blue color with a skinny fit and a mid-rise waist. They feature a clean look and are made from stretchable fabric, offering a comfortable and flattering fit. Pair them with a t-shirt or a shirt for a sleek and modern ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8938267/2022/2/25/ee168554-4e24-4917-9905-84b780586cc51645766479661-Roadster-Men-Grey-Melange-Varsity-Graphic-T-shirt-9281645766-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8938267/2022/2/25/ee168554-4e24-4917-9905-84b780586cc51645766479661-Roadster-Men-Grey-Melange-Varsity-Graphic-T-shirt-9281645766-1.jpg",
       "brand": "Roadster",
       "name": "Cotton Printed Graphic T-shirt",
       "discount_price": "Rs. 244",
       "price": "Rs. 699",
-      "id": 37
+      "id": 37,
+      "description": "Roadster Cotton Printed Graphic T-shirt is a trendy and comfortable choice for casual wear. This t-shirt features a grey melange color with a graphic print on the front, adding a stylish touch. It has a round neck and short sleeves for a classic look. Made from soft and breathable cotton fabric, it ensures all-day comfort. Pair it with jeans or shorts for a cool and casual outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10944848/2019/12/30/c8a8d954-e98c-47b1-9b71-5d16a99624401577696975302-Roadster-Men-Shirts-411577696972343-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10944848/2019/12/30/c8a8d954-e98c-47b1-9b71-5d16a99624401577696975302-Roadster-Men-Shirts-411577696972343-1.jpg",
       "brand": "Roadster",
       "name": "Cotton Conversational Print Shirt",
       "discount_price": "Rs. 519",
       "price": "Rs. 1299",
-      "id": 38
+      "id": 38,
+      "description": "Roadster Cotton Conversational Print Shirt is a versatile and stylish choice for men's fashion. This shirt features a conversational print design in a vibrant color palette, adding a playful touch. It is made from soft and breathable cotton fabric, ensuring comfort throughout the day. The shirt has a button-down collar and long sleeves for a classic look. Whether you're going for a casual or semi-formal look, this shirt will elevate your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18684750/2022/7/5/233949d5-a5b3-46be-97a8-965448579d271657008007227-Flying-Machine-Men-Casual-Shoes-5201657008006777-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18684750/2022/7/5/233949d5-a5b3-46be-97a8-965448579d271657008007227-Flying-Machine-Men-Casual-Shoes-5201657008006777-1.jpg",
       "brand": "Flying Machine",
       "name": "Men Mid-Top Sneakers",
       "discount_price": "Rs. 1429",
       "price": "Rs. 2199",
-      "id": 39
+      "id": 39,
+      "description": "Flying Machine Men Mid-Top Sneakers are a stylish and comfortable choice for casual footwear. These sneakers feature a trendy design with a mid-top silhouette and lace-up closure. They are made from high-quality materials, ensuring durability and long-lasting performance. The cushioned insole and padded collar provide enhanced comfort. Whether you're running errands or hanging out with friends, these sneakers will complement your casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16925016/2022/2/5/cc1134fd-37ab-4236-a5f3-82874ce0ea0e1644058684160RoadsterMenWhiteSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16925016/2022/2/5/cc1134fd-37ab-4236-a5f3-82874ce0ea0e1644058684160RoadsterMenWhiteSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 878",
       "price": "Rs. 3995",
-      "id": 40
+      "id": 40,
+      "description": "Roadster Men Sneakers are a versatile and stylish choice for casual footwear. These sneakers come in a clean white color, offering a classic and timeless look. They are made from high-quality materials, ensuring durability and long-lasting performance. The lace-up closure and cushioned insole provide a comfortable fit. Whether you're pairing them with jeans, shorts, or chinos, these sneakers will add a fashionable touch to your ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
       "brand": "Nike",
       "name": "Men Revolution 5 Running Shoes",
       "discount_price": "Rs. 3140",
       "price": "Rs. 3695",
-      "id": 41
+      "id": 41,
+      "description": "Nike Men Revolution 5 Running Shoes are designed for optimal performance and comfort. These shoes feature a stylish design with a combination of colors and a sleek silhouette. They are equipped with cushioning and support to provide a comfortable running experience. The durable outsole offers excellent traction on various surfaces. Whether you're a beginner or a seasoned runner, these shoes will help you reach your fitness goals."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8894777/2019/4/2/e46504d5-37f7-43c9-8580-6c3578ded88d1554181213184-Roadster-Men-Blue-Regular-Fit-Faded-Casual-Shirt-78815541812-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8894777/2019/4/2/e46504d5-37f7-43c9-8580-6c3578ded88d1554181213184-Roadster-Men-Blue-Regular-Fit-Faded-Casual-Shirt-78815541812-1.jpg",
       "brand": "Roadster",
       "name": "Men Faded Denim Shirt",
       "discount_price": "Rs. 755",
       "price": "Rs. 1799",
-      "id": 42
+      "id": 42,
+      "description": "Roadster Men Faded Denim Shirt is a versatile and stylish addition to your casual wardrobe. This shirt features a faded denim fabric that adds a vintage and worn-in look. It has a regular fit and can be easily paired with jeans or chinos for a relaxed yet fashionable outfit. The button-down collar and long sleeves complete the classic design. Upgrade your casual style with this trendy denim shirt."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14276600/2022/6/13/2e06ced2-2fce-413c-87b0-327ad7e9b3ce1655120808637PumaMenBlackSoftrideRiftBreezeWalkingShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14276600/2022/6/13/2e06ced2-2fce-413c-87b0-327ad7e9b3ce1655120808637PumaMenBlackSoftrideRiftBreezeWalkingShoes1.jpg",
       "brand": "Puma",
       "name": "Softride Rift Breeze",
       "discount_price": "Rs. 2924",
       "price": "Rs. 6499",
-      "id": 43
+      "id": 43,
+      "description": "Puma Softride Rift Breeze shoes are designed for walking and provide ultimate comfort and style. These shoes feature a black color with a breathable upper and cushioned midsole, ensuring a comfortable stride. The lightweight design and flexible outsole offer enhanced flexibility and natural movement. Whether you're going for a walk in the park or running errands, these shoes will keep you comfortable throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11201234/2022/4/13/9ac102e1-774a-4790-92b7-bf6fdb57bf051649831416686RoadsterMenGreenSustainableChinos1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11201234/2022/4/13/9ac102e1-774a-4790-92b7-bf6fdb57bf051649831416686RoadsterMenGreenSustainableChinos1.jpg",
       "brand": "Roadster",
       "name": "Men Chinos",
       "discount_price": "Rs. 799",
       "price": "Rs. 1999",
-      "id": 44
+      "id": 44,
+      "description": "Roadster Men Chinos are a must-have for your casual wardrobe. These chinos feature a green color and a sustainable fabric construction, making them an eco-friendly choice. They have a regular fit and can be paired with a variety of tops for a versatile look. The chinos have a mid-rise waist and a button fly closure. Whether you're going for a casual outing or a semi-formal event, these chinos will elevate your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10945088/2020/1/31/80fea103-f089-476d-a27d-6594a069a1281580455058892-Roadster-Men-Shirts-6341580455057092-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10945088/2020/1/31/80fea103-f089-476d-a27d-6594a069a1281580455058892-Roadster-Men-Shirts-6341580455057092-1.jpg",
       "brand": "Roadster",
       "name": "Cotton Striped Shirt",
       "discount_price": "Rs. 1039",
       "price": "Rs. 1999",
-      "id": 45
+      "id": 45,
+      "description": "Roadster Cotton Striped Shirt is a classic and stylish choice for men's fashion. This shirt features a striped pattern in contrasting colors, adding a touch of sophistication. It is made from soft and breathable cotton fabric, ensuring all-day comfort. The shirt has a button-down collar and long sleeves, making it suitable for both casual and semi-formal occasions. Upgrade your wardrobe with this versatile striped shirt."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8903705/2019/9/30/1b45f349-f7bd-41ef-9201-3889a6f814651569846875597-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8903705/2019/9/30/1b45f349-f7bd-41ef-9201-3889a6f814651569846875597-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-1.jpg",
       "brand": "Roadster",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 699",
       "price": "Rs. 1999",
-      "id": 46
+      "id": 46,
+      "description": "Roadster Men Skinny Fit Jeans are a trendy and fashionable choice for men's denim. These jeans feature a slim fit with a mid-rise waist and a clean look. They are made from stretchable denim fabric, ensuring a comfortable and flexible fit. The classic five-pocket styling and the versatile blue color make these jeans a versatile wardrobe staple. Whether you're going for a casual or a semi-formal look, these skinny fit jeans will elevate your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6832388/2018/9/14/7c81479f-9dcf-4e9b-863b-bdc74d8afa2f1536913047231-WROGN-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-2401536913047047-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6832388/2018/9/14/7c81479f-9dcf-4e9b-863b-bdc74d8afa2f1536913047231-WROGN-Men-Grey-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-2401536913047047-1.jpg",
       "brand": "WROGN",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 1511",
       "price": "Rs. 2799",
-      "id": 47
+      "id": 47,
+      "description": "WROGN Men Skinny Fit Jeans are designed to provide a sleek and stylish look. These jeans feature a grey color with a skinny fit and a mid-rise waist. They are made from stretchable denim fabric, ensuring a comfortable and flexible fit. The clean look and minimalistic design make these jeans a versatile choice for various occasions. Whether you're going for a casual or a dressed-up look, these skinny fit jeans will complement your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15022294/2022/8/9/493e26ff-b5f2-48d4-a8a8-7c06bda5dc4d1660037544133-Nike-Men-Black-Quest-4-Running-Shoes-4051660037543748-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15022294/2022/8/9/493e26ff-b5f2-48d4-a8a8-7c06bda5dc4d1660037544133-Nike-Men-Black-Quest-4-Running-Shoes-4051660037543748-1.jpg",
       "brand": "Nike",
       "name": "Men Quest 4 Running Shoes",
       "discount_price": "Rs. 5095",
       "price": "Rs. 5995",
-      "id": 48
+      "id": 48,
+      "description": "Nike Men Quest 4 Running Shoes are engineered to provide exceptional comfort and performance. These running shoes feature a sleek black design with a lightweight and breathable upper. They are equipped with responsive cushioning and a durable outsole for optimal traction. The lace-up closure ensures a secure fit, while the padded collar and tongue provide added comfort. Whether you're training for a marathon or going for a jog, these running shoes will support you every step of the way."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1536592/2018/10/17/e5ad6a20-5fec-4923-aabe-46db9a694e721539765741785-WROGN-Men-Black-Slim-Fit-Checked-Casual-Shirt-68315397657395-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1536592/2018/10/17/e5ad6a20-5fec-4923-aabe-46db9a694e721539765741785-WROGN-Men-Black-Slim-Fit-Checked-Casual-Shirt-68315397657395-1.jpg",
       "brand": "WROGN",
       "name": "Cotton Slim Checked Casual Shirt",
       "discount_price": "Rs. 1079",
       "price": "Rs. 2399",
-      "id": 49
+      "id": 49,
+      "description": "WROGN Cotton Slim Checked Casual Shirt is a stylish and versatile addition to your wardrobe. This shirt features a slim fit with a black and white checked pattern, adding a touch of sophistication. It is made from soft and breathable cotton fabric, ensuring all-day comfort. The shirt has a button-down collar and long sleeves, making it suitable for both casual and semi-formal occasions. Upgrade your style with this trendy checked shirt."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1536592/2018/10/17/e5ad6a20-5fec-4923-aabe-46db9a694e721539765741785-WROGN-Men-Black-Slim-Fit-Checked-Casual-Shirt-68315397657395-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1536592/2018/10/17/e5ad6a20-5fec-4923-aabe-46db9a694e721539765741785-WROGN-Men-Black-Slim-Fit-Checked-Casual-Shirt-68315397657395-1.jpg",
       "brand": "WROGN",
       "name": "Cotton Slim Checked Casual Shirt",
       "discount_price": "Rs. 1079",
       "price": "Rs. 2399",
-      "id": 50
+      "id": 50,
+      "description": "WROGN Cotton Slim Checked Casual Shirt is a stylish and versatile addition to your wardrobe. This shirt features a slim fit with a black and white checked pattern, adding a touch of sophistication. It is made from soft and breathable cotton fabric, ensuring all-day comfort. The shirt has a button-down collar and long sleeves, making it suitable for both casual and semi-formal occasions. Upgrade your style with this trendy checked shirt."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8889511/2019/4/3/f3e974a4-1680-487f-8e9a-3a2df1b3157f1554281507539-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shi-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8889511/2019/4/3/f3e974a4-1680-487f-8e9a-3a2df1b3157f1554281507539-Roadster-Men-Navy-Blue--Beige-Regular-Fit-Checked-Casual-Shi-1.jpg",
       "brand": "Roadster",
       "name": "Men Casual Shirt",
       "discount_price": "Rs. 849",
       "price": "Rs. 1699",
-      "id": 51
+      "id": 51,
+      "description": "Roadster Men Casual Shirt is a stylish and comfortable shirt for everyday wear. It features a regular fit with a navy blue and beige checked pattern. Made from high-quality fabric, this shirt ensures durability and breathability. The button-down collar and full sleeves add a classic touch to the design. Pair it with jeans or chinos for a versatile and fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10167357/2019/9/5/4f59ed7d-e9e4-494a-a3e3-9f0b9c67eee31567682718212-Roadster-Men-Grey-Melange-Solid-Hooded-Sweatshirt-4421567682-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10167357/2019/9/5/4f59ed7d-e9e4-494a-a3e3-9f0b9c67eee31567682718212-Roadster-Men-Grey-Melange-Solid-Hooded-Sweatshirt-4421567682-1.jpg",
       "brand": "Roadster",
       "name": "Men Solid Hooded Sweatshirt",
       "discount_price": "Rs. 779",
       "price": "Rs. 1299",
-      "id": 52
+      "id": 52,
+      "description": "Stay warm and stylish with the Roadster Men Solid Hooded Sweatshirt. It features a grey melange color with a solid design, making it easy to pair with any outfit. The sweatshirt is made from soft and comfortable fabric, providing warmth and coziness. It has a hood with drawstrings and a kangaroo pocket for added functionality. Perfect for casual outings or lounging at home, this sweatshirt is a must-have in your wardrobe."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18962782/2022/7/18/98700a87-5cef-428e-b0f4-5816877c51ca1658126545017-Nike-Dri-FIT-Epic-Mens-Full-Zip-Knit-Training-Jacket-1161658-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18962782/2022/7/18/98700a87-5cef-428e-b0f4-5816877c51ca1658126545017-Nike-Dri-FIT-Epic-Mens-Full-Zip-Knit-Training-Jacket-1161658-1.jpg",
       "brand": "Nike",
       "name": "Men Dri-FIT Sporty Jacket",
       "discount_price": "Rs. 2630",
       "price": "Rs. 3095",
-      "id": 53
+      "id": 53,
+      "description": "The Nike Men Dri-FIT Sporty Jacket is a perfect choice for your training sessions. It features a full zip-up design and is made from Dri-FIT fabric that wicks away moisture to keep you dry and comfortable. The jacket has a sporty look with a stand-up collar and ribbed cuffs for a snug fit. Whether you're hitting the gym or going for a run, this jacket will provide you with the right combination of style and performance."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7139455/2020/9/24/39287e29-0f88-47b3-b1d9-b33095aab3a31600932034431-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7139455/2020/9/24/39287e29-0f88-47b3-b1d9-b33095aab3a31600932034431-Roadster-Men-Blue-Skinny-Fit-Mid-Rise-Clean-Look-Stretchable-1.jpg",
       "brand": "Roadster",
       "name": "Men Skinny Fit Jeans",
       "discount_price": "Rs. 1049",
       "price": "Rs. 2999",
-      "id": 54
+      "id": 54,
+      "description": "Upgrade your denim collection with the Roadster Men Skinny Fit Jeans. These jeans feature a modern skinny fit with a mid-rise waist. The clean look and stretchable fabric provide a comfortable and stylish fit. Pair them with your favorite t-shirt or shirt for a trendy casual outfit. These jeans are a versatile wardrobe essential that can be dressed up or down for various occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740716/2022/7/15/acb7a7c5-6646-40e5-931f-335282b156a81657867977596-ADIDAS-Men-Track-Pants-4531657867976770-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740716/2022/7/15/acb7a7c5-6646-40e5-931f-335282b156a81657867977596-ADIDAS-Men-Track-Pants-4531657867976770-1.jpg",
       "brand": "ADIDAS",
       "name": "M SERENO PT Track Pants",
       "discount_price": "Rs. 1679",
       "price": "Rs. 2799",
-      "id": 55
+      "id": 55,
+      "description": "ADIDAS M SERENO PT Track Pants are designed for both comfort and style. Made from high-quality fabric, these track pants offer a relaxed fit with an elastic waistband and drawstring closure for a personalized fit. The iconic ADIDAS logo adds a touch of sporty flair. Whether you're hitting the gym or lounging at home, these track pants will keep you comfortable and looking great."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14643392/2021/7/15/e7c68423-29c5-40f2-96ed-be6954169ab51626340451998-Nike-Dri-FIT-Challenger-Mens-Woven-Running-Pants-77616263404-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14643392/2021/7/15/e7c68423-29c5-40f2-96ed-be6954169ab51626340451998-Nike-Dri-FIT-Challenger-Mens-Woven-Running-Pants-77616263404-1.jpg",
       "brand": "Nike",
       "name": "Men Solid Woven Running Pants",
       "discount_price": "Rs. 2621",
       "price": "Rs. 3495",
-      "id": 56
+      "id": 56,
+      "description": "Stay comfortable and stylish during your runs with the Nike Men Solid Woven Running Pants. These pants feature a lightweight and breathable woven fabric that keeps you cool and dry. They have an elastic waistband with a drawstring for a secure fit, and zippered pockets to store your essentials. With their solid design and Nike logo, these pants are perfect for both workouts and casual wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2338465/2020/10/15/75cca87d-29e7-4962-9d5f-2e3e15d01cfe1602751193849-WROGN-Men-Blue-Jogger-Mid-Rise-Clean-Look-Stretchable-Jeans--1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2338465/2020/10/15/75cca87d-29e7-4962-9d5f-2e3e15d01cfe1602751193849-WROGN-Men-Blue-Jogger-Mid-Rise-Clean-Look-Stretchable-Jeans--1.jpg",
       "brand": "WROGN",
       "name": "Men Jogger Jeans",
       "discount_price": "Rs. 1499",
       "price": "Rs. 2999",
-      "id": 57
+      "id": 57,
+      "description": "WROGN Men Jogger Jeans are a perfect combination of comfort and style. These jeans feature a jogger-style silhouette with a mid-rise and a clean look. Made from stretchable fabric, they offer flexibility and ease of movement. The elasticized cuffs and drawstring waistband add a trendy touch. Whether you're going for a casual outing or running errands, these jogger jeans will keep you looking fashionable."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17146178/2022/8/4/0d55984d-0ba1-4879-bdb0-fe5541091cba1659610687969-ADIDAS-Men-Black--Grey-Woven-Design-Aerojolt-Running-Shoes-1-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17146178/2022/8/4/0d55984d-0ba1-4879-bdb0-fe5541091cba1659610687969-ADIDAS-Men-Black--Grey-Woven-Design-Aerojolt-Running-Shoes-1-1.jpg",
       "brand": "ADIDAS",
       "name": "Men Aerojolt Running Shoes",
       "discount_price": "Rs. 4499",
       "price": "Rs. 5999",
-      "id": 58
+      "id": 58,
+      "description": "ADIDAS Men Aerojolt Running Shoes are designed for performance and style. These shoes feature a black and grey woven design that provides breathability and support. The cushioned insole and padded collar offer comfort and stability during your runs. The lace-up closure ensures a secure fit, and the durable outsole provides traction on various surfaces. Whether you're a seasoned runner or a fitness enthusiast, these running shoes are a great choice."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10939048/2020/1/30/fc83c8e3-27ed-46d6-b539-444b683b48e61580372663614-Roadster-Men-Mustard-Solid-Round-Neck-T-shirt-63915803726623-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10939048/2020/1/30/fc83c8e3-27ed-46d6-b539-444b683b48e61580372663614-Roadster-Men-Mustard-Solid-Round-Neck-T-shirt-63915803726623-1.jpg",
       "brand": "Roadster",
       "name": "Men Solid Round Neck Pure Cotton T-shirt",
       "discount_price": "Rs. 384",
       "price": "Rs. 699",
-      "id": 59
+      "id": 59,
+      "description": "Add a pop of color to your wardrobe with the Roadster Men Solid Round Neck Pure Cotton T-shirt. This t-shirt features a vibrant mustard color with a solid design, making it a versatile piece for layering or wearing on its own. It is made from pure cotton fabric, ensuring softness and breathability. The round neck and short sleeves offer a classic and comfortable fit. Pair it with jeans or shorts for a casual and stylish look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4653773/2022/7/6/e1ee8a44-1ec8-45c8-8c44-4d0a08a034bb1657094369787-Roadster-Men-Blue-Slim-Fit-Mid-Rise-Clean-Look-Jeans-5681657-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4653773/2022/7/6/e1ee8a44-1ec8-45c8-8c44-4d0a08a034bb1657094369787-Roadster-Men-Blue-Slim-Fit-Mid-Rise-Clean-Look-Jeans-5681657-1.jpg",
       "brand": "Roadster",
       "name": "Men Slim Fit Jeans",
       "discount_price": "Rs. 559",
       "price": "Rs. 1399",
-      "id": 60
+      "id": 60,
+      "description": "Update your denim collection with the Roadster Men Slim Fit Jeans. These jeans feature a slim fit with a mid-rise and a clean look. Made from high-quality fabric, they offer a comfortable and flattering fit. The versatile blue color makes them easy to pair with various tops. Whether you're dressing up or going for a casual look, these jeans are a wardrobe staple."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12422178/2020/11/10/275153e1-134d-4099-879e-9fb9bf7b639b1604994896935-WROGN-Men-Jeans-7571604994894568-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12422178/2020/11/10/275153e1-134d-4099-879e-9fb9bf7b639b1604994896935-WROGN-Men-Jeans-7571604994894568-1.jpg",
       "brand": "WROGN",
       "name": "Men Slim Fit Jeans",
       "discount_price": "Rs. 1349",
       "price": "Rs. 2999",
-      "id": 61
+      "id": 61,
+      "description": "Upgrade your denim collection with the WROGN Men Slim Fit Jeans. These jeans feature a slim fit design that offers a contemporary look. Made from high-quality fabric, they provide comfort and durability. The classic blue color makes them versatile and easy to pair with different outfits. Whether you're going for a casual or a slightly dressed-up look, these jeans are a stylish choice."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11326800/2020/1/30/8231a8bf-65c3-4b7c-9c67-a35ca1ec396f1580380871535-Roadster-Men-Shirts-5681580380869586-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11326800/2020/1/30/8231a8bf-65c3-4b7c-9c67-a35ca1ec396f1580380871535-Roadster-Men-Shirts-5681580380869586-1.jpg",
       "brand": "Roadster",
       "name": "Cotton Checked Shirt",
       "discount_price": "Rs. 764",
       "price": "Rs. 1699",
-      "id": 62
+      "id": 62,
+      "description": "Stay stylish with the Roadster Cotton Checked Shirt for men. This shirt features a classic checked pattern in a comfortable cotton fabric. It offers a regular fit and is perfect for casual occasions. The button-down collar and full sleeves add a touch of sophistication. Pair it with jeans or chinos for a versatile and trendy look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2033152/2019/3/7/83168dd0-da64-45c8-8434-23e353d094421551936377699-WROGN-Men-Charcoal-Grey--Black-Camouflage-Printed-Joggers-81-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2033152/2019/3/7/83168dd0-da64-45c8-8434-23e353d094421551936377699-WROGN-Men-Charcoal-Grey--Black-Camouflage-Printed-Joggers-81-1.jpg",
       "brand": "WROGN",
       "name": "Men Camouflage Joggers",
       "discount_price": "Rs. 1649",
       "price": "Rs. 2999",
-      "id": 63
+      "id": 63,
+      "description": "Add a trendy touch to your athleisure collection with the WROGN Men Camouflage Joggers. These joggers feature a stylish camouflage print in charcoal grey and black. Made from comfortable fabric, they offer a relaxed and comfortable fit. The elasticized waistband and drawstring closure ensure a secure and adjustable fit. Whether you're hitting the gym or lounging at home, these joggers are a fashionable choice."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2001884/2022/4/26/2a8e5f4b-5b82-44ce-86e4-c2b3cca7d3bf1650970632175-WROGN-Men-Brown--Navy-Relaxed--Smart-Fit-Checked-Casual-Shir-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2001884/2022/4/26/2a8e5f4b-5b82-44ce-86e4-c2b3cca7d3bf1650970632175-WROGN-Men-Brown--Navy-Relaxed--Smart-Fit-Checked-Casual-Shir-1.jpg",
       "brand": "WROGN",
       "name": "Men Relaxed & Smart Fit Casual Shirt",
       "discount_price": "Rs. 1034",
       "price": "Rs. 2299",
-      "id": 64
+      "id": 64,
+      "description": "Get a sophisticated and smart look with the WROGN Men Relaxed & Smart Fit Casual Shirt. This shirt features a stylish checked pattern in brown and navy. It offers a relaxed and comfortable fit, perfect for casual occasions. The button-down collar and full sleeves add a touch of elegance. Pair it with jeans or chinos for a versatile and fashionable outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2242690/2022/4/25/9f017e01-ff02-427a-be58-91260ca081631650883763658MastHarbourMenWhiteSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2242690/2022/4/25/9f017e01-ff02-427a-be58-91260ca081631650883763658MastHarbourMenWhiteSneakers1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Sneakers",
       "discount_price": "Rs. 1224",
       "price": "Rs. 3499",
-      "id": 65
+      "id": 65,
+      "description": "Step up your footwear game with the Mast & Harbour Men Sneakers. These sneakers feature a classic white color with a clean and versatile design. Made from high-quality materials, they offer comfort and durability. The lace-up closure ensures a secure fit, while the rubber sole provides traction and grip. Whether you're going for a casual or sporty look, these sneakers are a stylish choice."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9951777/2019/8/19/8e563456-3060-48ab-b4fe-3058e9bb7e771566203738559-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9951777/2019/8/19/8e563456-3060-48ab-b4fe-3058e9bb7e771566203738559-Roadster-Men-Navy-Blue--Grey-Regular-Fit-Checked-Casual-Shir-1.jpg",
       "brand": "Roadster",
       "name": "Men Casual Shirt",
       "discount_price": "Rs. 799",
       "price": "Rs. 1999",
-      "id": 66
+      "id": 66,
+      "description": "Stay comfortable and stylish with the Roadster Men Casual Shirt. This shirt features a regular fit design in a classic navy blue and grey checked pattern. It is made from high-quality fabric for durability and comfort. The button-down collar and full sleeves add a touch of sophistication. Pair it with jeans or chinos for a versatile and trendy look on casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12947396/2021/1/27/23fa6246-cf75-41e7-9bb5-8591727e78d51611740719400-Roadster-Men-Shirts-2451611740717583-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12947396/2021/1/27/23fa6246-cf75-41e7-9bb5-8591727e78d51611740719400-Roadster-Men-Shirts-2451611740717583-1.jpg",
       "brand": "Roadster",
       "name": "Regular Fit Casual Shirt",
       "discount_price": "Rs. 679",
       "price": "Rs. 1699",
-      "id": 67
+      "id": 67,
+      "description": "Update your casual wardrobe with the Roadster Regular Fit Casual Shirt. This shirt features a comfortable regular fit design in a solid color. It is made from high-quality fabric that offers a soft and breathable feel. The button-down collar and full sleeves add a classic touch. Pair it with jeans or chinos for a relaxed and stylish look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/3/09814e9d-8388-4857-8f41-a03c9d9698701570086314065-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/3/09814e9d-8388-4857-8f41-a03c9d9698701570086314065-1.jpg",
       "brand": "Allen Solly",
       "name": "Solid Polo Collar Pure Cotton T-shirt",
       "discount_price": "Rs. 599",
       "price": "Rs. 999",
-      "id": 68
+      "id": 68,
+      "description": "Stay cool and comfortable with the Allen Solly Solid Polo Collar Pure Cotton T-shirt. This t-shirt features a classic polo collar design with a solid color. It is made from pure cotton fabric, ensuring breathability and softness. The regular fit offers a relaxed and casual look. Pair it with jeans or shorts for a stylish and laid-back outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4149448/2019/1/24/16e144d5-fa2c-4069-a4ee-bde11e4bc28b1548329973001-Mast--Harbour-Men-Multicoloured-Striped-Polo-Collar-T-shirt--1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4149448/2019/1/24/16e144d5-fa2c-4069-a4ee-bde11e4bc28b1548329973001-Mast--Harbour-Men-Multicoloured-Striped-Polo-Collar-T-shirt--1.jpg",
       "brand": "Mast & Harbour",
       "name": "Striped Polo Collar T-shirt",
       "discount_price": "Rs. 675",
       "price": "Rs. 1299",
-      "id": 69
+      "id": 69,
+      "description": "Add a pop of color to your wardrobe with the Mast & Harbour Striped Polo Collar T-shirt. This t-shirt features a stylish striped pattern in multiple colors. It is made from comfortable fabric that offers a soft and breathable feel. The polo collar and short sleeves add a classic touch. Pair it with jeans or chinos for a casual and trendy look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17148202/2022/2/22/b2962f72-50ef-411b-897d-27086439175b1645519140446-Puma-Men-Casual-Shoes-5221645519140065-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17148202/2022/2/22/b2962f72-50ef-411b-897d-27086439175b1645519140446-Puma-Men-Casual-Shoes-5221645519140065-1.jpg",
       "brand": "Puma",
       "name": "Men Cave Sneakers",
       "discount_price": "Rs. 2149",
       "price": "Rs. 4299",
-      "id": 70
+      "id": 70,
+      "description": "Elevate your casual footwear collection with the Puma Men Cave Sneakers. These sneakers feature a modern design with a blend of colors and textures. They are made from high-quality materials, ensuring durability and comfort. The lace-up closure provides a secure fit, while the rubber sole offers traction and stability. Whether you're heading out for a walk or running errands, these sneakers will complement your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11278632/2020/1/31/c160e608-8eb5-4f5c-98da-9f71d34b74e01580443927749-Roadster-Men-Tshirts-9961580443926160-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11278632/2020/1/31/c160e608-8eb5-4f5c-98da-9f71d34b74e01580443927749-Roadster-Men-Tshirts-9961580443926160-1.jpg",
       "brand": "Roadster",
       "name": "Self Design Polo Collar Pure Cotton T-shirt",
       "discount_price": "Rs. 524",
       "price": "Rs. 1499",
-      "id": 71
+      "id": 71,
+      "description": "Upgrade your casual wardrobe with the Roadster Self Design Polo Collar Pure Cotton T-shirt. This t-shirt features a self-design pattern for a stylish look. It is made from pure cotton fabric, ensuring comfort and breathability. The polo collar adds a touch of sophistication, making it suitable for both casual and semi-formal occasions. Pair it with jeans or chinos for a versatile and trendy outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17394938/2022/3/19/a9bec382-821b-4b86-b4af-5a91b744afe61647671850312-Puma-Men-Black-Solid-Slim-Fit-Track-Pants-2061647671849656-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17394938/2022/3/19/a9bec382-821b-4b86-b4af-5a91b744afe61647671850312-Puma-Men-Black-Solid-Slim-Fit-Track-Pants-2061647671849656-1.jpg",
       "brand": "Puma",
       "name": "Men Solid Slim Fit Track Pants",
       "discount_price": "Rs. 1499",
       "price": "Rs. 2499",
-      "id": 72
+      "id": 72,
+      "description": "Achieve a sporty and stylish look with the Puma Men Solid Slim Fit Track Pants. These track pants feature a solid black color for a sleek and versatile appearance. They are designed with a slim fit silhouette, offering a modern and athletic look. Made from high-quality materials, they provide comfort and flexibility for active wear. The elastic waistband and drawstring ensure a secure and adjustable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2498481/2018/10/15/6dc42f97-52b2-4401-b593-44047d67042f1539587371270-Roadster-Time-Travlr-Men-Olive-Green-Solid-Scoop-Neck-T-shirt-2511539587370970-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2498481/2018/10/15/6dc42f97-52b2-4401-b593-44047d67042f1539587371270-Roadster-Time-Travlr-Men-Olive-Green-Solid-Scoop-Neck-T-shirt-2511539587370970-1.jpg",
       "brand": "Roadster",
-      "name": "Time Travlr Sleveless Pure Cotton T-shirt",
+      "name": "Time Travlr Sleeveless Pure Cotton T-shirt",
       "discount_price": "Rs. 179",
       "price": "Rs. 399",
-      "id": 73
+      "id": 73,
+      "description": "Stay cool and comfortable during warm weather with the Roadster Time Travlr Sleeveless Pure Cotton T-shirt. This t-shirt features a solid olive green color and a scoop neck design for a casual and relaxed look. It is made from pure cotton fabric, ensuring softness and breathability. The sleeveless design provides freedom of movement, making it perfect for outdoor activities or lounging. Pair it with shorts or jeans for a laid-back and effortless style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19347926/2022/8/2/d9cd042a-ebba-4dd0-a19f-2b327571442b1659426938097AllenSollyWhiteShirt1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19347926/2022/8/2/d9cd042a-ebba-4dd0-a19f-2b327571442b1659426938097AllenSollyWhiteShirt1.jpg",
       "brand": "Allen Solly",
       "name": "Men Slim Fit Casual Shirt",
       "discount_price": "Rs. 2124",
       "price": "Rs. 2499",
-      "id": 74
+      "id": 74,
+      "description": "Elevate your formal or casual attire with the Allen Solly Men Slim Fit Casual Shirt. This shirt features a timeless white color, making it a versatile wardrobe staple. It is tailored in a slim fit silhouette, offering a modern and flattering look. Made from high-quality fabric, it provides comfort and durability. The classic collar and long sleeves add a sophisticated touch, making it suitable for various occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18786366/2022/7/1/58ccd362-92bc-464e-b4b7-f91de32cf8fb1656678218095-Puma-Unisex-Casual-Shoes-8831656678217697-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18786366/2022/7/1/58ccd362-92bc-464e-b4b7-f91de32cf8fb1656678218095-Puma-Unisex-Casual-Shoes-8831656678217697-1.jpg",
       "brand": "Puma",
       "name": "Unisex RS-Fast Limiter Sneaker",
       "discount_price": "Rs. 7999",
       "price": "Rs. 9999",
-      "id": 75
+      "id": 75,
+      "description": "Step up your sneaker game with the Puma Unisex RS-Fast Limiter Sneaker. These sneakers feature a unique design with a blend of colors and textures, offering a bold and fashionable look. They are made from high-quality materials, ensuring comfort, durability, and support. The lace-up closure provides a secure fit, while the rubber outsole offers traction and grip. Whether you're going for a run or adding a sporty touch to your outfit, these sneakers are a perfect choice."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10384501/2020/11/6/f8a9d333-d5fb-45e6-8d4e-b426a65615131604640103374-Roadster-Men-Charcoal-Solid-Round-Neck-T-shirt-3841604640101-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10384501/2020/11/6/f8a9d333-d5fb-45e6-8d4e-b426a65615131604640103374-Roadster-Men-Charcoal-Solid-Round-Neck-T-shirt-3841604640101-1.jpg",
       "brand": "Roadster",
       "name": "Solid Round Neck T-shirt",
       "discount_price": "Rs. 239",
       "price": "Rs. 599",
-      "id": 76
+      "id": 76,
+      "description": "Add a versatile and comfortable staple to your wardrobe with the Roadster Solid Round Neck T-shirt. This t-shirt features a solid charcoal color, making it easy to pair with various bottoms. It is made from high-quality fabric, ensuring softness and durability. The round neck design offers a classic and casual look, suitable for everyday wear. Pair it with jeans, shorts, or joggers for a laid-back and effortless style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15267340/2021/9/18/5b34d1ee-ed05-44e8-9e2b-cca8ff4720c01631961195051-Puma-Men-Sweatshirts-9651631961194513-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15267340/2021/9/18/5b34d1ee-ed05-44e8-9e2b-cca8ff4720c01631961195051-Puma-Men-Sweatshirts-9651631961194513-1.jpg",
       "brand": "Puma",
       "name": "Men Printed Sweatshirt",
       "discount_price": "Rs. 1399",
       "price": "Rs. 2799",
-      "id": 77
+      "id": 77,
+      "description": "Stay warm and stylish with the Puma Men Printed Sweatshirt. This sweatshirt features a unique printed design, adding a trendy and eye-catching element to your outfit. It is made from a soft and cozy fabric blend, providing warmth and comfort. The ribbed cuffs and hem ensure a secure fit and help retain heat. Whether you're heading to the gym or hanging out with friends, this sweatshirt is a perfect choice for a cool and casual look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11896002/2020/7/13/82dff72e-b661-464c-aaa1-30e0aa2275821594635199067-Roadster-Men-Shirts-4581594635196744-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11896002/2020/7/13/82dff72e-b661-464c-aaa1-30e0aa2275821594635199067-Roadster-Men-Shirts-4581594635196744-1.jpg",
       "brand": "Roadster",
       "name": "Cotton Linen Casual Shirt",
       "discount_price": "Rs. 419",
       "price": "Rs. 999",
-      "id": 78
+      "id": 78,
+      "description": "Add a touch of casual sophistication to your wardrobe with the Roadster Cotton Linen Casual Shirt. This shirt features a blend of cotton and linen fabric, offering a lightweight and breathable option for warm weather. The relaxed fit and casual design make it perfect for various occasions, from weekend outings to beach vacations. Pair it with shorts or chinos for a laid-back and effortless style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18801056/2022/6/29/9c2538f0-36ef-43cb-a778-7b6763f5475c1656497843055-Nike-Flex-Experience-Run-11-Next-Nature-Mens-Road-Running-Sh-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18801056/2022/6/29/9c2538f0-36ef-43cb-a778-7b6763f5475c1656497843055-Nike-Flex-Experience-Run-11-Next-Nature-Mens-Road-Running-Sh-1.jpg",
       "brand": "Nike",
       "name": "Men Flex Experience Running",
       "discount_price": "Rs. 3996",
       "price": "Rs. 4995",
-      "id": 79
+      "id": 79,
+      "description": "Enhance your running performance with the Nike Men Flex Experience Running shoes. These shoes feature a lightweight and flexible design, providing a natural and comfortable stride. The breathable mesh upper keeps your feet cool and dry, while the cushioned insole and foam midsole offer excellent support and shock absorption. The rubber outsole with flex grooves ensures traction and flexibility on various surfaces. Whether you're a seasoned runner or just starting out, these shoes are designed to help you go the extra mile."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740806/2022/6/20/df8a3940-5133-422e-ab82-a2b88e1694841655724011371-ADIDAS-Men-Track-Pants-1511655724010727-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16740806/2022/6/20/df8a3940-5133-422e-ab82-a2b88e1694841655724011371-ADIDAS-Men-Track-Pants-1511655724010727-1.jpg",
       "brand": "ADIDAS",
-      "name": "Men Solid  Track Pants",
+      "name": "Men Solid Track Pants",
       "discount_price": "Rs. 2519",
       "price": "Rs. 2799",
-      "id": 80
+      "id": 80,
+      "description": "Stay comfortable and stylish during your workouts with the ADIDAS Men Solid Track Pants. These track pants feature a solid color design, making them a versatile choice for both athletic and casual wear. They are made from high-quality fabric, offering breathability and flexibility. The elastic waistband with a drawstring ensures a secure and adjustable fit. Whether you're hitting the gym or lounging at home, these track pants provide comfort and style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10409970/2019/10/29/50d13f27-83e3-471d-ba9f-466ad8ff00bc1572353598682-WROGN-Men-Shirts-2501572353596580-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10409970/2019/10/29/50d13f27-83e3-471d-ba9f-466ad8ff00bc1572353598682-WROGN-Men-Shirts-2501572353596580-1.jpg",
       "brand": "WROGN",
       "name": "Men Slim Fit Casual Shirt",
       "discount_price": "Rs. 1199",
       "price": "Rs. 2399",
-      "id": 81
+      "id": 81,
+      "description": "Upgrade your casual wardrobe with the WROGN Men Slim Fit Casual Shirt. This shirt features a slim fit design that accentuates your body shape, giving you a stylish and modern look. It is made from high-quality fabric, ensuring comfort and durability. The versatile design allows you to dress it up for semi-formal occasions or dress it down for a casual outing. Pair it with jeans or chinos for a complete ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14824750/2022/5/4/e1a3d6cc-b878-44fe-8bc3-96c9f4ba05d01651662686711PumaUnisexWhiteSolidTazon7RunningShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14824750/2022/5/4/e1a3d6cc-b878-44fe-8bc3-96c9f4ba05d01651662686711PumaUnisexWhiteSolidTazon7RunningShoes1.jpg",
       "brand": "Puma",
       "name": "Unisex Tazon 7 Running Shoes",
       "discount_price": "Rs. 2099",
       "price": "Rs. 5999",
-      "id": 82
+      "id": 82,
+      "description": "Experience optimal comfort and performance with the Puma Unisex Tazon 7 Running Shoes. These shoes are designed for both men and women, offering a versatile option for any runner. The cushioned insole and responsive midsole provide excellent shock absorption and energy return, reducing fatigue during your runs. The durable outsole offers reliable traction on various surfaces. Whether you're a seasoned runner or just starting out, these running shoes are a great addition to your athletic footwear collection."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11359076/2020/2/11/1e62e63a-a809-4c13-a26a-395506f303e31581400696044-WROGN-Men-Jeans-4281581400693902-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11359076/2020/2/11/1e62e63a-a809-4c13-a26a-395506f303e31581400696044-WROGN-Men-Jeans-4281581400693902-1.jpg",
       "brand": "WROGN",
       "name": "Men Slim Fit Jeans",
       "discount_price": "Rs. 1259",
       "price": "Rs. 2799",
-      "id": 83
+      "id": 83,
+      "description": "Get a stylish and comfortable fit with the WROGN Men Slim Fit Jeans. These jeans are crafted with a slim fit design that complements your body shape while providing freedom of movement. They are made from high-quality denim fabric, ensuring durability and long-lasting wear. The classic five-pocket styling adds a timeless touch, making these jeans a versatile choice for various casual occasions. Pair them with your favorite t-shirts or shirts for a trendy and effortless look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10398209/2019/11/22/6baed568-ce5b-4782-b243-be56289f07781574410252361-Roadster-Men-Shirts-1691574410250683-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10398209/2019/11/22/6baed568-ce5b-4782-b243-be56289f07781574410252361-Roadster-Men-Shirts-1691574410250683-1.jpg",
       "brand": "Roadster",
       "name": "Men Cotton Casual Shirt",
       "discount_price": "Rs. 610",
       "price": "Rs. 1299",
-      "id": 84
+      "id": 84,
+      "description": "Elevate your casual style with the Roadster Men Cotton Casual Shirt. This shirt features a comfortable cotton fabric that keeps you cool and relaxed throughout the day. The regular fit design offers a relaxed silhouette and allows ease of movement. It is adorned with a classic button-down collar and a chest pocket for added style and functionality. Pair it with jeans or chinos for a versatile and fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2363519/2022/4/19/4107aca7-aa30-4dd1-8881-2c5bed8da3a31650366013572RoadsterTimeTravlrMenBlackBasicPureCottonSustainableChinos1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2363519/2022/4/19/4107aca7-aa30-4dd1-8881-2c5bed8da3a31650366013572RoadsterTimeTravlrMenBlackBasicPureCottonSustainableChinos1.jpg",
       "brand": "Roadster",
       "name": "Men Time Travlr Basic Cotton Chinos",
       "discount_price": "Rs. 939",
       "price": "Rs. 1999",
-      "id": 85
+      "id": 85,
+      "description": "Upgrade your wardrobe with the Roadster Men Time Travlr Basic Cotton Chinos. These chinos feature a classic design with a modern twist, making them a versatile choice for various occasions. They are made from pure cotton fabric, offering comfort and breathability. The regular fit silhouette provides a relaxed feel, while the solid black color adds a touch of sophistication. Pair them with a shirt or t-shirt for a stylish and effortless look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8714063/2019/2/15/4af5dfcf-8c7f-4fa6-b4fe-1d36a2fc47001550233646175-Mast--Harbour-Men-Shirts-1251550233644851-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8714063/2019/2/15/4af5dfcf-8c7f-4fa6-b4fe-1d36a2fc47001550233646175-Mast--Harbour-Men-Shirts-1251550233644851-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Slim Fit Casual Shirt",
       "discount_price": "Rs. 679",
       "price": "Rs. 1699",
-      "id": 86
+      "id": 86,
+      "description": "Achieve a smart and casual look with the Mast & Harbour Men Slim Fit Casual Shirt. This shirt is crafted with a slim fit design that flatters your physique while ensuring comfort. It is made from high-quality fabric, offering breathability and durability. The button-down collar and chest pocket add a stylish touch, making it suitable for both formal and casual occasions. Pair it with chinos or jeans for a versatile and trendy outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/3/9721614a-f882-40c6-a5ea-f62c90f829741570087302752-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/10/3/9721614a-f882-40c6-a5ea-f62c90f829741570087302752-1.jpg",
       "brand": "Allen Solly",
       "name": "Solid Polo Collar Pure Cotton T-shirt",
       "discount_price": "Rs. 549",
       "price": "Rs. 999",
-      "id": 87
+      "id": 87,
+      "description": "Stay stylish and comfortable with the Allen Solly Solid Polo Collar Pure Cotton T-shirt. This t-shirt features a classic polo collar design and is made from pure cotton fabric, offering a soft and breathable feel. The solid color adds versatility, allowing you to pair it with various bottoms. Whether you're heading to a casual outing or running errands, this t-shirt is a perfect choice for a relaxed and fashionable look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/3082387/2018/4/12/11523515363161-Mast--Harbour-Men-Tshirts-7751523515362997-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/3082387/2018/4/12/11523515363161-Mast--Harbour-Men-Tshirts-7751523515362997-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Solid Round Neck T-shirt",
       "discount_price": "Rs. 319",
       "price": "Rs. 799",
-      "id": 88
+      "id": 88,
+      "description": "Update your casual wardrobe with the Mast & Harbour Solid Round Neck T-shirt. This t-shirt features a classic round neck design and is made from high-quality fabric, ensuring comfort and durability. The solid color makes it a versatile piece that can be easily paired with jeans, shorts, or joggers. Whether you're lounging at home or going for a casual outing, this t-shirt offers a relaxed and stylish look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16331428/2022/1/4/dae00995-d6ea-4b39-99e1-be3345b6c9b91641295544604-Nike-Dri-FIT-Challenger-Mens-Knit-Running-Pants-430164129554-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16331428/2022/1/4/dae00995-d6ea-4b39-99e1-be3345b6c9b91641295544604-Nike-Dri-FIT-Challenger-Mens-Knit-Running-Pants-430164129554-1.jpg",
       "brand": "Nike",
       "name": "Men Printed Running Pants",
       "discount_price": "Rs. 2796",
       "price": "Rs. 3495",
-      "id": 89
+      "id": 89,
+      "description": "Enhance your running performance with the Nike Men Printed Running Pants. These pants are designed with comfort and functionality in mind. They are made from high-quality fabric that wicks away sweat and keeps you dry throughout your run. The elastic waistband provides a secure and adjustable fit, while the tapered legs offer a streamlined look. The all-over print adds a touch of style, making these pants a perfect choice for both workouts and casual wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11361478/2020/3/5/3615f361-5590-464f-baa8-7f892aa3f62f1583412030777-WROGN-Men-Shirts-6101583412028593-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11361478/2020/3/5/3615f361-5590-464f-baa8-7f892aa3f62f1583412030777-WROGN-Men-Shirts-6101583412028593-1.jpg",
       "brand": "WROGN",
       "name": "Slim Fit Checked Casual Shirt",
       "discount_price": "Rs. 1079",
       "price": "Rs. 2399",
-      "id": 90
+      "id": 90,
+      "description": "Make a style statement with the WROGN Slim Fit Checked Casual Shirt. This shirt features a classic checked pattern that adds a touch of sophistication to your casual attire. It is designed with a slim fit silhouette that offers a modern and tailored look. The high-quality fabric ensures comfort and durability, making it suitable for all-day wear. Pair it with jeans or chinos for a versatile and trendy outfit."
     },
     {
       "image":
@@ -3058,7 +3058,8 @@
       "name": "Drop Shoulder Longline T-shirt",
       "discount_price": "Rs. 399",
       "price": "Rs. 799",
-      "id": 91
+      "id": 91,
+      "description": "Achieve a trendy and casual look with the Roadster Drop Shoulder Longline T-shirt. This t-shirt features a stylish drop shoulder design and a longer length, adding a modern twist to a classic silhouette. It is made from high-quality fabric, offering comfort and durability. The black color provides versatility, making it easy to pair with jeans, shorts, or joggers. Whether you're hanging out with friends or running errands, this t-shirt is a perfect choice for a relaxed and fashionable outfit."
     },
     {
       "image":
@@ -3067,7 +3068,8 @@
       "name": "Men Solid Sweatshirt",
       "discount_price": "Rs. 764",
       "price": "Rs. 1699",
-      "id": 92
+      "id": 92,
+      "description": "Stay warm and stylish with the Roadster Men Solid Sweatshirt. This sweatshirt is crafted from soft and comfortable fabric, providing warmth during cooler days. The solid black color adds versatility, making it easy to pair with jeans, joggers, or casual pants. It features a hood and a kangaroo pocket for added functionality and style. Whether you're heading to the gym or lounging at home, this sweatshirt is a perfect choice for a cozy and fashionable look."
     },
     {
       "image":
@@ -3076,7 +3078,8 @@
       "name": "Men Slim Fit Jeans",
       "discount_price": "Rs. 1299",
       "price": "Rs. 2599",
-      "id": 93
+      "id": 93,
+      "description": "Update your denim collection with the WROGN Men Slim Fit Jeans. These jeans are designed with a slim fit silhouette that provides a modern and tailored look. They are made from high-quality fabric, ensuring comfort and durability. The versatile blue color and classic five-pocket styling make them a perfect choice for various casual occasions. Pair them with a t-shirt or shirt for a stylish and effortless outfit."
     },
     {
       "image":
@@ -3085,7 +3088,8 @@
       "name": "Striped Polo Collar T-shirt",
       "discount_price": "Rs. 584",
       "price": "Rs. 1299",
-      "id": 94
+      "id": 94,
+      "description": "Add a touch of sophistication to your casual wardrobe with the Mast & Harbour Striped Polo Collar T-shirt. This t-shirt features a classic polo collar design and a stylish striped pattern. It is made from high-quality fabric, offering comfort and breathability. The blue and white stripes create a timeless and versatile look, making it easy to pair with jeans, chinos, or shorts. Whether you're going for a casual outing or attending a weekend gathering, this t-shirt will elevate your style."
     },
     {
       "image":
@@ -3094,7 +3098,8 @@
       "name": "Unisex Up Sneakers",
       "discount_price": "Rs. 3199",
       "price": "Rs. 3999",
-      "id": 95
+      "id": 95,
+      "description": "Step up your sneaker game with the Puma Unisex Up Sneakers. These sneakers feature a classic white design with subtle branding details, making them versatile and stylish. They are made from high-quality materials, ensuring durability and comfort. The lace-up closure and padded collar provide a secure and comfortable fit. Whether you're heading to the gym or going for a casual stroll, these sneakers will complement your outfit and keep you in style."
     },
     {
       "image":
@@ -3103,7 +3108,8 @@
       "name": "Men Slim Tapered Fit Jeans",
       "discount_price": "Rs. 599",
       "price": "Rs. 1999",
-      "id": 96
+      "id": 96,
+      "description": "Upgrade your denim collection with the Roadster Men Slim Tapered Fit Jeans. These jeans feature a slim fit that tapers towards the ankles, creating a modern and streamlined look. They are made from high-quality denim fabric, offering comfort and durability. The versatile blue color and classic five-pocket styling make them suitable for various casual occasions. Pair them with a t-shirt or shirt for a stylish and on-trend outfit."
     },
     {
       "image":
@@ -3112,7 +3118,8 @@
       "name": "Men DryCELL Track Pants",
       "discount_price": "Rs. 1924",
       "price": "Rs. 3499",
-      "id": 97
+      "id": 97,
+      "description": "Stay comfortable and stylish during workouts with the Puma Men DryCELL Track Pants. These track pants are crafted from moisture-wicking fabric that keeps you dry and comfortable. They feature an elastic waistband with a drawstring for a personalized fit. The side pockets provide convenient storage for your essentials. Whether you're hitting the gym or going for a jog, these track pants will keep you looking and feeling great."
     },
     {
       "image":
@@ -3121,7 +3128,8 @@
       "name": "Men Solid Mid-Top Sneakers",
       "discount_price": "Rs. 1499",
       "price": "Rs. 2999",
-      "id": 98
+      "id": 98,
+      "description": "Complete your casual look with the Roadster Men Solid Mid-Top Sneakers. These sneakers feature a versatile design that pairs well with various outfits. They are made from durable materials, ensuring long-lasting wear. The lace-up closure and padded collar provide a secure and comfortable fit. Whether you're going for a walk or hanging out with friends, these sneakers will add a touch of style and comfort to your ensemble."
     },
     {
       "image":
@@ -3130,7 +3138,8 @@
       "name": "Printed Round Neck T-shirt",
       "discount_price": "Rs. 399",
       "price": "Rs. 799",
-      "id": 99
+      "id": 99,
+      "description": "Elevate your casual wardrobe with the Roadster Printed Round Neck T-shirt. This t-shirt features a classic round neck design and a unique printed pattern, adding a stylish element to your outfit. It is made from soft and breathable fabric, ensuring comfort throughout the day. The regular fit and short sleeves make it a versatile choice for any occasion. Pair it with jeans, shorts, or joggers for a trendy and effortless look."
     }
   ],
   
