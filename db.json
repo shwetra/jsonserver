@@ -5588,463 +5588,463 @@
   
    "jwelleryData" : [
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17507542/2022/3/15/3af83260-b921-4178-8efa-1d4bdf187c8f1647331093711ZaveriPearlsGold-PlatedPeach-ColouredWhiteStone-StuddedPearl1.jpg",
+      "id": 0,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17507542/2022/3/15/3af83260-b921-4178-8efa-1d4bdf187c8f1647331093711ZaveriPearlsGold-PlatedPeach-ColouredWhiteStone-StuddedPearl1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Pearl Beaded Jewellery Set",
       "discount_price": "586",
       "price": "3450",
-      "id": 0
+      "description": "Add a touch of elegance to your outfit with this Pearl Beaded Jewellery Set from Zaveri Pearls. The set includes a necklace and matching earrings, featuring a gold-plated peach-colored design with white stone embellishments and pearls. Perfect for special occasions or gifting to someone special."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14799210/2021/9/25/7c28cf48-6d23-455b-9d07-c5be26d994051632536691110AMISetOf20Gold-PlatedWhiteContemporaryStudsDropEarrings1.jpg",
+      "id": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14799210/2021/9/25/7c28cf48-6d23-455b-9d07-c5be26d994051632536691110AMISetOf20Gold-PlatedWhiteContemporaryStudsDropEarrings1.jpg",
       "brand": "AMI",
       "name": "Set Of 20 Earrings",
       "discount_price": "399",
       "price": "1995",
-      "id": 1
+      "description": "Upgrade your earring collection with this stunning Set of 20 Earrings from AMI. The set features a variety of gold-plated white contemporary studs and drop earrings, perfect for mixing and matching with different outfits. Add a touch of style and versatility to your accessory collection."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15350616/2021/10/7/661b2eb3-0fc5-4b80-bb3c-48073c39e54a1633591795161JewelsGalaxySetof6Gold-TonedClassicStudsHoopEarrings1.jpg",
+      "id": 2,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15350616/2021/10/7/661b2eb3-0fc5-4b80-bb3c-48073c39e54a1633591795161JewelsGalaxySetof6Gold-TonedClassicStudsHoopEarrings1.jpg",
       "brand": "Jewels Galaxy",
       "name": "Set of 6 Studs & Hoop Earrings",
       "discount_price": "372",
       "price": "1490",
-      "id": 2
+      "description": "Accessorize with these stylish Set of 6 Studs & Hoop Earrings from Jewels Galaxy. The set features gold-toned classic studs and hoop earrings, adding a touch of glamour to any outfit. Perfect for both casual and formal occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17904240/2022/4/16/2cb1f168-859c-4148-9187-086fbb0c78f21650118066224ELREGALOWomenGoldBracelet1.jpg",
+      "id": 3,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17904240/2022/4/16/2cb1f168-859c-4148-9187-086fbb0c78f21650118066224ELREGALOWomenGoldBracelet1.jpg",
       "brand": "EL REGALO",
       "name": "Women Kada Bracelet",
       "discount_price": "771",
       "price": "2029",
-      "id": 3
+      "description": "Complete your traditional look with this exquisite Women Kada Bracelet from EL REGALO. The bracelet features a beautiful gold design that adds a touch of elegance to your ensemble. Perfect for weddings, festivals, and other special occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14284952/2021/11/16/b64b1dc8-1eb9-436c-b354-65a40602c2991637047787991ZaveriPearlsPackof3Gold-TonedContemporaryStuds1.jpg",
+      "id": 4,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14284952/2021/11/16/b64b1dc8-1eb9-436c-b354-65a40602c2991637047787991ZaveriPearlsPackof3Gold-TonedContemporaryStuds1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Pack of 3 Contemporary Studs",
       "discount_price": "395",
       "price": "2079",
-      "id": 4
+      "description": "Add a touch of contemporary style to your jewelry collection with this Pack of 3 Contemporary Studs from Zaveri Pearls. The set includes three gold-toned studs featuring a modern design, perfect for adding a fashionable edge to your everyday look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19379490/2022/8/4/f24fc774-3ea0-441f-9629-71b920ba6dd41659596832061IrregularPearlBeadedBracelet1.jpg",
+      "id": 5,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19379490/2022/8/4/f24fc774-3ea0-441f-9629-71b920ba6dd41659596832061IrregularPearlBeadedBracelet1.jpg",
       "brand": "Unwind by Yellow Chimes",
       "name": "Pearl Beaded Bracelet",
       "discount_price": "362",
       "price": "805.95",
-      "id": 5
+      "description": "Enhance your wrist with this stunning Pearl Beaded Bracelet from Unwind by Yellow Chimes. The bracelet features irregularly shaped pearls that create a unique and eye-catching design. Perfect for adding a touch of sophistication to any outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16104762/2022/4/19/cb2f404b-5568-46cb-bd32-5b010f0640d01650364377386DressBerrySetof6RoseGold-TonedContemporaryEarrings1.jpg",
+      "id": 6,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16104762/2022/4/19/cb2f404b-5568-46cb-bd32-5b010f0640d01650364377386DressBerrySetof6RoseGold-TonedContemporaryEarrings1.jpg",
       "brand": "DressBerry",
       "name": "Set of 6 Contemporary Earrings",
       "discount_price": "559",
       "price": "1399",
-      "id": 6
+      "description": "Make a statement with this trendy Set of 6 Contemporary Earrings from DressBerry. The earrings feature a rose gold-toned finish and a variety of contemporary designs, perfect for adding a touch of style to your ensemble. Suitable for both casual and formal occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/11/4/e7b5b57d-9adc-49b8-8ed2-24fb9d2fbec81604430533651-1.jpg",
+      "id": 7,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/11/4/e7b5b57d-9adc-49b8-8ed2-24fb9d2fbec81604430533651-1.jpg",
       "brand": "Yellow Chimes",
       "name": "Oxidized Silver-Plated Choker Jewellery Set",
       "discount_price": "475",
       "price": "2660",
-      "id": 7
+      "description": "Add a touch of elegance to your neck with this Oxidized Silver-Plated Choker Jewellery Set from Yellow Chimes. The set includes a choker necklace and matching earrings, featuring a unique and intricate design. Perfect for enhancing your ethnic or bohemian-inspired look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10942906/2021/11/22/84277a7f-3c9a-4613-a98d-aaffd7b72f411637573698864ZaveriPearlsGold-TonedWhiteContemporaryPearlsStuddedJeweller1.jpg",
+      "id": 8,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10942906/2021/11/22/84277a7f-3c9a-4613-a98d-aaffd7b72f411637573698864ZaveriPearlsGold-TonedWhiteContemporaryPearlsStuddedJeweller1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Women Jewellery Set",
       "discount_price": "332",
       "price": "1663",
-      "id": 8
+      "description": "Upgrade your jewelry collection with this stunning Women Jewellery Set from Zaveri Pearls. The set includes a necklace and matching earrings, featuring a gold-toned design with white contemporary pearls. Perfect for adding a touch of sophistication to your ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17496044/2022/3/31/8f37ce1f-319a-48f7-a697-66d61c13ee891648689223543AMIRoseGoldContemporaryDropEarrings1.jpg",
+      "id": 9,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17496044/2022/3/31/8f37ce1f-319a-48f7-a697-66d61c13ee891648689223543AMIRoseGoldContemporaryDropEarrings1.jpg",
       "brand": "AMI",
       "name": "Drop Earrings",
       "discount_price": "299",
       "price": "1495",
-      "id": 9
+      "description": "Add a touch of elegance to your look with these stylish Drop Earrings from AMI. The earrings feature a rose gold-toned contemporary design, perfect for adding a touch of glamour to any outfit. Ideal for both formal and casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16114290/2021/11/16/5384e856-9954-4980-a3b3-23193a1158d71637069705829ShiningDivaLatestOxidisedSilverTraditionalJewellerySet1.jpg",
+      "id": 10,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16114290/2021/11/16/5384e856-9954-4980-a3b3-23193a1158d71637069705829ShiningDivaLatestOxidisedSilverTraditionalJewellerySet1.jpg",
       "brand": "Shining Diva",
       "name": "Traditional Jewellery Set",
       "discount_price": "474",
       "price": "2495",
-      "id": 10
+      "description": "Complete your traditional look with this exquisite Traditional Jewellery Set from Shining Diva. The set includes a necklace and matching earrings, featuring an oxidized silver-plated design with intricate detailing. Perfect for weddings, festivals, and other special occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19298616/2022/7/29/34cf56fa-6420-452e-b062-25bbbfe4495f1659088832121Ring1.jpg",
+      "id": 11,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19298616/2022/7/29/34cf56fa-6420-452e-b062-25bbbfe4495f1659088832121Ring1.jpg",
       "brand": "Voylla",
       "name": "Silver-Plated Inscription Ring",
       "discount_price": "314",
       "price": "349",
-      "id": 11
+      "description": "Enhance your style with this exquisite Silver-Plated Inscription Ring from Voylla. The ring features a sleek design with an inscription detail, adding a touch of elegance to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10118319/2019/8/14/7f593d9e-39f1-444c-8965-3285f8caa6cb1565779921021-DressBerry-Black-Geometric-Drop-Earrings-2171565779920617-1.jpg",
+      "id": 12,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10118319/2019/8/14/7f593d9e-39f1-444c-8965-3285f8caa6cb1565779921021-DressBerry-Black-Geometric-Drop-Earrings-2171565779920617-1.jpg",
       "brand": "DressBerry",
       "name": "Geometric Drop Earrings",
       "discount_price": "269",
       "price": "599",
-      "id": 12
+      "description": "Make a fashion statement with these stylish Geometric Drop Earrings from DressBerry. The earrings feature a black geometric design, perfect for adding a touch of contemporary style to your ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15813962/2022/2/19/28c5b1cc-d141-4fa9-8077-5ce763f2e1401645212486177-AMI-Set-of-20-Gold-Toned-Contemporary-Studs-Earrings-1441645-1.jpg",
+      "id": 13,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15813962/2022/2/19/28c5b1cc-d141-4fa9-8077-5ce763f2e1401645212486177-AMI-Set-of-20-Gold-Toned-Contemporary-Studs-Earrings-1441645-1.jpg",
       "brand": "AMI",
       "name": "Set of 20 Earrings",
       "discount_price": "441",
       "price": "2450",
-      "id": 13
+      "description": "Upgrade your jewelry collection with this stunning Set of 20 Earrings from AMI. The set includes gold-toned contemporary studs featuring a variety of designs, perfect for adding a touch of style to any outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15622552/2022/5/30/3a7db370-170f-4967-9a7f-5a9e3c813e801653910811979TheRoadsterLifestyleCoMenSilver-PlatedChain1.jpg",
+      "id": 14,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15622552/2022/5/30/3a7db370-170f-4967-9a7f-5a9e3c813e801653910811979TheRoadsterLifestyleCoMenSilver-PlatedChain1.jpg",
       "brand": "Roadster",
       "name": "Men Silver - Plated Chain",
       "discount_price": "300",
       "price": "1250",
-      "id": 14
+      "description": "Add a touch of style to your outfit with this Men Silver-Plated Chain from Roadster. The chain features a sleek design, perfect for complementing your casual or semi-formal look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15102008/2021/8/25/ae0b82c1-766c-4947-a9b2-48e9798332291629871297772-OOMPH-Pink-Meenakari-Kundan--Pearl-Floral-Ethnic-Drop-Jhumka-6.jpg",
+      "id": 15,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15102008/2021/8/25/ae0b82c1-766c-4947-a9b2-48e9798332291629871297772-OOMPH-Pink-Meenakari-Kundan--Pearl-Floral-Ethnic-Drop-Jhumka-6.jpg",
       "brand": "OOMPH",
       "name": "Meenakari Jhumka Earrings",
       "discount_price": "496",
       "price": "3819",
-      "id": 15
+      "description": "Make a statement with these exquisite Meenakari Jhumka Earrings from OOMPH. The earrings feature a pink Meenakari Kundan and pearl floral design, perfect for adding a touch of ethnic elegance to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17590190/2022/3/21/ad13ec9b-4212-4fbe-82ef-9065f1c485681647840519678Bangle1.jpg",
+      "id": 16,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17590190/2022/3/21/ad13ec9b-4212-4fbe-82ef-9065f1c485681647840519678Bangle1.jpg",
       "brand": "YouBella",
       "name": "Set Of 2 Rose Gold-Plated & Stone Studded Bangle",
       "discount_price": "899",
       "price": "3330",
-      "id": 16
+      "description": "Add a touch of elegance to your wrist with this Set of 2 Rose Gold-Plated & Stone Studded Bangle from YouBella. The bangles feature a beautiful rose gold-plated design with stone studded detailing, perfect for enhancing your traditional or festive look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19328930/2022/8/1/65e6a9d4-12d9-4788-99a1-8b395eaf90111659333258570Bracelet1.jpg",
+      "id": 17,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19328930/2022/8/1/65e6a9d4-12d9-4788-99a1-8b395eaf90111659333258570Bracelet1.jpg",
       "brand": "Voylla",
       "name": "Women Bracelet",
       "discount_price": "",
       "price": "",
-      "id": 17
+      "description": "Complete your ensemble with this stylish Women Bracelet from Voylla. The bracelet features an elegant design, perfect for adding a touch of sophistication to your wrist."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10117621/2019/8/23/98cbf43e-61fc-4261-9166-f637f73b67b01566538467561-DressBerry-Black--Silver-Toned-Stone-Studded-Contemporary-Dr-1.jpg",
+      "id": 18,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10117621/2019/8/23/98cbf43e-61fc-4261-9166-f637f73b67b01566538467561-DressBerry-Black--Silver-Toned-Stone-Studded-Contemporary-Dr-1.jpg",
       "brand": "DressBerry",
       "name": "Contemporary Drop Earrings",
       "discount_price": "404",
       "price": "899",
-      "id": 18
+      "description": "Make a style statement with these Contemporary Drop Earrings from DressBerry. The earrings feature a black and silver-toned design with stone-studded detailing, perfect for adding a touch of glamour to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15921762/2021/10/26/bb2e95e3-6160-4017-9e5f-1f6987f3746c1635210409735AaditaAntiqueGoldTempleChokerJewellerySet1.jpg",
+      "id": 19,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15921762/2021/10/26/bb2e95e3-6160-4017-9e5f-1f6987f3746c1635210409735AaditaAntiqueGoldTempleChokerJewellerySet1.jpg",
       "brand": "aadita",
       "name": "Women Choker Jewellery Set",
       "discount_price": "1475",
       "price": "8199",
-      "id": 19
+      "description": "Enhance your traditional attire with this exquisite Women Choker Jewellery Set from aadita. The set includes an antique gold temple choker necklace and matching earrings, perfect for adding a touch of elegance to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18289356/2022/5/16/d897841a-e700-41e3-8d89-a6ed02d986b41652714164310BrandsoonMenGoldNecklaceandChains1.jpg",
+      "id": 20,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18289356/2022/5/16/d897841a-e700-41e3-8d89-a6ed02d986b41652714164310BrandsoonMenGoldNecklaceandChains1.jpg",
       "brand": "Brandsoon",
       "name": "Men Gold-Plated Pedant Chain",
       "discount_price": "299",
       "price": "2999",
-      "id": 20
+      "description": "Upgrade your style with this Men Gold-Plated Pedant Chain from Brandsoon. The chain features a stylish design with a pendant, perfect for adding a touch of sophistication to your casual or formal look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15617638/2021/9/25/2fdff8ab-1eae-49e2-88f2-9fa476c0af9a1632562297430Bracelet5.jpg",
+      "id": 21,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15617638/2021/9/25/2fdff8ab-1eae-49e2-88f2-9fa476c0af9a1632562297430Bracelet5.jpg",
       "brand": "Shining Diva Fashion",
       "name": "Women Set Of 5 Cuff Bracelets",
       "discount_price": "318",
       "price": "1875",
-      "id": 21
+      "description": "Upgrade your accessory collection with this set of 5 cuff bracelets from Shining Diva Fashion. The bracelets feature a stylish design, perfect for adding a touch of elegance to your wrist."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10552114/2021/3/17/4bc96d0f-bf05-4982-8db7-3f765e4e60fc1615972646829CarltonLondonGold-PlatedLayeredNecklace1.jpg",
+      "id": 22,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10552114/2021/3/17/4bc96d0f-bf05-4982-8db7-3f765e4e60fc1615972646829CarltonLondonGold-PlatedLayeredNecklace1.jpg",
       "brand": "Carlton London",
       "name": "Gold-Plated Layered Necklace",
       "discount_price": "478",
       "price": "1195",
-      "id": 22
+      "description": "Make a style statement with this gold-plated layered necklace from Carlton London. The necklace features a layered design, perfect for adding a touch of glamour to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7468223/2021/10/27/b94d63d5-e41b-4cba-8981-cbda837029b01635328464143ZaveriPearlsGold-TonedKundanMesmerisingTraditionalJewelleryS1.jpg",
+      "id": 23,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7468223/2021/10/27/b94d63d5-e41b-4cba-8981-cbda837029b01635328464143ZaveriPearlsGold-TonedKundanMesmerisingTraditionalJewelleryS1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Gold-Toned Jewellery Set",
       "discount_price": "559",
       "price": "2796",
-      "id": 23
+      "description": "Add a touch of traditional charm to your ensemble with this gold-toned jewellery set from Zaveri Pearls. The set includes various pieces with Kundan detailing, perfect for enhancing your ethnic look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15818354/2021/10/13/767850d9-f916-4774-9803-15a497fc60cd1634143907279ShiningDivaWomenSilverPlatedJewellerySet7.jpg",
+      "id": 24,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15818354/2021/10/13/767850d9-f916-4774-9803-15a497fc60cd1634143907279ShiningDivaWomenSilverPlatedJewellerySet7.jpg",
       "brand": "Shining Diva",
       "name": "Women Silver Plated Jewellery Set",
       "discount_price": "379",
       "price": "1995",
-      "id": 24
+      "description": "Enhance your jewelry collection with this exquisite silver-plated jewelry set from Shining Diva. The set includes various pieces such as earrings, necklace, and bracelets, all featuring a beautiful silver-plated design."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14318522/2022/5/11/e6d92171-2fb6-46d4-a08b-8a2441f19e1f1652266593803-YouBella-Set-Of-2-Gold-Plated-Gold-Plated-Layered-Chain-1531-1.jpg",
+      "id": 25,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14318522/2022/5/11/e6d92171-2fb6-46d4-a08b-8a2441f19e1f1652266593803-YouBella-Set-Of-2-Gold-Plated-Gold-Plated-Layered-Chain-1531-1.jpg",
       "brand": "YouBella",
       "name": "Set Of 2 Gold-Plated Chain",
       "discount_price": "313",
       "price": "1426",
-      "id": 25
+      "description": "Add a touch of elegance to your outfit with this set of 2 gold-plated chains from YouBella. The chains feature a layered design and are perfect for both casual and formal occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18896376/2022/6/29/226b13a2-e821-4315-83a6-3d18368777f21656501835291GlobusRoseGold-PlatedWhiteCZ-StoneStuddedFingerRing1.jpg",
+      "id": 26,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18896376/2022/6/29/226b13a2-e821-4315-83a6-3d18368777f21656501835291GlobusRoseGold-PlatedWhiteCZ-StoneStuddedFingerRing1.jpg",
       "brand": "Globus",
       "name": "Rose Gold-Plated CZ-Stone Studded Finger Ring",
       "discount_price": "267",
       "price": "399",
-      "id": 26
+      "description": "Make a style statement with this rose gold-plated finger ring from Globus. The ring features a stunning design with CZ stones, adding a touch of sparkle to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14329832/2021/9/14/d0221b39-f798-45f2-8df9-d5837b1f93981631600424328-Anouk-Women-Earrings-371631600423818-1.jpg",
+      "id": 27,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14329832/2021/9/14/d0221b39-f798-45f2-8df9-d5837b1f93981631600424328-Anouk-Women-Earrings-371631600423818-1.jpg",
       "brand": "Anouk",
       "name": "Oxidised Silver-Plated Jhumkas",
       "discount_price": "251",
       "price": "599",
-      "id": 27
+      "description": "Add a traditional touch to your jewelry collection with these oxidised silver-plated jhumkas from Anouk. The jhumkas feature intricate detailing and are perfect for completing your ethnic look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14904894/2021/7/22/6d448bb2-6b42-4ad8-ab8c-103f03a51fbf1626974482844StainlessSteelBlack-tonedArrowStylePendantWithChain1.jpg",
+      "id": 28,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14904894/2021/7/22/6d448bb2-6b42-4ad8-ab8c-103f03a51fbf1626974482844StainlessSteelBlack-tonedArrowStylePendantWithChain1.jpg",
       "brand": "Yellow Chimes",
       "name": "Stainless Steel Arrow Style Pendant With Chain",
       "discount_price": "633",
       "price": "1994",
-      "id": 28
+      "description": "Make a fashion statement with this stainless steel arrow style pendant from Yellow Chimes. The pendant comes with a chain and features a unique black-toned design, perfect for adding a touch of edginess to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16447792/2021/12/10/3571567f-49ad-4e5c-a10a-be724d5816651639141833678VembleyWomenGold1.jpg",
+      "id": 29,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16447792/2021/12/10/3571567f-49ad-4e5c-a10a-be724d5816651639141833678VembleyWomenGold1.jpg",
       "brand": "Vembley",
       "name": "Gold-Plated Layered Necklace",
       "discount_price": "269",
       "price": "1499",
-      "id": 29
+      "description": "Add a touch of sophistication to your outfit with this gold-plated layered necklace from Vembley. The necklace features a trendy layered design, perfect for elevating your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/1/18/a562d5c6-be6c-4871-a064-a4c0c05aa8df1547817077168-1.jpg",
+      "id": 30,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/1/18/a562d5c6-be6c-4871-a064-a4c0c05aa8df1547817077168-1.jpg",
       "brand": "PANASH",
       "name": "Silver-Plated Oxidised Jhumkas",
       "discount_price": "369",
       "price": "999",
-      "id": 30
+      "description": "Complete your ethnic look with these silver-plated oxidised jhumkas from PANASH. The jhumkas feature intricate designs and are crafted with attention to detail."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14206864/2021/9/15/7a2b615a-cc03-42e9-845a-ecc65eabee3f1631662853996-OOMPH-Gold-Toned--Pink--Meenakari-Enamel-Pearls-Ethnic-Jhumk-6.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14206864/2021/9/15/7a2b615a-cc03-42e9-845a-ecc65eabee3f1631662853996-OOMPH-Gold-Toned--Pink--Meenakari-Enamel-Pearls-Ethnic-Jhumk-6.jpg",
       "brand": "OOMPH",
       "name": "Dome Shaped Jhumkas",
       "discount_price": "483",
       "price": "3715",
-      "id": 31
+      "id": 31,
+      "description": "Add a touch of elegance to your ethnic attire with these Dome Shaped Jhumkas by OOMPH. The gold-toned jhumkas feature pink Meenakari enamel work and pearls, giving them a traditional and sophisticated look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16443218/2021/12/10/f3be8eaf-edd7-4c49-b32c-e22d5a9b108a1639124797041GIVAWomenRoseGold1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16443218/2021/12/10/f3be8eaf-edd7-4c49-b32c-e22d5a9b108a1639124797041GIVAWomenRoseGold1.jpg",
       "brand": "GIVA",
       "name": "Deer Charm Bracelet",
       "discount_price": "2111",
       "price": "4799",
-      "id": 32
+      "id": 32,
+      "description": "Make a style statement with this Deer Charm Bracelet by GIVA. The rose gold bracelet features a charming deer charm, adding a playful and trendy touch to your outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12883374/2021/10/17/c0ea28c8-78f4-48fe-b7dc-b1df8611a3bb1634485361622-Zaveri-Pearls-Gold-Plated--White-Kundan--Pearls-Studded-Mult-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12883374/2021/10/17/c0ea28c8-78f4-48fe-b7dc-b1df8611a3bb1634485361622-Zaveri-Pearls-Gold-Plated--White-Kundan--Pearls-Studded-Mult-1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Studed Choker Jewellery Set",
       "discount_price": "395",
       "price": "2079",
-      "id": 33
+      "id": 33,
+      "description": "Enhance your ethnic look with this stunning Studed Choker Jewellery Set by Zaveri Pearls. The gold-plated set features white Kundan stones and pearls, giving it a regal and sophisticated appearance."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312330/2021/12/30/a64ef56f-f1b1-4127-82a8-5c3041b412341640876451396RoadsterMenSilver-TonedRingTribalChain1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312330/2021/12/30/a64ef56f-f1b1-4127-82a8-5c3041b412341640876451396RoadsterMenSilver-TonedRingTribalChain1.jpg",
       "brand": "Roadster",
       "name": "Men Silver-Toned Tribal Chain",
       "discount_price": "308",
       "price": "1100",
-      "id": 34
+      "id": 34,
+      "description": "Add a stylish accessory to your casual look with this Men Silver-Toned Tribal Chain by Roadster. The silver-toned chain features tribal-inspired design elements, giving it a trendy and edgy vibe."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19434340/2022/8/8/642bc418-db5b-486c-b4ac-ff855e3ea9df1659958035200Bracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19434340/2022/8/8/642bc418-db5b-486c-b4ac-ff855e3ea9df1659958035200Bracelet1.jpg",
       "brand": "Voylla",
       "name": "Women Bracelet",
       "discount_price": "",
       "price": "",
-      "id": 35
+      "id": 35,
+      "description": "Complete your ensemble with this Women Bracelet by Voylla. The bracelet is designed to add a touch of elegance and sophistication to your look, making it suitable for various occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16488344/2022/5/30/117c9d68-9bf4-4cf8-8666-75df4fb1666d1653910785320TheRoadsterLifestyleCoMen3BrownHandcraftedBracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16488344/2022/5/30/117c9d68-9bf4-4cf8-8666-75df4fb1666d1653910785320TheRoadsterLifestyleCoMen3BrownHandcraftedBracelet1.jpg",
       "brand": "Roadster",
       "name": "Men 3 Handcrafted Bracelet",
       "discount_price": "396",
       "price": "1650",
-      "id": 36
+      "id": 36,
+      "description": "Elevate your style with this Men 3 Handcrafted Bracelet by Roadster. The brown bracelet is meticulously handcrafted, showcasing intricate details and a rugged charm, perfect for adding a touch of personality to your outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10117501/2019/8/6/55e6c328-08db-4c1d-af66-dd8522f131851565071970180-DressBerry-Drop-Earrings-5441565071969660-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10117501/2019/8/6/55e6c328-08db-4c1d-af66-dd8522f131851565071970180-DressBerry-Drop-Earrings-5441565071969660-1.jpg",
       "brand": "DressBerry",
       "name": "Floral-Shaped Drop Earrings",
       "discount_price": "",
       "price": "",
-      "id": 37
+      "id": 37,
+      "description": "Enhance your accessory collection with these Floral-Shaped Drop Earrings by DressBerry. The earrings feature a delicate floral design, adding a feminine and elegant touch to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999328/2022/2/16/c0593849-378f-4e1d-867a-f8607bd8fad61645013884980AnoukSilver-TonedOxidisedClassicDropEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999328/2022/2/16/c0593849-378f-4e1d-867a-f8607bd8fad61645013884980AnoukSilver-TonedOxidisedClassicDropEarrings1.jpg",
       "brand": "Anouk",
       "name": "Oxidised Drop Earrings",
       "discount_price": "269",
       "price": "899",
-      "id": 38
+      "id": 38,
+      "description": "Add a touch of bohemian flair to your look with these Oxidised Drop Earrings by Anouk. The silver-toned earrings feature a classic design with oxidized details, perfect for adding a unique and artistic element to your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/15/8043e75d-301b-4a7c-a2a9-4126bcdf9eaf1602714127063-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/10/15/8043e75d-301b-4a7c-a2a9-4126bcdf9eaf1602714127063-1.jpg",
       "brand": "Rubans",
       "name": "Set Of Two 22K Gold-Plated Stone-Studded Sustainable Handcrafted Bangles",
       "discount_price": "388",
       "price": "1850",
-      "id": 39
+      "id": 39,
+      "description": "Accentuate your wrists with this Set Of Two 22K Gold-Plated Stone-Studded Sustainable Handcrafted Bangles by Rubans. The bangles feature intricate stone-studded designs and are handcrafted with sustainable materials, combining beauty and sustainability."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15483396/2021/9/16/868853df-98d9-4f8b-afa0-3c141fea11181631766014823YouBellaGold-TonedContemporaryStudsEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15483396/2021/9/16/868853df-98d9-4f8b-afa0-3c141fea11181631766014823YouBellaGold-TonedContemporaryStudsEarrings1.jpg",
       "brand": "YouBella",
       "name": "Pack Of 12 Studs Earrings",
       "discount_price": "456",
       "price": "1426",
-      "id": 40
+      "id": 40,
+      "description": "Upgrade your earring collection with this Pack Of 12 Studs Earrings by YouBella. The gold-toned earrings come in a variety of designs, offering versatility and style options for different occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16114444/2021/11/16/f85b9d40-1fcc-4f22-90f4-3056c8b89b9c1637068731746GoldPlatedAmericanDiamondStuddedJewellerySet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16114444/2021/11/16/f85b9d40-1fcc-4f22-90f4-3056c8b89b9c1637068731746GoldPlatedAmericanDiamondStuddedJewellerySet1.jpg",
       "brand": "ZENEME",
       "name": "American Diamond Jewellery Set",
       "discount_price": "339",
       "price": "1999",
-      "id": 41
+      "id": 41,
+      "description": "Add a touch of elegance to your attire with this stunning American Diamond Jewellery Set by ZENEME. The set features exquisite diamond-studded pieces that are perfect for special occasions or gifting."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18830208/2022/6/22/bfa81507-3724-41a1-9115-0e5a24f4481a1655912765195FOREVER21Gold-TonedChain1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18830208/2022/6/22/bfa81507-3724-41a1-9115-0e5a24f4481a1655912765195FOREVER21Gold-TonedChain1.jpg",
       "brand": "FOREVER 21",
       "name": "Chain",
       "discount_price": "",
       "price": "",
-      "id": 42
+      "id": 42,
+      "description": "Complete your trendy look with this stylish gold-toned chain from FOREVER 21. It adds a touch of sophistication and can be worn with both casual and formal outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10296409/2019/8/27/7b1d01c8-af0e-4947-8265-246c18a3e6aa1566899086674-Zaveri-Pearls-Gold-Plated-Stone-Studded-Ethnic-Jewellery-Set-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10296409/2019/8/27/7b1d01c8-af0e-4947-8265-246c18a3e6aa1566899086674-Zaveri-Pearls-Gold-Plated-Stone-Studded-Ethnic-Jewellery-Set-1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Gold-Plated Jewellery Set",
       "discount_price": "561",
       "price": "3300",
-      "id": 43
+      "id": 43,
+      "description": "Enhance your ethnic look with this stunning Gold-Plated Jewellery Set by Zaveri Pearls. The set includes beautifully crafted pieces adorned with intricate stone work, perfect for weddings and festive occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19324806/2022/8/1/1d477afd-a03c-470e-a895-57a6330eb80a1659336670748DastoorExclusiveMeenakariAdjustableKundanRing1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19324806/2022/8/1/1d477afd-a03c-470e-a895-57a6330eb80a1659336670748DastoorExclusiveMeenakariAdjustableKundanRing1.jpg",
       "brand": "DASTOOR",
       "name": "Women Gold-Plated Kundan-Studded Adjustable Finger Ring",
       "discount_price": "432",
       "price": "540",
-      "id": 44
+      "id": 44,
+      "description": "Add a touch of traditional charm to your ensemble with this exquisite Women Gold-Plated Kundan-Studded Adjustable Finger Ring by DASTOOR. The intricate design and Kundan embellishments make it a perfect accessory for festive occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999686/2021/12/10/1f590079-1482-4e19-b00b-470611362d9b1639137346079AnoukOxidisedMagentaSilver-TonedTexturedStone-StuddedBeadedJ1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999686/2021/12/10/1f590079-1482-4e19-b00b-470611362d9b1639137346079AnoukOxidisedMagentaSilver-TonedTexturedStone-StuddedBeadedJ1.jpg",
       "brand": "Anouk",
       "name": "Oxidised Jewellery Set",
       "discount_price": "359",
       "price": "2399",
-      "id": 45
+      "id": 45,
+      "description": "Make a style statement with this beautiful Oxidised Jewellery Set by Anouk. The set features a combination of magenta and silver tones with textured stone-studded beads, giving it a unique and eye-catching appeal."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10662148/2021/10/1/f3b2fcd1-db8b-42c2-9675-7fab6ac89f521633079886585-Rubans-Women-Gold-Plated--White-Pearl-Embellished-Jewellery--1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10662148/2021/10/1/f3b2fcd1-db8b-42c2-9675-7fab6ac89f521633079886585-Rubans-Women-Gold-Plated--White-Pearl-Embellished-Jewellery--1.jpg",
       "brand": "Rubans",
       "name": "Gold-Plated Jewellery Set",
       "discount_price": "812",
       "price": "3250",
-      "id": 46
+      "id": 46,
+      "description": "Exude elegance with this exquisite Gold-Plated Jewellery Set by Rubans. The set features delicate white pearl embellishments that add a touch of sophistication to your look, making it perfect for special occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/5/16/d86b3e28-c6d1-451b-8543-77ef59b04df91557996264360-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/5/16/d86b3e28-c6d1-451b-8543-77ef59b04df91557996264360-1.jpg",
       "brand": "Shoshaa",
       "name": "Circular Studs",
       "discount_price": "885",
       "price": "3541",
-      "id": 47
+      "id": 47,
+      "description": "Enhance your style quotient with these elegant Circular Studs by Shoshaa. The studs feature a contemporary design and are perfect for adding a touch of sophistication to your everyday outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10925470/2021/2/3/2a06e8d2-d449-4372-82cf-56b7f325e6a61612366672646-Rubans-Oxidised-Silver-Plated-Choker-581612366671854-3.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10925470/2021/2/3/2a06e8d2-d449-4372-82cf-56b7f325e6a61612366672646-Rubans-Oxidised-Silver-Plated-Choker-581612366671854-3.jpg",
       "brand": "Rubans",
       "name": "Oxidised Choker",
       "discount_price": "498",
       "price": "2375",
-      "id": 48
+      "id": 48,
+      "description": "Make a fashion statement with this trendy Oxidised Choker by Rubans. The silver-plated choker features an oxidized finish and intricate design, adding a touch of bohemian charm to your outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15402704/2021/9/22/4fab045f-473d-4063-946b-6c66a3a5b1331632303981556JewelsGalaxySetOf2Gold-PlatedLayeredNecklace1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15402704/2021/9/22/4fab045f-473d-4063-946b-6c66a3a5b1331632303981556JewelsGalaxySetOf2Gold-PlatedLayeredNecklace1.jpg",
       "brand": "Jewels Galaxy",
       "name": "Set Of 2 Gold-Plated Necklace",
       "discount_price": "332",
       "price": "1329",
-      "id": 49
+      "id": 49,
+      "description": "Upgrade your jewelry collection with this stylish Set Of 2 Gold-Plated Necklaces by Jewels Galaxy. The layered necklaces feature a contemporary design and can be worn together or individually for a versatile look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19120962/2022/7/15/624f90ea-0908-4fd9-b5c3-5efb2524192c1657871310475HMWomenGoldBracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19120962/2022/7/15/624f90ea-0908-4fd9-b5c3-5efb2524192c1657871310475HMWomenGoldBracelet1.jpg",
       "brand": "H&M",
       "name": "Women 5 Wraparound Bracelet",
       "discount_price": "719",
       "price": "799",
-      "id": 50
+      "id": 50,
+      "description": "Add a touch of glamour to your wrist with this Women 5 Wraparound Bracelet by H&M. The gold bracelet features a trendy wraparound design and is perfect for accessorizing your everyday or party outfits."
     },
     {
       "image":
@@ -6053,7 +6053,8 @@
       "name": "Beaded Choker Jewellery Set",
       "discount_price": "399",
       "price": "1599",
-      "id": 51
+      "id": 51,
+      "description": "Enhance your style with this stunning Beaded Choker Jewellery Set by Anouk. The set features an oxidized silver-toned choker adorned with black stone-studded beads, adding a touch of elegance and charm to your ensemble."
     },
     {
       "image":
@@ -6062,7 +6063,8 @@
       "name": "Statement Necklace",
       "discount_price": "474",
       "price": "2499",
-      "id": 52
+      "id": 52,
+      "description": "Make a bold fashion statement with this exquisite Statement Necklace by RICHEERA. The necklace features a unique design and intricate detailing, adding a touch of glamour and sophistication to your attire."
     },
     {
       "image":
@@ -6071,7 +6073,8 @@
       "name": "Set Of 2 Gold-Plated Handcrafted Bangles",
       "discount_price": "451",
       "price": "2149",
-      "id": 53
+      "id": 53,
+      "description": "Add a touch of elegance to your wrists with this Set Of 2 Gold-Plated Handcrafted Bangles by Priyaasi. The bangles feature intricate craftsmanship and a stunning gold-plated finish, making them a perfect accessory for both traditional and contemporary outfits."
     },
     {
       "image":
@@ -6080,7 +6083,8 @@
       "name": "Arrow Shaped Pendant Necklace",
       "discount_price": "324",
       "price": "1160",
-      "id": 54
+      "id": 54,
+      "description": "Add a touch of edgy style to your look with this Arrow Shaped Pendant Necklace by Roadster. The silver-toned necklace features a unique arrow design, symbolizing strength and direction, making it a perfect accessory for casual and formal occasions."
     },
     {
       "image":
@@ -6089,7 +6093,8 @@
       "name": "Unisex Cuff Bracelet",
       "discount_price": "769",
       "price": "2024",
-      "id": 55
+      "id": 55,
+      "description": "Make a fashion statement with this Unisex Cuff Bracelet by EL REGALO. The bracelet features a sleek and stylish design, suitable for both men and women. Crafted with precision, this cuff bracelet adds a touch of elegance to any outfit."
     },
     {
       "image":
@@ -6098,7 +6103,8 @@
       "name": "Studed Choker Jewellery Set",
       "discount_price": "374",
       "price": "3746",
-      "id": 56
+      "id": 56,
+      "description": "Elevate your style with this exquisite Studed Choker Jewellery Set by Zaveri Pearls. The set features a stunning gold-plated choker adorned with white Kundan pearls, adding a touch of glamour and opulence to your attire."
     },
     {
       "image":
@@ -6107,7 +6113,8 @@
       "name": "Set of 6 Gold-Plated Earrings",
       "discount_price": "372",
       "price": "1330",
-      "id": 57
+      "id": 57,
+      "description": "Enhance your jewelry collection with this stunning Set of 6 Gold-Plated Earrings by Celena Cole. The set includes six pairs of earrings featuring a contemporary design and a luxurious gold-plated finish, perfect for adding a touch of elegance to your everyday or special occasion outfits."
     },
     {
       "image":
@@ -6116,7 +6123,8 @@
       "name": "Women Brass Cubic Zirconia Rose Gold-Plated Wraparound Bracelet",
       "discount_price": "390",
       "price": "1950",
-      "id": 58
+      "id": 58,
+      "description": "Make a style statement with this Women Brass Cubic Zirconia Rose Gold-Plated Wraparound Bracelet by AMI. The bracelet features a stunning design with baguette diamonds, adding a touch of sparkle and glamour to your wrist. Crafted with precision and attention to detail, this bracelet is perfect for parties and special occasions."
     },
     {
       "image":
@@ -6125,7 +6133,8 @@
       "name": "Women Sterling Silver Rhodium-Plated Cuff Bracelet",
       "discount_price": "3188",
       "price": "5798",
-      "id": 59
+      "id": 59,
+      "description": "Add a touch of elegance to your wrist with this Women Sterling Silver Rhodium-Plated Cuff Bracelet by GIVA. Crafted from high-quality sterling silver and plated with rhodium, this cuff bracelet showcases a sophisticated design, making it a perfect accessory for both formal and casual occasions."
     },
     {
       "image":
@@ -6134,7 +6143,8 @@
       "name": "Gold-Plated Drop Earrings",
       "discount_price": "164",
       "price": "549",
-      "id": 60
+      "id": 60,
+      "description": "Complete your look with these stylish Gold-Plated Drop Earrings by DressBerry. The earrings feature a sleek and elegant design, perfect for adding a touch of sophistication to your outfits. Crafted with care, these earrings are suitable for both casual and formal occasions."
     },
     {
       "image":
@@ -6143,7 +6153,8 @@
       "name": "Twisted Hoop Earrings",
       "discount_price": "402",
       "price": "895",
-      "id": 61
+      "id": 61,
+      "description": "Add a touch of elegance to your look with these Twisted Hoop Earrings by Accessorize. The earrings feature a unique twisted design and a beautiful blue hue, making them a stylish accessory for any occasion."
     },
     {
       "image":
@@ -6152,7 +6163,8 @@
       "name": "Handcrafted Drop Earrings",
       "discount_price": "891",
       "price": "3430",
-      "id": 62
+      "id": 62,
+      "description": "Make a statement with these Handcrafted Drop Earrings by Priyaasi. The earrings feature a stunning teardrop shape and a beautiful pink and gunmetal-toned design. Handcrafted with attention to detail, these earrings are perfect for adding a touch of sophistication to your outfits."
     },
     {
       "image":
@@ -6161,7 +6173,8 @@
       "name": "Oversized Studs",
       "discount_price": "390",
       "price": "1500",
-      "id": 63
+      "id": 63,
+      "description": "Add a touch of glamour to your ensemble with these Oversized Studs by Zaveri Pearls. The studs feature a gold-toned design with white accents, creating a bold and stylish look. Perfect for both casual and formal occasions."
     },
     {
       "image":
@@ -6170,7 +6183,8 @@
       "name": "Gold Plated Jewellery Set",
       "discount_price": "1479",
       "price": "8220",
-      "id": 64
+      "id": 64,
+      "description": "Upgrade your jewelry collection with this Gold Plated Jewellery Set by aadita. The set includes a stunning choker and matching earrings, adorned with AD stones for a luxurious touch. Perfect for weddings and special occasions."
     },
     {
       "image":
@@ -6179,7 +6193,8 @@
       "name": "Gold-Plated Stone Beaded Mangalsutra",
       "discount_price": "349",
       "price": "1499",
-      "id": 65
+      "id": 65,
+      "description": "Enhance your traditional attire with this Gold-Plated Stone Beaded Mangalsutra by Brado Jewellery. The mangalsutra features black stone beads and a beautiful gold-plated pendant, creating a striking and elegant look."
     },
     {
       "image":
@@ -6188,7 +6203,8 @@
       "name": "Drop Earrings",
       "discount_price": "224",
       "price": "1499",
-      "id": 66
+      "id": 66,
+      "description": "Complete your look with these stylish Drop Earrings by Anouk. The earrings feature a chic design with a combination of gold and silver tones, making them versatile and suitable for various outfits and occasions."
     },
     {
       "image":
@@ -6197,7 +6213,8 @@
       "name": "22K Gold-Plated Ruby & Stone-Studded Beaded Handcrafted Jewellery Set",
       "discount_price": "1602",
       "price": "8900",
-      "id": 67
+      "id": 67,
+      "description": "Make a statement with this exquisite 22K Gold-Plated Ruby & Stone-Studded Beaded Handcrafted Jewellery Set by Rubans. The set includes a necklace and earrings, featuring a combination of white, pink, and ruby stones for a stunning and elegant look."
     },
     {
       "image":
@@ -6206,16 +6223,18 @@
       "name": "Jhumkas Earrings",
       "discount_price": "381",
       "price": "2245",
-      "id": 68
+      "id": 68,
+      "description": "Add a touch of traditional charm to your attire with these Silver-Toned Contemporary Jhumkas Earrings by Shining Diva. The earrings feature an intricate design with beautiful detailing, perfect for showcasing your personal style."
     },
     {
       "image":
         "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12883522/2022/5/18/8fa67f1a-4b26-458f-bde9-48319bbde0931652886272386ZaveriPearlsGold-PlatedWhiteKundanPearlsStuddedMultistrandCh1.jpg",
       "brand": "Zaveri Pearls",
-      "name": "Studed Choker Jewellery Set",
+      "name": "Studded Choker Jewellery Set",
       "discount_price": "495",
       "price": "2913",
-      "id": 69
+      "id": 69,
+      "description": "Elevate your ethnic look with this stunning Studded Choker Jewellery Set by Zaveri Pearls. The set features a multistrand choker adorned with white kundan pearls, creating a regal and elegant appearance."
     },
     {
       "image":
@@ -6224,268 +6243,269 @@
       "name": "Rhodium-Plated Circular Studs",
       "discount_price": "608",
       "price": "2099",
-      "id": 70
+      "id": 70,
+      "description": "Add a touch of sophistication to your look with these Rhodium-Plated Circular Studs by GIVA. The studs feature a sleek and minimalist design, making them a versatile accessory for both casual and formal occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19329102/2022/8/1/4df7617a-ff11-4436-965e-431ccf889b761659336831310Bracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19329102/2022/8/1/4df7617a-ff11-4436-965e-431ccf889b761659336831310Bracelet1.jpg",
       "brand": "Voylla",
       "name": "Women Bracelet",
       "discount_price": "319",
       "price": "399",
-      "id": 71
+      "id": 71,
+      "description": "Add a touch of elegance to your wrist with this Women Bracelet by Voylla. The bracelet features a beautiful design and is perfect for enhancing your everyday or special occasion outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1933900/2020/9/16/65933f32-0997-4e98-a5e5-8c488a8ba0e91600238919565InfuzzeOxidisedSilver-TonedCrescent-ShapedChandbalis1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1933900/2020/9/16/65933f32-0997-4e98-a5e5-8c488a8ba0e91600238919565InfuzzeOxidisedSilver-TonedCrescent-ShapedChandbalis1.jpg",
       "brand": "Infuzze",
       "name": "Crescent-Shaped Chandbalis",
       "discount_price": "359",
       "price": "899",
-      "id": 72
+      "id": 72,
+      "description": "Make a bold fashion statement with these Crescent-Shaped Chandbalis by Infuzze. The earrings feature an oxidized silver-tone finish and a unique design that will add charm to your ethnic or contemporary outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13241638/2021/12/22/c0f4b539-d7a4-485a-841c-b247e3518a871640179319761YouBellaSetof24Gold-PlatedStuds1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13241638/2021/12/22/c0f4b539-d7a4-485a-841c-b247e3518a871640179319761YouBellaSetof24Gold-PlatedStuds1.jpg",
       "brand": "YouBella",
       "name": "Set of 24 Gold-Plated Studs",
       "discount_price": "327",
       "price": "1426",
-      "id": 73
+      "id": 73,
+      "description": "Add versatility to your jewelry collection with this Set of 24 Gold-Plated Studs by YouBella. The set includes a variety of stud earrings in different designs, perfect for mixing and matching with your outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19434830/2022/8/8/5654bb51-13cf-4f0a-b5b7-7201fa9d5fdd1659959313510Earrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19434830/2022/8/8/5654bb51-13cf-4f0a-b5b7-7201fa9d5fdd1659959313510Earrings1.jpg",
       "brand": "Voylla",
       "name": "Women Drop Earrings",
       "discount_price": "",
       "price": "",
-      "id": 74
+      "id": 74,
+      "description": "Enhance your earlobe with these Women Drop Earrings by Voylla. The earrings feature a stylish design and are suitable for adding a touch of glamour to your casual or formal looks."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300890/2022/8/11/7187298f-0432-4323-8450-ea8e407bfb2f1660199531349DressBerryWomenGold-TonedCircularDropEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300890/2022/8/11/7187298f-0432-4323-8450-ea8e407bfb2f1660199531349DressBerryWomenGold-TonedCircularDropEarrings1.jpg",
       "brand": "DressBerry",
       "name": "Women Drop Earrings",
       "discount_price": "159",
       "price": "799",
-      "id": 75
+      "id": 75,
+      "description": "Make a style statement with these Women Drop Earrings by DressBerry. The earrings feature a gold-toned circular drop design, perfect for adding a touch of elegance to your outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13630660/2021/10/17/240b9f42-dbc8-4ee3-a6f6-4227fa2ea57a1634485539900-Zaveri-Pearls-White--Green-Gold-Plated-Studded-Pearls-Jewell-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13630660/2021/10/17/240b9f42-dbc8-4ee3-a6f6-4227fa2ea57a1634485539900-Zaveri-Pearls-White--Green-Gold-Plated-Studded-Pearls-Jewell-1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Gold-Plated Jewellery Set",
       "discount_price": "375",
       "price": "1875",
-      "id": 76
+      "id": 76,
+      "description": "Upgrade your jewelry collection with this stunning Gold-Plated Jewellery Set by Zaveri Pearls. The set features white and green studded pearls, adding a touch of elegance to your ethnic ensembles."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14765580/2021/10/25/97a16420-9c29-4c18-821c-ffef2729f87c1635184426944AMISetof4Gold-TonedContemporaryGold-PlatedHoopEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14765580/2021/10/25/97a16420-9c29-4c18-821c-ffef2729f87c1635184426944AMISetof4Gold-TonedContemporaryGold-PlatedHoopEarrings1.jpg",
       "brand": "AMI",
       "name": "Set of 4 Half Hoop Earrings",
       "discount_price": "399",
       "price": "1995",
-      "id": 77
+      "id": 77,
+      "description": "Add a touch of contemporary style to your jewelry collection with this Set of 4 Half Hoop Earrings by AMI. The earrings feature a gold-toned finish and a unique design, perfect for enhancing your casual or party looks."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16185576/2021/11/20/b55a7a51-5d7f-4282-8991-3a0789c873a81637402487037ZENEMEGold-PlatedWhiteAD-StuddedJewellerySet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16185576/2021/11/20/b55a7a51-5d7f-4282-8991-3a0789c873a81637402487037ZENEMEGold-PlatedWhiteAD-StuddedJewellerySet1.jpg",
       "brand": "ZENEME",
       "name": "Gold-Plated AD-Studded Jewellery Set",
       "discount_price": "474",
       "price": "2499",
-      "id": 78
+      "id": 78,
+      "description": "Get ready to dazzle with this Gold-Plated AD-Studded Jewellery Set by ZENEME. The set includes a necklace, earrings, and a mang tikka, all adorned with white AD stones, making it a perfect choice for weddings or special occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2343946/2017/12/28/11514438653686-Jewels-Galaxy-Rose--Off-White-Metal-Rose-Gold-Plated-Handcrafted-Contemporary-Bracelet-8411514438653648-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2343946/2017/12/28/11514438653686-Jewels-Galaxy-Rose--Off-White-Metal-Rose-Gold-Plated-Handcrafted-Contemporary-Bracelet-8411514438653648-1.jpg",
       "brand": "Jewels Galaxy",
       "name": "Handcrafted Bracelet",
       "discount_price": "599",
       "price": "1999",
-      "id": 79
+      "id": 79,
+      "description": "Accentuate your wrist with this Handcrafted Bracelet by Jewels Galaxy. The bracelet features a rose gold-plated contemporary design and is skillfully handcrafted, adding a touch of sophistication to your ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19298442/2022/7/29/64b75d76-dd93-4ff4-9a02-95214f5032381659095041430VoyllaSilver-PlatedAarambhOm-SwastikaFingerRing1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19298442/2022/7/29/64b75d76-dd93-4ff4-9a02-95214f5032381659095041430VoyllaSilver-PlatedAarambhOm-SwastikaFingerRing1.jpg",
       "brand": "Voylla",
       "name": "Silver-Plated & Aarambh Om-Swastika Finger Ring",
       "discount_price": "319",
       "price": "399",
-      "id": 80
+      "id": 80,
+      "description": "Add a spiritual touch to your finger with this Silver-Plated & Aarambh Om-Swastika Finger Ring by Voylla. The ring features a unique design combining the Om and Swastika symbols, making it a meaningful accessory."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300690/2021/6/22/08693271-95e8-4df3-888c-66c20fa083481624371525224-DressBerry-Gold-Toned--Off-White-Stone-Studded-Beaded-Tassel-4.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300690/2021/6/22/08693271-95e8-4df3-888c-66c20fa083481624371525224-DressBerry-Gold-Toned--Off-White-Stone-Studded-Beaded-Tassel-4.jpg",
       "brand": "DressBerry",
       "name": "Beaded Tasselled Drop Earrings",
       "discount_price": "174",
       "price": "699",
-      "id": 81
+      "id": 81,
+      "description": "Elevate your look with these Beaded Tasselled Drop Earrings by DressBerry. The earrings feature a gold-toned design with off-white stone embellishments and beaded tassels, adding a touch of glamour to any outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18728400/2022/6/14/68291d7d-f6d8-4c51-af2b-e634fe8f92531655193422638Rakhi1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18728400/2022/6/14/68291d7d-f6d8-4c51-af2b-e634fe8f92531655193422638Rakhi1.jpg",
       "brand": "Silver Shine",
       "name": "Set Of 2 Rakhi",
       "discount_price": "391",
       "price": "1150",
-      "id": 82
+      "id": 82,
+      "description": "Celebrate the bond of love with this Set Of 2 Rakhi by Silver Shine. The rakhi set features beautifully designed rakhi threads, perfect for adding a special touch to the festive occasion of Raksha Bandhan."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16826098/2022/1/14/c52a29a6-f282-45c7-a0d3-3d75d3fe3a0e1642160336326Ring1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16826098/2022/1/14/c52a29a6-f282-45c7-a0d3-3d75d3fe3a0e1642160336326Ring1.jpg",
       "brand": "GIVA",
       "name": "Sterling Silver Finger Ring",
       "discount_price": "1495",
       "price": "3399",
-      "id": 83
+      "id": 83,
+      "description": "Make a style statement with this Sterling Silver Finger Ring by GIVA. The ring features a sleek and elegant design, crafted with sterling silver, making it a perfect accessory to complement your outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/7/9/503f542c-6e21-47cd-a791-20b5eb4ff7e11625839869086-5.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/7/9/503f542c-6e21-47cd-a791-20b5eb4ff7e11625839869086-5.jpg",
       "brand": "Shining Diva Fashion",
       "name": "Women Gold Toned Necklace",
       "discount_price": "359",
       "price": "1995",
-      "id": 84
+      "id": 84,
+      "description": "Upgrade your jewelry collection with this Women Gold Toned Necklace by Shining Diva Fashion. The necklace features a stylish gold-toned design, perfect for enhancing your ethnic or festive looks."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13499140/2021/8/11/b8e37214-791d-484e-a4c7-f76a7bd6ccd01628688932370-TOKYO-TALKIES-X-rubans-FASHION-ACCESSORIES-Gold-Toned-Contem-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13499140/2021/8/11/b8e37214-791d-484e-a4c7-f76a7bd6ccd01628688932370-TOKYO-TALKIES-X-rubans-FASHION-ACCESSORIES-Gold-Toned-Contem-1.jpg",
       "brand": "TOKYO TALKIES X rubans FASHION ACCESSORIES",
       "name": "Contemporary Drop Earrings",
       "discount_price": "364",
       "price": "1520",
-      "id": 85
+      "id": 85,
+      "description": "Add a modern touch to your ensemble with these Contemporary Drop Earrings by TOKYO TALKIES X rubans FASHION ACCESSORIES. The earrings feature a gold-toned design with a unique contemporary style, perfect for adding a statement to your look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18768938/2022/7/5/9967b335-26ec-49b3-b6cb-3830fa2d85ba1657017099336CarltonLondonGold-PlatedBlackCZStuddedHandcraftedBracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18768938/2022/7/5/9967b335-26ec-49b3-b6cb-3830fa2d85ba1657017099336CarltonLondonGold-PlatedBlackCZStuddedHandcraftedBracelet1.jpg",
       "brand": "Carlton London",
       "name": "Gold-Plated CZ Bracelet",
       "discount_price": "547",
       "price": "995",
-      "id": 86
+      "id": 86,
+      "description": "Accentuate your wrist with this Gold-Plated CZ Bracelet by Carlton London. The bracelet features a black CZ-studded design, handcrafted to perfection, making it a stylish accessory for any occasion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300290/2021/7/30/99e049c8-7e5f-4988-b739-d23b2928640b1627636833975-DressBerry-Women-Earrings-7621627636833558-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14300290/2021/7/30/99e049c8-7e5f-4988-b739-d23b2928640b1627636833975-DressBerry-Women-Earrings-7621627636833558-1.jpg",
       "brand": "DressBerry",
       "name": "Rose Gold-Plated Earrings",
       "discount_price": "203",
       "price": "549",
-      "id": 87
+      "id": 87,
+      "description": "Enhance your jewelry collection with these Rose Gold-Plated Earrings by DressBerry. The earrings feature a delicate and elegant design, perfect for adding a touch of femininity to your outfits."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14815064/2022/5/18/b42d9a95-9b33-4909-8b10-7602f92292951652883051567ZaveriPearlsRoseGoldPlatedSetof3ContemporaryStudsEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14815064/2022/5/18/b42d9a95-9b33-4909-8b10-7602f92292951652883051567ZaveriPearlsRoseGoldPlatedSetof3ContemporaryStudsEarrings1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Set of 3 Studs Earrings",
       "discount_price": "474",
       "price": "2495",
-      "id": 88
+      "id": 88,
+      "description": "Upgrade your earring collection with this Set of 3 Studs Earrings by Zaveri Pearls. The earrings feature a contemporary design with rose gold plating, offering a versatile and stylish accessory for various occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/17/5b1d66ca-a3f1-4044-9592-02a566547cbb1613553781872-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/2/17/5b1d66ca-a3f1-4044-9592-02a566547cbb1613553781872-1.jpg",
       "brand": "JOKER & WITCH",
       "name": "Silver-Plated Choker Necklace",
       "discount_price": "296",
       "price": "1099",
-      "id": 89
+      "id": 89,
+      "description": "Make a fashion statement with this Silver-Plated Choker Necklace by JOKER & WITCH. The necklace features a sleek and elegant design, crafted with silver plating, adding a touch of sophistication to your neckline."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15493456/2021/9/18/effb99e9-966b-4a30-9b02-553d77f7b8141631968291276YouBellaGold-TonedContemporaryStudsEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15493456/2021/9/18/effb99e9-966b-4a30-9b02-553d77f7b8141631968291276YouBellaGold-TonedContemporaryStudsEarrings1.jpg",
       "brand": "YouBella",
       "name": "Woman Set Of 32 Studs Earrings",
       "discount_price": "385",
       "price": "1426",
-      "id": 90
+      "id": 90,
+      "description": "Make a statement with this Woman Set Of 32 Studs Earrings by YouBella. The set includes 32 pairs of stud earrings with a gold-toned contemporary design, allowing you to mix and match to create various stylish looks."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9436935/2020/11/4/a73f0e91-28b8-4622-8743-f0d3cc26b2c91604496287743CarltonLondonSilver-TonedRhodium-PlatedCZStuddedGeometricStu1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9436935/2020/11/4/a73f0e91-28b8-4622-8743-f0d3cc26b2c91604496287743CarltonLondonSilver-TonedRhodium-PlatedCZStuddedGeometricStu1.jpg",
       "brand": "Carlton London",
       "name": "CZ Studded Geometric Studs",
       "discount_price": "537",
       "price": "895",
-      "id": 91
+      "id": 91,
+      "description": "Add a touch of elegance with these CZ Studded Geometric Studs by Carlton London. The studs feature a silver-toned rhodium-plated design with sparkling CZ stones, creating a stylish and sophisticated look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312296/2022/7/24/30408e91-e051-4da4-82e7-bad22e755ec01658653075896RoadsterMenSilver-TonedMagicStickPendantNecklace1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312296/2022/7/24/30408e91-e051-4da4-82e7-bad22e755ec01658653075896RoadsterMenSilver-TonedMagicStickPendantNecklace1.jpg",
       "brand": "Roadster",
       "name": "Men Pendant Necklace",
       "discount_price": "337",
       "price": "1350",
-      "id": 92
+      "id": 92,
+      "description": "Make a style statement with this Men Pendant Necklace by Roadster. The necklace features a silver-toned pendant in the shape of a magic stick, adding a trendy and edgy vibe to your outfit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/5/16/f363949b-2932-4fc8-b27b-ff8cef6cce391557998027803-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/5/16/f363949b-2932-4fc8-b27b-ff8cef6cce391557998027803-1.jpg",
       "brand": "Shoshaa",
       "name": "Square Studs",
       "discount_price": "896",
       "price": "3586",
-      "id": 93
+      "id": 93,
+      "description": "Enhance your look with these Square Studs by Shoshaa. The studs feature a classic square design and are crafted with attention to detail, adding a touch of elegance to your style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15547726/2021/9/21/533f71af-930c-4f4d-ad6e-4b7068b978cc1632207742654AmericanDiamondRoseGoldPlatedBracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15547726/2021/9/21/533f71af-930c-4f4d-ad6e-4b7068b978cc1632207742654AmericanDiamondRoseGoldPlatedBracelet1.jpg",
       "brand": "Priyaasi",
       "name": "Women Studded Kada Bracelet",
       "discount_price": "827",
       "price": "3449",
-      "id": 94
+      "id": 94,
+      "description": "Accessorize your wrist with this Women Studded Kada Bracelet by Priyaasi. The bracelet features a rose gold-plated design with sparkling American diamonds, offering a glamorous and feminine touch to your ensemble."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19030602/2022/7/24/c57fcb6e-a5fd-4e91-afc8-fd5c59d30dc61658642688319YellowChimesPinkContemporaryDropEarrings1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19030602/2022/7/24/c57fcb6e-a5fd-4e91-afc8-fd5c59d30dc61658642688319YellowChimesPinkContemporaryDropEarrings1.jpg",
       "brand": "Yellow Chimes",
       "name": "Drop Earrings",
       "discount_price": "546",
       "price": "1440",
-      "id": 95
+      "id": 95,
+      "description": "Make a fashion statement with these Drop Earrings by Yellow Chimes. The earrings feature a contemporary design with pink accents, adding a pop of color and style to your overall look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999330/2021/12/24/637b1ca5-272d-4f13-8b1b-5a59c5abdad61640345961481AnoukPinkGold-TonedStone-StuddedBeadedTempleNecklaceSet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15999330/2021/12/24/637b1ca5-272d-4f13-8b1b-5a59c5abdad61640345961481AnoukPinkGold-TonedStone-StuddedBeadedTempleNecklaceSet1.jpg",
       "brand": "Anouk",
       "name": "Studded Temple Necklace Set",
       "discount_price": "619",
       "price": "3099",
-      "id": 96
+      "id": 96,
+      "description": "Complete your traditional look with this Studded Temple Necklace Set by Anouk. The set includes a gold-toned necklace adorned with stones and beads, offering a beautiful and intricate design."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16004918/2021/11/10/b87d6395-922a-4de0-ac6d-1470dec713ce1636542309006ShiningDivaOxidisedSilver-PlatedBlackJewellerySet7.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16004918/2021/11/10/b87d6395-922a-4de0-ac6d-1470dec713ce1636542309006ShiningDivaOxidisedSilver-PlatedBlackJewellerySet7.jpg",
       "brand": "Shining Diva",
       "name": "Oxidised Silver-Plated Jewellery Set",
       "discount_price": "474",
       "price": "2495",
-      "id": 97
+      "id": 97,
+      "description": "Add a touch of elegance to your ensemble with this Oxidised Silver-Plated Jewellery Set by Shining Diva. The set includes black-toned accessories with an oxidized silver-plated finish, creating a unique and stylish look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10607222/2019/11/21/3f4dc0b4-bd35-4f4d-82c0-6cd69e9ec9621574315932795-Priyaasi-Set-Of-2-Rose-Gold-Plated-Handcrafted-AD-Studded-Ha-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10607222/2019/11/21/3f4dc0b4-bd35-4f4d-82c0-6cd69e9ec9621574315932795-Priyaasi-Set-Of-2-Rose-Gold-Plated-Handcrafted-AD-Studded-Ha-1.jpg",
       "brand": "Priyaasi",
       "name": "Set Of 2 Handcrafted Bangles",
       "discount_price": "969",
       "price": "3230",
-      "id": 98
+      "id": 98,
+      "description": "Complete your ethnic look with this Set Of 2 Handcrafted Bangles by Priyaasi. The bangles feature a rose gold-plated design with intricate handcrafted details and sparkling AD stones, offering a blend of traditional and contemporary style."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13630672/2021/11/18/d1e8b5a1-9ed4-454a-b58f-c8836dd1a9611637214759288ZaveriPearlsGold-PlatedClusteredPearlsCuffBracelet1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13630672/2021/11/18/d1e8b5a1-9ed4-454a-b58f-c8836dd1a9611637214759288ZaveriPearlsGold-PlatedClusteredPearlsCuffBracelet1.jpg",
       "brand": "Zaveri Pearls",
       "name": "Gold-Plated Cuff Bracelet",
       "discount_price": "514",
       "price": "2708",
-      "id": 99
+      "id": 99,
+      "description": "Add a touch of glamour to your wrist with this Gold-Plated Cuff Bracelet by Zaveri Pearls. The bracelet features a clustered pearls design with a gold-plated finish, offering a luxurious and sophisticated look."
     }
   ],
    "laptopData":[
