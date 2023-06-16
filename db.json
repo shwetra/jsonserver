@@ -4052,901 +4052,901 @@
   
   "footwareData" : [
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg",
+      "id": 0,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men Clarkin Sneakers",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
-      "id": 0
+      "description": "Stay comfortable and stylish with these U.S. Polo Assn. Men Clarkin Sneakers. These sneakers feature a classic white design and are perfect for casual wear. The cushioned insole provides added comfort, making them ideal for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16513990/2022/1/26/d8f01fca-59e2-4f82-8214-9cd61d373be41643184909272-Roadster-Men-White-Sneakers-6661643184908868-1.jpg",
+      "id": 1,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16513990/2022/1/26/d8f01fca-59e2-4f82-8214-9cd61d373be41643184909272-Roadster-Men-White-Sneakers-6661643184908868-1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 872",
       "price": "Rs. 3795",
-      "id": 1
+      "description": "Step up your style game with these Roadster Men Sneakers. These sneakers feature a sleek white design with a touch of black, adding a modern twist. The high-quality material ensures durability, while the cushioned footbed provides comfort throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
+      "id": 2,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
       "brand": "Nike",
       "name": "Men Winflo 8 Running Shoes",
       "discount_price": "Rs. 7465",
       "price": "Rs. 8295",
-      "id": 2
+      "description": "Enhance your running experience with these Nike Men Winflo 8 Running Shoes. Designed for comfort and performance, these shoes feature a breathable upper and responsive cushioning. The durable outsole provides excellent traction, making them perfect for your daily runs."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18290390/2022/6/15/20f0d50d-5f08-4097-93c2-0b675d0c21301655282615654ElPasoMenBlackThongFlip-Flops1.jpg",
+      "id": 3,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18290390/2022/6/15/20f0d50d-5f08-4097-93c2-0b675d0c21301655282615654ElPasoMenBlackThongFlip-Flops1.jpg",
       "brand": "El Paso",
       "name": "Men Thong Flip-Flops",
       "discount_price": "Rs. 799",
       "price": "Rs. 3995",
-      "id": 3
+      "description": "Get ready for the summer with these El Paso Men Thong Flip-Flops. These flip-flops feature a sleek black design with a comfortable thong strap. The cushioned footbed provides a relaxed feel, making them perfect for beach outings and casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18509904/2022/5/31/766bda50-82e7-480b-a52c-9cd648a2d7941653975616884MactreeMenWhiteColourblockedPUSneakers1.jpg",
+      "id": 4,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18509904/2022/5/31/766bda50-82e7-480b-a52c-9cd648a2d7941653975616884MactreeMenWhiteColourblockedPUSneakers1.jpg",
       "brand": "Mactree",
       "name": "Men Colourblocked PU Sneakers",
       "discount_price": "Rs. 744",
       "price": "Rs. 3720",
-      "id": 4
+      "description": "Upgrade your footwear collection with these Mactree Men Colourblocked PU Sneakers. These sneakers feature a stylish colorblocked design with a combination of white and black. The PU material ensures durability, while the cushioned insole provides all-day comfort."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17277676/2022/3/11/8537f87a-b701-4d82-8f71-04349a12697e1646999055602-US-Polo-Assn-Men-Flip-Flops-2581646999055242-1.jpg",
+      "id": 5,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17277676/2022/3/11/8537f87a-b701-4d82-8f71-04349a12697e1646999055602-US-Polo-Assn-Men-Flip-Flops-2581646999055242-1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men BEESLEY 4.0 Printed Slider",
       "discount_price": "Rs. 959",
       "price": "Rs. 1599",
-      "id": 5
+      "description": "Add a touch of style to your casual look with these U.S. Polo Assn. Men BEESLEY 4.0 Printed Sliders. Featuring a vibrant printed design, these sliders offer a comfortable fit and are perfect for lounging by the pool or running errands in the city."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17924756/2022/5/26/25e8d482-a14e-4bab-b0ca-c372fea894af1653533464493AfroJackMenBlackCrosliteSliders1.jpg",
+      "id": 6,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17924756/2022/5/26/25e8d482-a14e-4bab-b0ca-c372fea894af1653533464493AfroJackMenBlackCrosliteSliders1.jpg",
       "brand": "AfroJack",
       "name": "Men Croslite Sliders",
       "discount_price": "Rs. 499",
       "price": "Rs. 2495",
-      "id": 6
+      "description": "Slip into comfort and style with these AfroJack Men Croslite Sliders. Made from high-quality croslite material, these sliders offer a lightweight and cushioned feel. The classic black design makes them versatile and suitable for various casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17301784/2022/2/26/f96ec6ff-9272-472f-ba1f-ddace6daaf5a1645852137528RedTapeWomenWhiteSneakers1.jpg",
+      "id": 7,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17301784/2022/2/26/f96ec6ff-9272-472f-ba1f-ddace6daaf5a1645852137528RedTapeWomenWhiteSneakers1.jpg",
       "brand": "Red Tape",
       "name": "Women Sneakers",
       "discount_price": "Rs. 1199",
       "price": "Rs. 4799",
-      "id": 7
+      "description": "Step out in style with these Red Tape Women Sneakers. Designed specifically for women, these sneakers feature a trendy white design with subtle accents. The cushioned insole and sturdy outsole provide comfort and support, making them perfect for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17305046/2022/2/26/d3e17ae1-f482-42d1-bc3b-a46afb1a25c01645858426508KillerMenNavyBlueSlip-OnSneakers1.jpg",
+      "id": 8,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17305046/2022/2/26/d3e17ae1-f482-42d1-bc3b-a46afb1a25c01645858426508KillerMenNavyBlueSlip-OnSneakers1.jpg",
       "brand": "Killer",
       "name": "Men Slip-On Sneakers",
       "discount_price": "Rs. 699",
       "price": "Rs. 1999",
-      "id": 8
+      "description": "Upgrade your casual footwear collection with these Killer Men Slip-On Sneakers. These navy blue sneakers feature a convenient slip-on design, making them easy to wear. The cushioned footbed and flexible outsole provide comfort and flexibility for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17906400/2022/6/29/7afbaf50-53c7-46e8-9253-82e68815a8bc1656498353619-New-Balance-Men-Casual-Shoes-9951656498353252-1.jpg",
+      "id": 9,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17906400/2022/6/29/7afbaf50-53c7-46e8-9253-82e68815a8bc1656498353619-New-Balance-Men-Casual-Shoes-9951656498353252-1.jpg",
       "brand": "New Balance",
       "name": "Men Brand Logo Sliders",
       "discount_price": "Rs. 2399",
       "price": "Rs. 3999",
-      "id": 9
+      "description": "Experience comfort and style with these New Balance Men Brand Logo Sliders. Featuring the iconic New Balance logo, these sliders offer a modern and athletic look. The cushioned footbed provides support and the adjustable strap ensures a customized fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10331501/2020/3/18/d4d07c60-88d9-43d9-aa78-9cc7712816321584508934272-US-Polo-Assn-Men-White-Colourblocked-Sneakers-84015845089331-1.jpg",
+      "id": 10,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10331501/2020/3/18/d4d07c60-88d9-43d9-aa78-9cc7712816321584508934272-US-Polo-Assn-Men-White-Colourblocked-Sneakers-84015845089331-1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men Colourblocked Sneakers",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
-      "id": 10
+      "description": "Make a fashion statement with these U.S. Polo Assn. Men Colourblocked Sneakers. The white and colorblocked design adds a stylish touch to your outfit. The cushioned insole and durable outsole provide comfort and support, making them perfect for daily wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10248557/2022/8/3/7e905109-4e00-422e-866c-60c2df73b97c1659524393162-Puma-Men-Black-Enzo-Running-Shoes-6251659524392836-1.jpg",
+      "id": 11,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10248557/2022/8/3/7e905109-4e00-422e-866c-60c2df73b97c1659524393162-Puma-Men-Black-Enzo-Running-Shoes-6251659524392836-1.jpg",
       "brand": "Puma",
       "name": "Men Enzo Running Shoes",
       "discount_price": "Rs. 2584",
       "price": "Rs. 5499",
-      "id": 11
+      "description": "Step up your running game with the Puma Men Enzo Running Shoes. These black running shoes are designed to provide comfort and support during your runs. The breathable upper and cushioned midsole ensure a comfortable fit, while the durable outsole offers excellent traction on various surfaces."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14572470/2022/8/12/b9af12ad-485a-400d-843d-56c922ccf0ee1660282162783-Newfeel-By-Decathlon-Men-Grey-Mesh-Walking-Non-Marking-Shoes-1.jpg",
+      "id": 12,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14572470/2022/8/12/b9af12ad-485a-400d-843d-56c922ccf0ee1660282162783-Newfeel-By-Decathlon-Men-Grey-Mesh-Walking-Non-Marking-Shoes-1.jpg",
       "brand": "Newfeel By Decathlon",
       "name": "Men Walking Shoes",
       "discount_price": "",
       "price": "",
-      "id": 12
+      "description": "Get ready for your daily walks with the Newfeel By Decathlon Men Walking Shoes. These grey mesh shoes provide lightweight and breathable comfort. The non-marking sole ensures durability, while the ergonomic design offers a supportive fit for your feet."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17148144/2022/2/14/e68f7db0-0d01-4842-96b2-516c58507e651644820624617RedTapeMenBlack1.jpg",
+      "id": 13,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17148144/2022/2/14/e68f7db0-0d01-4842-96b2-516c58507e651644820624617RedTapeMenBlack1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
       "discount_price": "Rs. 1224",
       "price": "Rs. 4899",
-      "id": 13
+      "description": "Stay comfortable on your walks with the Red Tape Men Walking Shoes. These black walking shoes feature a stylish design with a comfortable fit. The cushioned insole and sturdy outsole provide support and stability for long walks or casual outings."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19362324/2022/8/3/d3836371-4605-4662-b7d1-636c5c07dcef1659502093792SparxMenBlackNeonOrangeSportsShoes1.jpg",
+      "id": 14,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19362324/2022/8/3/d3836371-4605-4662-b7d1-636c5c07dcef1659502093792SparxMenBlackNeonOrangeSportsShoes1.jpg",
       "brand": "Sparx",
       "name": "Men Running Shoes",
       "discount_price": "Rs. 1799",
       "price": "Rs. 1999",
-      "id": 14
+      "description": "Enhance your running performance with the Sparx Men Running Shoes. These black sports shoes feature neon orange accents for a stylish look. The lightweight design and cushioned midsole provide comfort and responsiveness, while the durable outsole offers excellent traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19321100/2022/7/30/a6c639d3-95db-4997-8a3b-c5733e6cceec1659187420479SportsShoes1.jpg",
+      "id": 15,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19321100/2022/7/30/a6c639d3-95db-4997-8a3b-c5733e6cceec1659187420479SportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Women Walking Shoes",
       "discount_price": "Rs. 1524",
       "price": "Rs. 6099",
-      "id": 15
+      "description": "Experience comfort and style with the Red Tape Women Walking Shoes. These sports shoes are designed for women who value both functionality and fashion. The cushioned insole and lightweight construction provide all-day comfort, while the durable outsole ensures reliable traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11029848/2022/3/3/42b85640-6586-434e-9ea2-5e2fb6da2ac11646307858997-Mast--Harbour-Men-Navy-Blue-Solid-Sliders-4121646307858617-1.jpg",
+      "id": 16,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11029848/2022/3/3/42b85640-6586-434e-9ea2-5e2fb6da2ac11646307858997-Mast--Harbour-Men-Navy-Blue-Solid-Sliders-4121646307858617-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Solid Sliders",
       "discount_price": "Rs. 594",
       "price": "Rs. 1699",
-      "id": 16
+      "description": "Slip into style and comfort with the Mast & Harbour Men Solid Sliders. These navy blue sliders feature a solid design that goes well with any casual outfit. The soft footbed and textured sole provide a comfortable and secure fit for your everyday activities."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17425548/2022/3/7/0adbc936-ec99-4157-ab34-9a7226e0738f1646660549902RoadsterMenBlackSneakers1.jpg",
+      "id": 17,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17425548/2022/3/7/0adbc936-ec99-4157-ab34-9a7226e0738f1646660549902RoadsterMenBlackSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 872",
       "price": "Rs. 3795",
-      "id": 17
+      "description": "Add a trendy touch to your casual attire with the Roadster Men Sneakers. These black sneakers feature a classic design with a modern twist. The cushioned insole and flexible outsole provide comfort and support, making them perfect for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350972/2022/8/9/407fc165-223e-4d48-ab36-27bca7aeb8741660022259750-Puma-Men-Black-Lex-Training-Shoes-8871660022259372-1.jpg",
+      "id": 18,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17350972/2022/8/9/407fc165-223e-4d48-ab36-27bca7aeb8741660022259750-Puma-Men-Black-Lex-Training-Shoes-8871660022259372-1.jpg",
       "brand": "Puma",
       "name": "Men Lex Training Shoes",
       "discount_price": "Rs. 2999",
       "price": "Rs. 5999",
-      "id": 18
+      "description": "Take your training sessions to the next level with the Puma Men Lex Training Shoes. These black training shoes offer a perfect blend of style and functionality. The breathable upper and cushioned midsole provide comfort and support, while the durable outsole ensures traction on various surfaces."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17792884/2022/5/5/bc4da722-45d2-49ea-978b-96e7dd575e631651729115165KianaWomenWhitePrintedT-StrapFlatswithLaserCuts1.jpg",
+      "id": 19,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17792884/2022/5/5/bc4da722-45d2-49ea-978b-96e7dd575e631651729115165KianaWomenWhitePrintedT-StrapFlatswithLaserCuts1.jpg",
       "brand": "Kiana",
       "name": "Women Mules Flats",
       "discount_price": "Rs. 672",
       "price": "Rs. 2490",
-      "id": 19
+      "description": "Step out in style with the Kiana Women Mules Flats. These white printed flats feature laser cuts that add a touch of elegance to your ensemble. The T-strap design and comfortable footbed make them perfect for a casual day out or a special occasion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13886008/2022/8/3/34894dcf-d48a-4ae4-8c25-8bbd1c4546e21659524764572-Nike-Men-Black-Mesh-ZOOM-WINFLO-8-Running-Shoes-786165952476-1.jpg",
+      "id": 20,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13886008/2022/8/3/34894dcf-d48a-4ae4-8c25-8bbd1c4546e21659524764572-Nike-Men-Black-Mesh-ZOOM-WINFLO-8-Running-Shoes-786165952476-1.jpg",
       "brand": "Nike",
       "name": "Men ZOOM WINFLO8 Running Shoes",
       "discount_price": "Rs. 7465",
       "price": "Rs. 8295",
-      "id": 20
+      "description": "Run with confidence in the Nike Men ZOOM WINFLO8 Running Shoes. These black mesh shoes are designed to provide exceptional comfort and support. The responsive cushioning and breathable upper keep your feet cool and comfortable, while the durable outsole offers excellent traction on various surfaces."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15461146/2021/12/7/8198188f-5b43-4571-8836-fac58beef9f21638875430363-AfroJack-Men-Green--White-Woven-Design-Sneakers-641638875429-1.jpg",
+      "id": 21,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15461146/2021/12/7/8198188f-5b43-4571-8836-fac58beef9f21638875430363-AfroJack-Men-Green--White-Woven-Design-Sneakers-641638875429-1.jpg",
       "brand": "AfroJack",
       "name": "Men Woven Design Sneakers",
       "discount_price": "Rs. 799",
       "price": "Rs. 3995",
-      "id": 21
+      "description": "Step up your style game with the AfroJack Men Woven Design Sneakers. These green and white sneakers feature a unique woven design that adds a touch of sophistication to your outfit. The cushioned insole and durable outsole provide comfort and traction for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19004154/2022/7/7/fd6c78d8-7551-4bfc-b50a-681484011a1f1657191065583RedTapeMenBlackMeshWalkingNon-MarkingShoes1.jpg",
+      "id": 22,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19004154/2022/7/7/fd6c78d8-7551-4bfc-b50a-681484011a1f1657191065583RedTapeMenBlackMeshWalkingNon-MarkingShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
       "discount_price": "Rs. 1324",
       "price": "Rs. 5299",
-      "id": 22
+      "description": "Stay comfortable and stylish with the Red Tape Men Walking Shoes. These black mesh shoes are perfect for your daily walks or casual outings. The non-marking sole ensures traction and durability, while the mesh upper provides breathability and a secure fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11431554/2022/6/15/d661fe7d-c552-4c9e-9948-ac654cd6885b1655302498543-MENGLER-Men-Black-Textile-Walking-Shoes-3521655302498488-7.jpg",
+      "id": 23,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11431554/2022/6/15/d661fe7d-c552-4c9e-9948-ac654cd6885b1655302498543-MENGLER-Men-Black-Textile-Walking-Shoes-3521655302498488-7.jpg",
       "brand": "MENGLER",
       "name": "Men Walking Shoes",
       "discount_price": "Rs. 679",
       "price": "Rs. 3999",
-      "id": 23
+      "description": "Experience comfort and style with the MENGLER Men Walking Shoes. These black textile shoes are designed to provide excellent support and cushioning for your walking sessions. The lightweight construction and breathable upper keep your feet cool and comfortable."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13855576/2022/4/25/1d9760b4-c33e-4d72-a6af-8e81970fd0161650883622705USPoloAssnMenGreySolidSneakers1.jpg",
+      "id": 24,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13855576/2022/4/25/1d9760b4-c33e-4d72-a6af-8e81970fd0161650883622705USPoloAssnMenGreySolidSneakers1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men Solid Sneakers",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
-      "id": 24
+      "description": "Add a touch of elegance to your casual attire with the U.S. Polo Assn. Men Solid Sneakers. These grey sneakers feature a clean and solid design that complements any outfit. The cushioned footbed and sturdy outsole provide comfort and traction for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16412240/2021/12/7/b0819c35-6d60-4b05-b04f-ff8aa74d21cc1638879699050AfroJackWomenWhiteColourblockedSneakers1.jpg",
+      "id": 25,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16412240/2021/12/7/b0819c35-6d60-4b05-b04f-ff8aa74d21cc1638879699050AfroJackWomenWhiteColourblockedSneakers1.jpg",
       "brand": "AfroJack",
       "name": "Women Sneakers",
       "discount_price": "Rs. 799",
       "price": "Rs. 3745",
-      "id": 25
+      "description": "Stay trendy and comfortable with the AfroJack Women Sneakers. These white colourblocked sneakers feature a stylish design that adds a fashionable touch to your look. The cushioned insole and lace-up closure provide a snug and comfortable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17020636/2022/8/4/2fc6fcd9-b8e8-4899-ae42-335e2a9e292c1659613184793-Skechers-Men-Black-Max-Cushioning-Premier-Running-Shoes-9821-1.jpg",
+      "id": 26,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17020636/2022/8/4/2fc6fcd9-b8e8-4899-ae42-335e2a9e292c1659613184793-Skechers-Men-Black-Max-Cushioning-Premier-Running-Shoes-9821-1.jpg",
       "brand": "Skechers",
       "name": "Men Max Cushioning Running",
       "discount_price": "Rs. 7199",
       "price": "Rs. 8999",
-      "id": 26
+      "description": "Enhance your running experience with the Skechers Men Max Cushioning Running Shoes. These black shoes feature maximum cushioning to absorb impact and provide a comfortable stride. The breathable mesh upper and durable outsole make them ideal for long-distance running."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18737782/2022/7/25/ee566dfb-56ca-4d19-b07c-dec46a4290f61658740351724-ADIDAS-Originals-Men-Green--Yellow-Printed-Adilette-22-Slide-1.jpg",
+      "id": 27,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18737782/2022/7/25/ee566dfb-56ca-4d19-b07c-dec46a4290f61658740351724-ADIDAS-Originals-Men-Green--Yellow-Printed-Adilette-22-Slide-1.jpg",
       "brand": "ADIDAS Originals",
       "name": "Men Adilette 22 Sliders",
       "discount_price": "",
       "price": "",
-      "id": 27
+      "description": "Slip into comfort and style with the ADIDAS Originals Men Adilette 22 Sliders. These green and yellow printed sliders are perfect for lounging by the pool or at the beach. The lightweight and water-resistant design ensures easy and convenient wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17020770/2022/3/25/d30dc753-33f4-4837-bbb8-41d3df35a9271648203909235-Skechers-Women-Sports-Shoes-5651648203908908-1.jpg",
+      "id": 28,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17020770/2022/3/25/d30dc753-33f4-4837-bbb8-41d3df35a9271648203909235-Skechers-Women-Sports-Shoes-5651648203908908-1.jpg",
       "brand": "Skechers",
       "name": "Women Go Walk Walking Shoes",
       "discount_price": "Rs. 2699",
       "price": "Rs. 5999",
-      "id": 28
+      "description": "Get ready for your daily walks with the Skechers Women Go Walk Walking Shoes. These sports shoes feature a lightweight and flexible design for enhanced comfort and freedom of movement. The cushioned insole and slip-on style make them convenient and easy to wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/14/cd6632e5-a2c6-4ec2-a3d8-9a6a6c59e0f51565782726402-1.jpg",
+      "id": 29,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2019/8/14/cd6632e5-a2c6-4ec2-a3d8-9a6a6c59e0f51565782726402-1.jpg",
       "brand": "H&M",
       "name": "Men Trainers",
       "discount_price": "",
       "price": "",
-      "id": 29
+      "description": "Elevate your athletic style with the H&M Men Trainers. These trainers feature a sleek and modern design that complements your sporty look. The cushioned footbed and durable outsole provide comfort and support for your active lifestyle."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333752/2022/2/28/1b9a9e4a-3eaf-43e6-b6ef-b255ae87c8461646053483586RoadsterMenBlueTexturedSneakers1.jpg",
+      "id": 30,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333752/2022/2/28/1b9a9e4a-3eaf-43e6-b6ef-b255ae87c8461646053483586RoadsterMenBlueTexturedSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Textured Sneakers",
       "discount_price": "Rs. 899",
       "price": "Rs. 4495",
-      "id": 30
+      "description": "Make a style statement with the Roadster Men Textured Sneakers. These blue sneakers feature a textured design that adds a trendy touch to your outfit. The lace-up closure and padded collar provide a secure fit and extra comfort."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12282150/2022/8/5/41e1049c-83b7-4ec6-addf-18abfe15ad431659699873365-Puma-Women-Black-Prowl-Slip-On-Training-Shoes-86816596998727-1.jpg",
+      "id": 31,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12282150/2022/8/5/41e1049c-83b7-4ec6-addf-18abfe15ad431659699873365-Puma-Women-Black-Prowl-Slip-On-Training-Shoes-86816596998727-1.jpg",
       "brand": "Puma",
       "name": "Women Prowl Training Shoes",
       "discount_price": "Rs. 2399",
       "price": "Rs. 3999",
-      "id": 31
+      "description": "Step up your training with the Puma Women Prowl Training Shoes. These black slip-on shoes are designed for comfort and flexibility. The lightweight construction and cushioned insole provide a supportive fit, while the stylish design adds a touch of sporty flair to your workout attire."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15354232/2022/4/22/b2cc3abe-b780-4763-9323-edd8db5799ce1650604625687TWINTOESWomenWhiteBeigeColourblockedSneakers1.jpg",
+      "id": 32,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15354232/2022/4/22/b2cc3abe-b780-4763-9323-edd8db5799ce1650604625687TWINTOESWomenWhiteBeigeColourblockedSneakers1.jpg",
       "brand": "TWIN TOES",
       "name": "Women Colourblocked Sneakers",
       "discount_price": "Rs. 799",
       "price": "Rs. 999",
-      "id": 32
+      "description": "Add a pop of style to your casual look with the TWIN TOES Women Colourblocked Sneakers. These white and beige sneakers feature a unique colourblock design that effortlessly elevates your outfit. The lace-up closure and cushioned insole ensure a comfortable and secure fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19443004/2022/8/9/a44f6c32-dc22-4d6e-afc3-edb68bec7e3e1660026503774SportsShoes1.jpg",
+      "id": 33,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19443004/2022/8/9/a44f6c32-dc22-4d6e-afc3-edb68bec7e3e1660026503774SportsShoes1.jpg",
       "brand": "ABROS",
       "name": "Men Walking Shoes",
       "discount_price": "",
       "price": "",
-      "id": 33
+      "description": "Experience comfort and support with the ABROS Men Walking Shoes. These shoes are designed to provide optimal cushioning and stability for your daily walks. The breathable upper and durable outsole make them a reliable choice for your fitness routine."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16977646/2022/1/29/4a7cc08d-0fa5-4762-9417-d16c25cac0571643450945439CrocsClassicBlueUnisexClog1.jpg",
+      "id": 34,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16977646/2022/1/29/4a7cc08d-0fa5-4762-9417-d16c25cac0571643450945439CrocsClassicBlueUnisexClog1.jpg",
       "brand": "Crocs",
       "name": "Unisex Solid Clogs",
       "discount_price": "Rs. 1797",
       "price": "Rs. 2995",
-      "id": 34
+      "description": "Slip into comfort and style with the Crocs Unisex Solid Clogs. These classic blue clogs feature a lightweight and durable design, making them perfect for everyday wear. The roomy fit and supportive footbed provide all-day comfort, while the slip-on style adds convenience."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
+      "id": 35,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14528384/2021/7/16/ccb4d0a4-b494-4e60-bf8a-9be73c1a88771626414102911-Nike-Winflo-8-Mens-Running-Shoe-9771626414102570-1.jpg",
       "brand": "Nike",
       "name": "Men Winflo 8 Running Shoes",
       "discount_price": "Rs. 7465",
       "price": "Rs. 8295",
-      "id": 35
+      "description": "Enhance your running performance with the Nike Men Winflo 8 Running Shoes. These shoes feature a lightweight and breathable construction that keeps your feet cool and comfortable during your runs. The cushioned midsole and durable outsole provide excellent shock absorption and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14746050/2022/4/25/1a67b7aa-55dd-4470-89da-61352b3788391650883695832USPoloAssnMenOff-WhiteGAIMAN2OSneakers1.jpg",
+      "id": 36,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14746050/2022/4/25/1a67b7aa-55dd-4470-89da-61352b3788391650883695832USPoloAssnMenOff-WhiteGAIMAN2OSneakers1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men GAIMAN 2.O Sneakers",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
-      "id": 36
+      "description": "Step out in style with the U.S. Polo Assn. Men GAIMAN 2.O Sneakers. These off-white sneakers feature a classic design with a modern twist. The lace-up closure and cushioned insole provide a comfortable fit, while the durable outsole ensures traction and stability."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15244956/2021/9/22/8761b4a9-a841-4473-9722-9a7db46d25931632292567962-Puma-Men-Flip-Flops-9191632292567614-1.jpg",
+      "id": 37,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15244956/2021/9/22/8761b4a9-a841-4473-9722-9a7db46d25931632292567962-Puma-Men-Flip-Flops-9191632292567614-1.jpg",
       "brand": "Puma",
       "name": "Men Colourblocked Sliders",
       "discount_price": "Rs. 2099",
       "price": "Rs. 3499",
-      "id": 37
+      "description": "Slip into style and comfort with the Puma Men Colourblocked Sliders. These sliders feature a bold colorblocked design that adds a trendy touch to your casual look. The cushioned footbed and textured outsole provide a comfortable and secure fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17450954/2022/3/9/9e20f37c-5da9-40c0-8c6b-d347402eb5811646808454812RedTapeWomenWhiteWovenDesignSneakers1.jpg",
+      "id": 38,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17450954/2022/3/9/9e20f37c-5da9-40c0-8c6b-d347402eb5811646808454812RedTapeWomenWhiteWovenDesignSneakers1.jpg",
       "brand": "Red Tape",
       "name": "Women Woven Design Sneakers",
       "discount_price": "Rs. 1199",
       "price": "Rs. 4799",
-      "id": 38
+      "description": "Upgrade your casual footwear collection with the Red Tape Women Woven Design Sneakers. These white sneakers feature a stylish woven design that adds a touch of sophistication to your outfit. The lace-up closure and cushioned insole provide a comfortable fit for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16038132/2021/11/9/ce0d12a4-50c9-47e8-8e2d-cfa2ef4805481636446793617RedTapeMenBlack1.jpg",
+      "id": 39,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16038132/2021/11/9/ce0d12a4-50c9-47e8-8e2d-cfa2ef4805481636446793617RedTapeMenBlack1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
       "discount_price": "Rs. 1574",
       "price": "Rs. 6299",
-      "id": 39
+      "description": "Stay comfortable on your walks with the Red Tape Men Walking Shoes. These black shoes are designed to provide optimal support and cushioning for long walks. The breathable upper and durable outsole ensure maximum comfort and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18509902/2022/6/6/529c9365-fbac-438c-8a11-216d1d4071561654525739316MactreeMenWhiteColourblockedPUSneakers1.jpg",
+      "id": 40,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18509902/2022/6/6/529c9365-fbac-438c-8a11-216d1d4071561654525739316MactreeMenWhiteColourblockedPUSneakers1.jpg",
       "brand": "Mactree",
       "name": "Men Colourblocked PU Sneakers",
       "discount_price": "Rs. 798",
       "price": "Rs. 3990",
-      "id": 40
+      "description": "Add a trendy touch to your casual look with the Mactree Men Colourblocked PU Sneakers. These white sneakers feature a stylish colourblock design that effortlessly enhances your outfit. The lace-up closure and cushioned insole provide a comfortable fit for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16470850/2021/12/11/c430d9f6-89e0-4d58-92a1-60982a662f0b1639202760038CasualShoes1.jpg",
+      "id": 41,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16470850/2021/12/11/c430d9f6-89e0-4d58-92a1-60982a662f0b1639202760038CasualShoes1.jpg",
       "brand": "Puma",
       "name": "Men Sneakers",
       "discount_price": "Rs. 1719",
       "price": "Rs. 3999",
-      "id": 41
+      "description": "Step up your style game with the Puma Men Sneakers. These casual shoes feature a sleek design with a comfortable fit. The cushioned insole and durable outsole provide support and traction, making them perfect for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18801004/2022/7/22/a4ea8417-5bbd-46ce-8023-74fb3778ef1d1658485757384-Nike-Revolution-5-Mens-Road-Running-Shoes-6981658485757020-1.jpg",
+      "id": 42,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18801004/2022/7/22/a4ea8417-5bbd-46ce-8023-74fb3778ef1d1658485757384-Nike-Revolution-5-Mens-Road-Running-Shoes-6981658485757020-1.jpg",
       "brand": "Nike",
       "name": "Men Revolution 5 Running Shoes",
       "discount_price": "Rs. 3325",
       "price": "Rs. 3695",
-      "id": 42
+      "description": "Experience optimal comfort and performance with the Nike Men Revolution 5 Running Shoes. These road running shoes feature a lightweight and breathable construction that keeps your feet cool and comfortable. The cushioned midsole and flexible outsole provide excellent support and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14769850/2022/4/26/21ae91bc-b379-4848-bd84-17b234dc083b1650947244961-Roadster-Men-Beige--Green-Colourblocked-Sneakers-81116509472-7.jpg",
+      "id": 43,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14769850/2022/4/26/21ae91bc-b379-4848-bd84-17b234dc083b1650947244961-Roadster-Men-Beige--Green-Colourblocked-Sneakers-81116509472-7.jpg",
       "brand": "Roadster",
       "name": "Men Colourblocked Sneakers",
       "discount_price": "Rs. 879",
       "price": "Rs. 2199",
-      "id": 43
+      "description": "Add a pop of color to your outfit with the Roadster Men Colourblocked Sneakers. These stylish sneakers feature a beige and green colorblocked design that adds a trendy touch to your casual look. The lace-up closure and cushioned insole provide a comfortable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11391306/2020/2/12/10b9eea6-35be-4b7d-8c39-826d4d3500c11581485549564-US-Polo-Assn-Men-Casual-Shoes-4671581485548936-1.jpg",
+      "id": 44,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11391306/2020/2/12/10b9eea6-35be-4b7d-8c39-826d4d3500c11581485549564-US-Polo-Assn-Men-Casual-Shoes-4671581485548936-1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men Colourblocked Sneakers",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
-      "id": 44
+      "description": "Elevate your casual style with the U.S. Polo Assn. Men Colourblocked Sneakers. These sneakers feature a classic design with a modern twist. The combination of colors adds a stylish touch to your outfit, while the cushioned insole ensures all-day comfort."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/a25a206b-d66f-4c1f-864f-fe726f2f80251651146955597-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-1.jpg",
+      "id": 45,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7741225/2022/4/28/a25a206b-d66f-4c1f-864f-fe726f2f80251651146955597-Eego-Italy-Men-Black-Leather-High-Top-Trekking-Shoes-5441651-1.jpg",
       "brand": "Eego Italy",
       "name": "Men Trekking Shoes",
       "discount_price": "Rs. 987",
       "price": "Rs. 2599",
-      "id": 45
+      "description": "Gear up for your outdoor adventures with the Eego Italy Men Trekking Shoes. These high-top shoes are designed for trekking and hiking, providing excellent support and protection. The durable leather construction and rugged outsole ensure long-lasting performance."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17203282/2022/2/18/4dde8d65-c3e4-4213-8ba9-608a78c823531645168952489Slip-ontrainers1.jpg",
+      "id": 46,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17203282/2022/2/18/4dde8d65-c3e4-4213-8ba9-608a78c823531645168952489Slip-ontrainers1.jpg",
       "brand": "H&M",
       "name": "Men Blue Slip-on trainers",
       "discount_price": "Rs. 899",
       "price": "Rs. 1499",
-      "id": 46
+      "description": "Stay stylish and comfortable with the H&M Men Blue Slip-on trainers. These slip-on shoes feature a convenient design with a breathable upper and cushioned insole. The versatile blue color complements various outfits, making them perfect for casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16309932/2021/12/1/6adab139-7454-428e-a2e0-3b29aab8ad941638335605329CasualShoes1.jpg",
+      "id": 47,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16309932/2021/12/1/6adab139-7454-428e-a2e0-3b29aab8ad941638335605329CasualShoes1.jpg",
       "brand": "Puma",
       "name": "Men Colourblocked Sneakers",
       "discount_price": "Rs. 1719",
       "price": "Rs. 4299",
-      "id": 47
+      "description": "Make a style statement with the Puma Men Colourblocked Sneakers. These casual shoes feature a trendy colorblocked design that adds a pop of color to your outfit. The cushioned insole and flexible outsole provide comfort and support for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18123686/2022/5/2/cdfbc93e-9732-46a4-8281-5fc1b0d9e7cb1651503910153RedTapeMenBlackSportsShoes1.jpg",
+      "id": 48,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18123686/2022/5/2/cdfbc93e-9732-46a4-8281-5fc1b0d9e7cb1651503910153RedTapeMenBlackSportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
       "discount_price": "Rs. 1324",
       "price": "Rs. 5299",
-      "id": 48
+      "description": "Stay active and comfortable with the Red Tape Men Walking Shoes. These black sports shoes are designed for walking and running, providing excellent support and cushioning. The breathable upper and lightweight construction ensure a comfortable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11715024/2022/4/6/641a7792-396f-4916-80b1-a1517a25e8351649214016956MastHarbourMenWhiteStripedSliders1.jpg",
+      "id": 49,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11715024/2022/4/6/641a7792-396f-4916-80b1-a1517a25e8351649214016956MastHarbourMenWhiteStripedSliders1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Striped Sliders",
       "discount_price": "Rs. 679",
       "price": "Rs. 1699",
-      "id": 49
+      "description": "Upgrade your summer footwear with the Mast & Harbour Men Striped Sliders. These white sliders feature a striped design that adds a trendy touch to your poolside or beach look. The comfortable footbed and slip-on style make them easy to wear and perfect for casual occasions."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19098502/2022/7/13/24d63f07-75d6-4db1-b220-fa425fc148881657724940766SparxMenOliveGreenMeshRunningNon-MarkingShoes1.jpg",
+      "id": 50,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19098502/2022/7/13/24d63f07-75d6-4db1-b220-fa425fc148881657724940766SparxMenOliveGreenMeshRunningNon-MarkingShoes1.jpg",
       "brand": "Sparx",
       "name": "Men Running Shoes",
       "discount_price": "Rs. 1440",
       "price": "Rs. 1549",
-      "id": 50
+      "description": "Stay active and stylish with the Sparx Men Running Shoes. These olive green shoes are designed for running, featuring a breathable mesh upper and cushioned midsole for optimal comfort. The non-marking outsole provides excellent traction on various surfaces."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19098502/2022/7/13/24d63f07-75d6-4db1-b220-fa425fc148881657724940766SparxMenOliveGreenMeshRunningNon-MarkingShoes1.jpg",
+      "id": 51,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19098502/2022/7/13/24d63f07-75d6-4db1-b220-fa425fc148881657724940766SparxMenOliveGreenMeshRunningNon-MarkingShoes1.jpg",
       "brand": "Sparx",
       "name": "Men Running Shoes",
       "discount_price": "Rs. 1440",
       "price": "Rs. 1549",
-      "id": 51
+      "description": "Stay active and stylish with the Sparx Men Running Shoes. These olive green shoes are designed for running, featuring a breathable mesh upper and cushioned midsole for optimal comfort. The non-marking outsole provides excellent traction on various surfaces."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11567678/2020/3/20/7bcde32c-85b6-4e09-b033-8a5f560e0cc61584705422432-Crocs-Unisex-White-Solid-Thong-Flip-Flops-6381584705421488-1.jpg",
+      "id": 52,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11567678/2020/3/20/7bcde32c-85b6-4e09-b033-8a5f560e0cc61584705422432-Crocs-Unisex-White-Solid-Thong-Flip-Flops-6381584705421488-1.jpg",
       "brand": "Crocs",
       "name": "Unisex Solid Thong Flip-Flops",
       "discount_price": "Rs. 2096",
       "price": "Rs. 2995",
-      "id": 52
+      "description": "Step into comfort and style with the Crocs Unisex Solid Thong Flip-Flops. These white flip-flops feature a solid design and are suitable for both men and women. The lightweight and durable construction make them perfect for casual wear and beach outings."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16925016/2022/2/5/cc1134fd-37ab-4236-a5f3-82874ce0ea0e1644058684160RoadsterMenWhiteSneakers1.jpg",
+      "id": 53,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16925016/2022/2/5/cc1134fd-37ab-4236-a5f3-82874ce0ea0e1644058684160RoadsterMenWhiteSneakers1.jpg",
       "brand": "Roadster",
       "name": "Men Sneakers",
       "discount_price": "Rs. 878",
       "price": "Rs. 3995",
-      "id": 53
+      "description": "Add a touch of style to your casual look with the Roadster Men Sneakers. These white sneakers feature a versatile design that pairs well with various outfits. The comfortable fit and durable construction make them suitable for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15321114/2021/9/9/c340b549-9f51-4c5b-8efe-3b3fe7ae2f731631204557472-HERENOW-Women-Beige--Brown-Solid-Slip-On-4931631204557346-6.jpg",
+      "id": 54,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15321114/2021/9/9/c340b549-9f51-4c5b-8efe-3b3fe7ae2f731631204557472-HERENOW-Women-Beige--Brown-Solid-Slip-On-4931631204557346-6.jpg",
       "brand": "HERE&NOW",
       "name": "Women Flats",
       "discount_price": "Rs. 698",
       "price": "Rs. 2495",
-      "id": 54
+      "description": "Step out in style with the HERE&NOW Women Flats. These beige and brown slip-on flats feature a solid design that complements various outfits. The comfortable footbed and lightweight construction make them perfect for all-day wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14184828/2021/4/24/c88717db-d6ac-4ac7-bbe2-92c24fa62ff31619249339340PumaUnisexBluePrinted1.jpg",
+      "id": 55,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14184828/2021/4/24/c88717db-d6ac-4ac7-bbe2-92c24fa62ff31619249339340PumaUnisexBluePrinted1.jpg",
       "brand": "Puma",
       "name": "Unisex Printed Thong Flip-Flops",
       "discount_price": "Rs. 519",
       "price": "Rs. 799",
-      "id": 55
+      "description": "Get ready for summer with the Puma Unisex Printed Thong Flip-Flops. These blue flip-flops feature a stylish printed design and are suitable for both men and women. The cushioned footbed and durable outsole ensure maximum comfort and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2314924/2017/12/17/11513492907870-Nike-Men-Flip-Flops-5641513492907742-1.jpg",
+      "id": 56,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2314924/2017/12/17/11513492907870-Nike-Men-Flip-Flops-5641513492907742-1.jpg",
       "brand": "Nike",
       "name": "Men KAWA Printed Flip-Flops",
       "discount_price": "Rs. 2096",
       "price": "Rs. 2795",
-      "id": 56
+      "description": "Slip into comfort and style with the Nike Men KAWA Printed Flip-Flops. These flip-flops feature a printed design and the iconic Nike logo. The textured footbed provides a massage-like feel, while the soft synthetic strap ensures a secure fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15384928/2022/8/8/f0f81f25-896b-473f-b7a9-26919bf365d41659945184287NikeMenBlueFlexControlTrainingShoes1.jpg",
+      "id": 57,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15384928/2022/8/8/f0f81f25-896b-473f-b7a9-26919bf365d41659945184287NikeMenBlueFlexControlTrainingShoes1.jpg",
       "brand": "Nike",
       "name": "Men Flex Control Training",
       "discount_price": "Rs. 4396",
       "price": "Rs. 5495",
-      "id": 57
+      "description": "Enhance your training sessions with the Nike Men Flex Control Training Shoes. These blue shoes feature a lightweight and breathable construction that provides excellent support and flexibility. The cushioned insole and rubber outsole deliver superior comfort and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17663236/2022/4/12/6ce04683-8221-4b05-85bb-f372d6b7c7e11649762879723-one8-x-PUMA-Men-Navy-Blue--Lime-Green-Thong-Flip-Flops-41516-1.jpg",
+      "id": 58,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17663236/2022/4/12/6ce04683-8221-4b05-85bb-f372d6b7c7e11649762879723-one8-x-PUMA-Men-Navy-Blue--Lime-Green-Thong-Flip-Flops-41516-1.jpg",
       "brand": "one8 x PUMA",
       "name": "Men Breeze V7 Thong Flip-Flops",
       "discount_price": "Rs. 509",
       "price": "Rs. 1699",
-      "id": 58
+      "description": "Experience ultimate comfort and style with the one8 x PUMA Men Breeze V7 Thong Flip-Flops. These navy blue and lime green flip-flops feature a sporty design and the signature one8 and PUMA branding. The textured footbed and soft straps ensure a comfortable fit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19313926/2022/7/30/b507bb76-c133-4ec9-9d6d-e3d5348e91fb1659180730438AfroJackWomenBlackColourblockedSneakers1.jpg",
+      "id": 59,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19313926/2022/7/30/b507bb76-c133-4ec9-9d6d-e3d5348e91fb1659180730438AfroJackWomenBlackColourblockedSneakers1.jpg",
       "brand": "AfroJack",
       "name": "Women Colourblocked Sneakers",
       "discount_price": "Rs. 799",
       "price": "Rs. 3995",
-      "id": 59
+      "description": "Make a style statement with the AfroJack Women Colourblocked Sneakers. These black sneakers feature a bold colourblocked design that adds a trendy touch to your outfit. The cushioned insole and rubber outsole provide comfort and traction."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18960730/2022/7/4/fed64a32-0df9-4822-b367-b935ce6164e41656935850503CasualShoes1.jpg",
+      "id": 60,
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18960730/2022/7/4/fed64a32-0df9-4822-b367-b935ce6164e41656935850503CasualShoes1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men PU Loafers",
       "discount_price": "Rs. 1983",
       "price": "Rs. 3199",
-      "id": 60
+      "description": "Upgrade your footwear collection with the U.S. Polo Assn. Men PU Loafers. These loafers feature a classic design with a PU leather upper and a slip-on style for convenience. The cushioned footbed and sturdy outsole offer comfort and durability."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10388941/2022/6/2/13dc9867-c9ee-4768-a061-1502db8f876c1654168971720-Mast--Harbour-Men-Black-Solid-Sliders-2471654168971230-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10388941/2022/6/2/13dc9867-c9ee-4768-a061-1502db8f876c1654168971720-Mast--Harbour-Men-Black-Solid-Sliders-2471654168971230-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Solid Sliders",
+      "description": "Stay comfortable all day with these black solid sliders for men.",
       "discount_price": "Rs. 899",
       "price": "Rs. 1999",
       "id": 61
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19321106/2022/7/30/39f4094a-65fa-440f-819d-3a2acc30fc161659187846330SportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19321106/2022/7/30/39f4094a-65fa-440f-819d-3a2acc30fc161659187846330SportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Women Running Shoes",
+      "description": "Enhance your running experience with these comfortable and stylish women running shoes.",
       "discount_price": "Rs. 1524",
       "price": "Rs. 6099",
       "id": 62
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12470304/2022/8/5/0048c86a-c4e8-43ab-be5d-3391486ac31d1659694980931-Skechers-Women-Blue-Go-Run-Fast-Running-Shoes-88416596949802-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12470304/2022/8/5/0048c86a-c4e8-43ab-be5d-3391486ac31d1659694980931-Skechers-Women-Blue-Go-Run-Fast-Running-Shoes-88416596949802-1.jpg",
       "brand": "Skechers",
       "name": "Women Running Shoes",
+      "description": "Go the distance with these blue Go Run Fast running shoes for women.",
       "discount_price": "Rs. 2999",
       "price": "Rs. 4999",
       "id": 63
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17990342/2022/4/22/9b07013a-6b53-4e96-99c5-5768885840081650619111596KillerMenBlackWovenDesignSlip-OnSneakers7.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17990342/2022/4/22/9b07013a-6b53-4e96-99c5-5768885840081650619111596KillerMenBlackWovenDesignSlip-OnSneakers7.jpg",
       "brand": "Killer",
       "name": "Men Woven Design Slip-On Sneakers",
+      "description": "Step out in style with these black woven design slip-on sneakers for men.",
       "discount_price": "Rs. 699",
       "price": "Rs. 2499",
       "id": 64
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19217392/2022/7/22/7efa99df-0c5f-4389-8620-910cafca4e701658470291970SportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19217392/2022/7/22/7efa99df-0c5f-4389-8620-910cafca4e701658470291970SportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Walk with comfort and style with these men walking shoes in a sleek design.",
       "discount_price": "Rs. 1524",
       "price": "Rs. 6099",
       "id": 65
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17924754/2022/5/26/03870c04-0ae0-45bc-a64e-c8fab0ee48d01653533467827AfroJackMenGreySolidSliders1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17924754/2022/5/26/03870c04-0ae0-45bc-a64e-c8fab0ee48d01653533467827AfroJackMenGreySolidSliders1.jpg",
       "brand": "AfroJack",
       "name": "Men Solid Sliders",
+      "description": "Slip into these comfortable and trendy grey solid sliders for men.",
       "discount_price": "Rs. 499",
       "price": "Rs. 2495",
       "id": 66
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18862140/2022/6/25/35b67654-fc9c-421e-9e0d-cc4b41b1ebab1656097056961SportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18862140/2022/6/25/35b67654-fc9c-421e-9e0d-cc4b41b1ebab1656097056961SportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Take your walking sessions to the next level with these comfortable men walking shoes.",
       "discount_price": "Rs. 1524",
       "price": "Rs. 6099",
       "id": 67
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17507138/2022/3/15/82fcdb05-8d5d-479d-ab70-ea0ce445b9a11647331181106mrwonkerMenWhiteSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17507138/2022/3/15/82fcdb05-8d5d-479d-ab70-ea0ce445b9a11647331181106mrwonkerMenWhiteSneakers1.jpg",
       "brand": "mr.wonker",
       "name": "Men Colourblocked Sneakers",
+      "description": "Add a pop of color to your outfit with these stylish white colorblocked sneakers for men.",
       "discount_price": "Rs. 699",
       "price": "Rs. 3499",
       "id": 68
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14931728/2021/8/17/5b223b30-3cf1-49fd-b83b-32cbce6f18671629194435375-Skechers-Men-Sports-Shoes-2591629194434796-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14931728/2021/8/17/5b223b30-3cf1-49fd-b83b-32cbce6f18671629194435375-Skechers-Men-Sports-Shoes-2591629194434796-1.jpg",
       "brand": "Skechers",
       "name": "GO WALK 4 -VIABILITY Shoes",
+      "description": "Experience comfort and style with these Skechers sports shoes for men.",
       "discount_price": "Rs. 3479",
       "price": "Rs. 5799",
       "id": 69
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11979886/2022/7/22/2349da8f-54c2-4376-aa55-7d22ebd9199b1658489173548-Nike-Revolution-5-Mens-Running-Shoe-9961658489173141-1.jpg",
       "brand": "Nike",
       "name": "Men Revolution 5 Running Shoes",
+      "description": "Get ready for your running sessions with these Nike Revolution 5 running shoes for men.",
       "discount_price": "Rs. 3325",
       "price": "Rs. 3695",
       "id": 70
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11418836/2022/6/13/689f5c16-409c-46ae-89b3-0b163e13c3301655120723669PumaWomenWhiteMeshEnzo2MetalRunningShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11418836/2022/6/13/689f5c16-409c-46ae-89b3-0b163e13c3301655120723669PumaWomenWhiteMeshEnzo2MetalRunningShoes1.jpg",
       "brand": "Puma",
       "name": "Women Enzo 2 Metal Shoes",
+      "description": "Upgrade your running gear with these stylish and comfortable white mesh Enzo 2 Metal running shoes for women.",
       "discount_price": "Rs. 2749",
       "price": "Rs. 5499",
       "id": 71
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333252/2022/3/1/1e4092b3-0344-4653-a616-56b138c146691646077489203RedTapeMenBlackSportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17333252/2022/3/1/1e4092b3-0344-4653-a616-56b138c146691646077489203RedTapeMenBlackSportsShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Step out in style and comfort with these black sports shoes for men by Red Tape.",
       "discount_price": "Rs. 1324",
       "price": "Rs. 5299",
       "id": 72
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13648378/2021/11/8/dee18565-5bc4-4653-a234-405751d5a68d1636352823870PumaMenBaymaxIDPSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13648378/2021/11/8/dee18565-5bc4-4653-a234-405751d5a68d1636352823870PumaMenBaymaxIDPSneakers1.jpg",
       "brand": "Puma",
       "name": "Men Baymax IDP Sneakers",
+      "description": "Get a cool and casual look with these Baymax IDP sneakers for men by Puma.",
       "discount_price": "Rs. 2649",
       "price": "Rs. 5299",
       "id": 73
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15778982/2021/10/25/705a529a-97a1-4b60-bdf2-64bab0d151031635184404737ProvogueMenBlackSolidFormalDebys1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15778982/2021/10/25/705a529a-97a1-4b60-bdf2-64bab0d151031635184404737ProvogueMenBlackSolidFormalDebys1.jpg",
       "brand": "Provogue",
       "name": "Men Black Solid Formal Debys",
+      "description": "Look classy and elegant with these black solid formal debys for men from Provogue.",
       "discount_price": "Rs. 899",
       "price": "Rs. 4495",
       "id": 74
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11952894/2022/5/18/8de62fe1-ad03-4f1c-8c10-2bb4ea7d3fea1652845374670-HRX-by-Hrithik-Roshan-Men-Black-Mesh-Running-Shoes-871165284-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11952894/2022/5/18/8de62fe1-ad03-4f1c-8c10-2bb4ea7d3fea1652845374670-HRX-by-Hrithik-Roshan-Men-Black-Mesh-Running-Shoes-871165284-1.jpg",
       "brand": "HRX by Hrithik Roshan",
       "name": "Men Running Shoes",
+      "description": "Stay active and comfortable with these black mesh running shoes for men from HRX by Hrithik Roshan.",
       "discount_price": "Rs. 1999",
       "price": "Rs. 4999",
       "id": 75
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/26/e7b2aa83-9108-4dda-a8e3-4b04b1cd5a811608986722476-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/12/26/e7b2aa83-9108-4dda-a8e3-4b04b1cd5a811608986722476-1.jpg",
       "brand": "H&M",
       "name": "Men Solid Trainers",
+      "description": "Complete your casual look with these stylish men's solid trainers from H&M.",
       "discount_price": "",
       "price": "",
       "id": 76
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19150510/2022/7/18/d4395d17-643b-4b34-9a07-5e60a68c2c2b1658147862842PumaMenWhiteSportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19150510/2022/7/18/d4395d17-643b-4b34-9a07-5e60a68c2c2b1658147862842PumaMenWhiteSportsShoes1.jpg",
       "brand": "Puma",
       "name": "Men Cricket Shoes",
+      "description": "Dominate the field with these white sports shoes for men, specially designed for cricket by Puma.",
       "discount_price": "Rs. 2749",
       "price": "Rs. 4999",
       "id": 77
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19368822/2022/8/3/ee7f1be0-8d3b-4505-af6d-c10b24480ecd1659523475311FlipFlops1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19368822/2022/8/3/ee7f1be0-8d3b-4505-af6d-c10b24480ecd1659523475311FlipFlops1.jpg",
       "brand": "hummel",
       "name": "Men Printed Sliders",
+      "description": "Stay comfortable and stylish with these printed sliders for men by hummel.",
       "discount_price": "Rs. 699",
       "price": "Rs. 999",
       "id": 78
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14769872/2021/8/2/9fb528a6-840f-4618-9901-340aaed70e3e1627899427528-Roadster-Men-Olive-Green-Sneakers-2951627899427031-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14769872/2021/8/2/9fb528a6-840f-4618-9901-340aaed70e3e1627899427528-Roadster-Men-Olive-Green-Sneakers-2951627899427031-1.jpg",
       "brand": "Roadster",
       "name": "Men Suede Finish Sneakers",
+      "description": "Add a touch of style to your casual outfits with these olive green suede finish sneakers for men by Roadster.",
       "discount_price": "Rs. 879",
       "price": "Rs. 2199",
       "id": 79
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18153732/2022/7/1/4b4fa96d-39e9-49d9-b4ac-c0f9994a789c1656653847099-US-Polo-Assn-Men-Casual-Shoes-981656653846705-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18153732/2022/7/1/4b4fa96d-39e9-49d9-b4ac-c0f9994a789c1656653847099-US-Polo-Assn-Men-Casual-Shoes-981656653846705-1.jpg",
       "brand": "U.S. Polo Assn.",
       "name": "Men OCTAVIA Slip-On Sneakers",
+      "description": "Get a trendy and comfortable look with these slip-on sneakers for men by U.S. Polo Assn.",
       "discount_price": "Rs. 1799",
       "price": "Rs. 2999",
       "id": 80
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19443020/2022/8/11/e1694f5d-7297-4b9a-ad04-99d2ebb4e3691660197508135ABROSMenBlackMeshWalkingShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19443020/2022/8/11/e1694f5d-7297-4b9a-ad04-99d2ebb4e3691660197508135ABROSMenBlackMeshWalkingShoes1.jpg",
       "brand": "ABROS",
       "name": "Men Walking Shoes",
+      "description": "Experience comfort and style with these black mesh walking shoes for men by ABROS.",
       "discount_price": "",
       "price": "",
       "id": 81
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15022294/2022/8/9/493e26ff-b5f2-48d4-a8a8-7c06bda5dc4d1660037544133-Nike-Men-Black-Quest-4-Running-Shoes-4051660037543748-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15022294/2022/8/9/493e26ff-b5f2-48d4-a8a8-7c06bda5dc4d1660037544133-Nike-Men-Black-Quest-4-Running-Shoes-4051660037543748-1.jpg",
       "brand": "Nike",
       "name": "Men Quest 4 Running Shoes",
+      "description": "Elevate your running experience with these black Quest 4 running shoes for men by Nike.",
       "discount_price": "Rs. 5395",
       "price": "Rs. 5995",
       "id": 82
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11420826/2021/10/28/fd758e70-8ac8-46df-95f5-dbaa6721310f1635395956788-Puma-Unisex-White-Up-Sneakers-7801635395956470-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11420826/2021/10/28/fd758e70-8ac8-46df-95f5-dbaa6721310f1635395956788-Puma-Unisex-White-Up-Sneakers-7801635395956470-1.jpg",
       "brand": "Puma",
       "name": "Unisex Up Sneakers",
+      "description": "Step out in style with these white Up sneakers for men and women by Puma.",
       "discount_price": "Rs. 3199",
       "price": "Rs. 3999",
       "id": 83
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16468686/2021/12/11/13b5056c-e744-41e9-a1ae-1b4ef5dd0acd1639229611024AfroJackMenBlackPrintedSneakers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16468686/2021/12/11/13b5056c-e744-41e9-a1ae-1b4ef5dd0acd1639229611024AfroJackMenBlackPrintedSneakers1.jpg",
       "brand": "AfroJack",
       "name": "Men Printed Sneakers",
+      "description": "Make a statement with these black printed sneakers for men by AfroJack.",
       "discount_price": "Rs. 799",
       "price": "Rs. 3995",
       "id": 84
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16668036/2022/1/4/5171eb82-ca0e-44fa-91d9-48baeb7d2cc41641234853663RedTapeMenBlue1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16668036/2022/1/4/5171eb82-ca0e-44fa-91d9-48baeb7d2cc41641234853663RedTapeMenBlue1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Walk comfortably and confidently with these blue walking shoes for men by Red Tape.",
       "discount_price": "Rs. 1574",
       "price": "Rs. 6299",
       "id": 85
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16558200/2022/7/15/82276c05-3054-419a-ace8-b7d924b694ca1657861118186-ADIDAS-Originals-Men-Casual-Shoes-7491657861117720-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16558200/2022/7/15/82276c05-3054-419a-ace8-b7d924b694ca1657861118186-ADIDAS-Originals-Men-Casual-Shoes-7491657861117720-1.jpg",
       "brand": "ADIDAS Originals",
       "name": "Men Niteball II Sneakers",
+      "description": "Get a classic look with a modern touch with these Niteball II sneakers for men by ADIDAS Originals.",
       "discount_price": "Rs. 9349",
       "price": "Rs. 10999",
       "id": 86
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/11/0383593d-4304-4115-9d5d-8d18884f2c0e1599774130983-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/9/11/0383593d-4304-4115-9d5d-8d18884f2c0e1599774130983-1.jpg",
       "brand": "Fentacia",
       "name": "Men Lightweight Flat Boots",
+      "description": "Stay stylish and comfortable with these lightweight flat boots for men by Fentacia.",
       "discount_price": "Rs. 1799",
       "price": "Rs. 5999",
       "id": 87
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19150592/2022/7/18/bdb6b48a-6555-488e-8058-dee0c23abac21658148948322PumaMenBlueSportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19150592/2022/7/18/bdb6b48a-6555-488e-8058-dee0c23abac21658148948322PumaMenBlueSportsShoes1.jpg",
       "brand": "Puma",
       "name": "Men Sports Shoes",
+      "description": "Step up your sports game with these blue sports shoes for men by Puma.",
       "discount_price": "Rs. 2749",
       "price": "Rs. 4999",
       "id": 88
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17429102/2022/3/8/2f598da5-c9c3-4c6b-9837-7bfe8abf451e1646714925616BondStreetByRedTapeMenGreySportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17429102/2022/3/8/2f598da5-c9c3-4c6b-9837-7bfe8abf451e1646714925616BondStreetByRedTapeMenGreySportsShoes1.jpg",
       "brand": "Bond Street By Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Walk in style and comfort with these grey sports shoes for men by Bond Street By Red Tape.",
       "discount_price": "Rs. 979",
       "price": "Rs. 4899",
       "id": 89
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13916950/2022/2/21/83690630-bf15-4e54-a52b-5a2cf0bf50c51645443100884-Mast--Harbour-Men-Olive-Green--White-Striped-Sliders-1351645-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13916950/2022/2/21/83690630-bf15-4e54-a52b-5a2cf0bf50c51645443100884-Mast--Harbour-Men-Olive-Green--White-Striped-Sliders-1351645-1.jpg",
       "brand": "Mast & Harbour",
       "name": "Men Striped Sliders",
+      "description": "Slip into comfort and style with these olive green and white striped sliders for men by Mast & Harbour.",
       "discount_price": "Rs. 489",
       "price": "Rs. 1399",
       "id": 90
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17848062/2022/4/11/6965e0cb-4b8b-484f-b946-027efcf26b7e1649673203302RedTapeMenBlackSolidFormalSlipOnLoafers1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17848062/2022/4/11/6965e0cb-4b8b-484f-b946-027efcf26b7e1649673203302RedTapeMenBlackSolidFormalSlipOnLoafers1.jpg",
       "brand": "Red Tape",
       "name": "Men Solid Formal Slip On Loafers",
+      "description": "Elevate your formal attire with these black solid slip-on loafers for men by Red Tape. These loafers are perfect for adding a touch of sophistication to your professional look.",
       "discount_price": "Rs. 1749",
       "price": "Rs. 6999",
       "id": 91
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18800608/2022/8/5/379b0030-b0ef-43e0-8f8d-533a50e80d951659690557242-Nike-Men-Charcoal-Grey-Air-Zoom-Pegasus-39--Road-Running-Sho-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18800608/2022/8/5/379b0030-b0ef-43e0-8f8d-533a50e80d951659690557242-Nike-Men-Charcoal-Grey-Air-Zoom-Pegasus-39--Road-Running-Sho-1.jpg",
       "brand": "Nike",
       "name": "Men Pegasus 39 Running Shoes",
+      "description": "Experience comfort and style while running with these charcoal grey Air Zoom Pegasus 39 road running shoes for men by Nike. The shoes feature advanced cushioning and a breathable design to enhance your running performance.",
       "discount_price": "Rs. 9445",
       "price": "Rs. 10495",
       "id": 92
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19075840/2022/7/12/73f1497b-b7d9-4a82-87e7-b8f6baa5da5a1657635442635SparxMenBlackMeshRunningShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19075840/2022/7/12/73f1497b-b7d9-4a82-87e7-b8f6baa5da5a1657635442635SparxMenBlackMeshRunningShoes1.jpg",
       "brand": "Sparx",
       "name": "Men Running Shoes",
+      "description": "Achieve your fitness goals with these black mesh running shoes for men by Sparx. The shoes provide excellent breathability and support, making them ideal for your running sessions.",
       "discount_price": "Rs. 1529",
       "price": "Rs. 1699",
       "id": 93
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19004180/2022/7/7/5b489e3e-9d1f-4f53-9a9d-3dd8f5716d0a1657189231059RedTapeMenGreyMeshWalkingNon-MarkingShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19004180/2022/7/7/5b489e3e-9d1f-4f53-9a9d-3dd8f5716d0a1657189231059RedTapeMenGreyMeshWalkingNon-MarkingShoes1.jpg",
       "brand": "Red Tape",
       "name": "Men Walking Shoes",
+      "description": "Stay comfortable and stylish with these grey mesh walking shoes for men by Red Tape. The shoes are designed to provide excellent cushioning and support for your daily walks.",
       "discount_price": "Rs. 1524",
       "price": "Rs. 6099",
       "id": 94
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312374/2022/6/13/8284d7b1-69de-4da2-bc96-3811289327a71655120583437PumaMenNavyBlueWhiteSwingSliponShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15312374/2022/6/13/8284d7b1-69de-4da2-bc96-3811289327a71655120583437PumaMenNavyBlueWhiteSwingSliponShoes1.jpg",
       "brand": "Puma",
-      "name": "Navy Blue & White SlipOn Shoes",
+      "name": "Navy Blue & White Slip-On Shoes",
+      "description": "Step out in style with these navy blue and white slip-on shoes for men by Puma. The shoes feature a trendy design and provide a comfortable fit, making them perfect for casual outings.",
       "discount_price": "Rs. 1749",
       "price": "Rs. 3499",
       "id": 95
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15321120/2021/9/9/dfd847d3-6f0e-41b0-b0da-9d228094323c1631204649319-HERENOW-Women-Black-Solid-Synthetic-Casual-Slip-On-With-Buck-6.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15321120/2021/9/9/dfd847d3-6f0e-41b0-b0da-9d228094323c1631204649319-HERENOW-Women-Black-Solid-Synthetic-Casual-Slip-On-With-Buck-6.jpg",
       "brand": "HERE&NOW",
       "name": "Women Solid Flats With Buckles",
+      "description": "Add a touch of elegance to your ensemble with these black solid flats for women by HERE&NOW. The flats feature stylish buckles and are made from high-quality synthetic material.",
       "discount_price": "Rs. 698",
       "price": "Rs. 2495",
       "id": 96
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18800882/2022/6/29/2a6fee61-ffc5-4d9b-b97e-d0c926a12cab1656499788248-Jordan-Super-Play-Mens-Slides-8971656499787966-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18800882/2022/6/29/2a6fee61-ffc5-4d9b-b97e-d0c926a12cab1656499788248-Jordan-Super-Play-Mens-Slides-8971656499787966-1.jpg",
       "brand": "Nike",
       "name": "Men JORDAN SUPER PLAY Sliders",
+      "description": "Slide into comfort and style with these men's sliders by Nike. The sliders feature the iconic Jordan logo and provide a comfortable fit, making them perfect for casual wear.",
       "discount_price": "Rs. 3775",
       "price": "Rs. 4195",
       "id": 97
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15466766/2021/9/14/7d092a0f-a84e-41fe-afbf-b73f15e153091631632200833SportsShoes1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15466766/2021/9/14/7d092a0f-a84e-41fe-afbf-b73f15e153091631632200833SportsShoes1.jpg",
       "brand": "ASIAN",
       "name": "Men Running Shoes",
+      "description": "Get ready for your next run with these men's running shoes by ASIAN. The shoes are designed to provide maximum comfort and support, helping you achieve your running goals.",
       "discount_price": "Rs. 659",
       "price": "Rs. 999",
       "id": 98
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8326931/2019/4/23/c9f623f9-b2e8-4964-813f-5e000f4da95e1556027735330-HRX-by-Hrithik-Roshan-Men-Grey-Meta-Flash-Running-Shoes-2581-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8326931/2019/4/23/c9f623f9-b2e8-4964-813f-5e000f4da95e1556027735330-HRX-by-Hrithik-Roshan-Men-Grey-Meta-Flash-Running-Shoes-2581-1.jpg",
       "brand": "HRX by Hrithik Roshan",
       "name": "Men Metaflash Running Shoes",
+      "description": "Experience style and performance with these grey Metaflash running shoes for men by HRX. The shoes feature a sleek design and provide excellent cushioning and support for your runs.",
       "discount_price": "Rs. 2199",
       "price": "Rs. 5499",
       "id": 99
