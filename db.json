@@ -4930,634 +4930,634 @@
   
    "beautyData" : [
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11135636/2020/1/28/ca42d2f6-7c8b-4329-8c19-9643b798700f1580211524034-Schwarzkopf-Professional-Bonacure-Keratin-Smooth-Perfect-Tre-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11135636/2020/1/28/ca42d2f6-7c8b-4329-8c19-9643b798700f1580211524034-Schwarzkopf-Professional-Bonacure-Keratin-Smooth-Perfect-Tre-1.jpg",
       "brand": "Schwarzkopf PROFESSIONAL",
       "name": "Smooth Perfect Hair Mask",
       "discount_price": "Rs. 892",
       "price": "Rs. 1050",
-      "id": 0
+      "id": 0,
+      "description": "The Schwarzkopf Professional Smooth Perfect Hair Mask is specially designed to provide intense nourishment and smoothness to your hair. It helps control frizz, adds shine, and improves manageability. This hair mask is enriched with keratin to strengthen the hair and make it more resilient. It is suitable for all hair types and can be used once or twice a week for best results."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12107582/2022/1/4/36c018c7-84cb-4f54-bc0f-43d60888ed2b1641292301018-Dyson-Airwrap-Complete-Hair-Styler---Red--Gunmetal-Toned-386-1.jpg",
-      "brand": "dyson",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12107582/2022/1/4/36c018c7-84cb-4f54-bc0f-43d60888ed2b1641292301018-Dyson-Airwrap-Complete-Hair-Styler---Red--Gunmetal-Toned-386-1.jpg",
+      "brand": "Dyson",
       "name": "Airwrap Complete Hair Styler",
-      "discount_price": "Rs. 39900",
-      "price": "Rs. 44900",
-      "id": 1
+      "discount_price": "Rs. 39,900",
+      "price": "Rs. 44,900",
+      "id": 1,
+      "description": "The Dyson Airwrap Complete Hair Styler is a revolutionary styling tool that uses air to curl, wave, smooth, and add volume to your hair. It comes with multiple attachments for different hair types and styles. The intelligent heat control prevents extreme heat damage, keeping your hair healthy and shiny. With its advanced technology, the Dyson Airwrap creates salon-like results at home."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1967198/2022/7/4/a18325f9-5cd0-4dfa-945a-27e0f58c71751656922135420LOrealParisCastingCremeGlossHairColor-DarkestBrown300875g72m1.jpg",
-      "brand": "LOreal",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1967198/2022/7/4/a18325f9-5cd0-4dfa-945a-27e0f58c71751656922135420LOrealParisCastingCremeGlossHairColor-DarkestBrown300875g72m1.jpg",
+      "brand": "L'Oreal",
       "name": "Hair Color - Darkest Brown 300",
       "discount_price": "Rs. 157",
       "price": "Rs. 250",
-      "id": 2
+      "id": 2,
+      "description": "L'Oreal Hair Color in Darkest Brown 300 is a long-lasting and vibrant hair color that provides full coverage and adds depth to your hair. It is easy to apply and leaves your hair looking shiny and beautiful. The hair color is enriched with conditioning agents to nourish and protect your hair during the coloring process. Get salon-like results at home with L'Oreal Hair Color."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11607146/2021/2/10/72f46edf-6b25-4a8d-81ce-155a2b2f7d951612953568797BiotiqueUnisexSustainableHairConditioningHerbcolor-Brown4N1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11607146/2021/2/10/72f46edf-6b25-4a8d-81ce-155a2b2f7d951612953568797BiotiqueUnisexSustainableHairConditioningHerbcolor-Brown4N1.jpg",
       "brand": "Biotique",
       "name": "Unisex Sustainable Hair Herbcolor 4N",
       "discount_price": "Rs. 157",
       "price": "Rs. 250",
-      "id": 3
+      "id": 3,
+      "description": "Biotique Unisex Sustainable Hair Herbcolor 4N is a natural hair color that provides coverage to gray hair and adds a rich, brown color. It is made with organic herbal extracts that nourish and condition your hair while coloring. This hair color is free from harmful chemicals and is suitable for both men and women. Enjoy a natural and sustainable hair coloring experience with Biotique."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19310120/2022/7/30/875bc85f-c253-4567-844e-0e6014404c681659171296782VGR4-in-1EpilatorShaverWithCallusRemover1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19310120/2022/7/30/875bc85f-c253-4567-844e-0e6014404c681659171296782VGR4-in-1EpilatorShaverWithCallusRemover1.jpg",
       "brand": "VGR",
       "name": "4-in-1 Epilator & Shaver With Callus Remover",
-      "discount_price": "Rs. 1499",
-      "price": "Rs. 2999",
-      "id": 4
+      "discount_price": "Rs. 1,499",
+      "price": "Rs. 2,999",
+      "id": 4,
+      "description": "The VGR 4-in-1 Epilator & Shaver With Callus Remover is a versatile grooming tool for women. It features interchangeable heads for epilation, shaving, and callus removal. The epilator head removes hair from the root for long-lasting smoothness. The shaver head provides a quick and close shave. The callus remover head helps remove rough and dry skin from your feet. Enjoy salon-like grooming at home with VGR."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/57677/2020/10/10/90dae682-fcf2-4436-b291-954e3c40af0e1602269668338LotusHerbalsSustainableWhiteglowSkinWhiteningBrighteningCrem1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/57677/2020/10/10/90dae682-fcf2-4436-b291-954e3c40af0e1602269668338LotusHerbalsSustainableWhiteglowSkinWhiteningBrighteningCrem1.jpg",
       "brand": "Lotus Herbals",
       "name": "Whiteglow Brightening Creme",
       "discount_price": "",
       "price": "",
-      "id": 5
+      "id": 5,
+      "description": "The Lotus Herbals Whiteglow Brightening Creme is specially formulated to provide intense hydration and brighten your skin. It helps reduce dark spots, blemishes, and uneven skin tone, giving you a radiant and youthful complexion. Enriched with natural ingredients, this creme nourishes and protects your skin from environmental damage. Pamper your skin with the luxurious and effective Whiteglow Brightening Creme."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14269676/2022/4/12/15f7cedd-9052-48e7-ab86-def45860555e1649747246876ReneeFab55in1Lipstick75g1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14269676/2022/4/12/15f7cedd-9052-48e7-ab86-def45860555e1649747246876ReneeFab55in1Lipstick75g1.jpg",
       "brand": "Renee",
       "name": "Fab 5 in 1 Lipstick 7.5g",
       "discount_price": "Rs. 562",
       "price": "Rs. 750",
-      "id": 6
+      "id": 6,
+      "description": "Renee Fab 5 in 1 Lipstick is a versatile lipstick that offers five different shades in one convenient package. Whether you're looking for a bold red, a subtle nude, or a playful pink, this lipstick has got you covered. It provides rich color payoff, long-lasting wear, and a creamy texture that glides smoothly on the lips. With Renee Fab 5 in 1 Lipstick, you can create various lip looks effortlessly."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14088436/2022/8/13/a70ec121-7f87-4f6c-bc5f-8820d2ec03aa1660377077294-Plum-Green-Tea-Range-Pore-Cleansing-Face-Wash---120-ml-51916-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14088436/2022/8/13/a70ec121-7f87-4f6c-bc5f-8820d2ec03aa1660377077294-Plum-Green-Tea-Range-Pore-Cleansing-Face-Wash---120-ml-51916-1.jpg",
       "brand": "Plum",
       "name": "Pore Cleansing Face Wash 120ml",
       "discount_price": "Rs. 301",
       "price": "Rs. 495",
-      "id": 7
+      "id": 7,
+      "description": "Plum Pore Cleansing Face Wash is a gentle and effective cleanser that deeply cleanses your skin, removes impurities, and unclogs pores. It is enriched with green tea extracts, which have antioxidant and soothing properties. This face wash helps control excess oil, reduces acne, and leaves your skin feeling refreshed and rejuvenated. Start your skincare routine with Plum Pore Cleansing Face Wash for a clean and healthy complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/9/01b91135-8a17-4421-9c69-7fd5b2bb6daf1610179137465-2.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2021/1/9/01b91135-8a17-4421-9c69-7fd5b2bb6daf1610179137465-2.jpg",
       "brand": "Just Herbs",
       "name": "Ayurvedic Lipstick Trial Kit",
       "discount_price": "Rs. 431",
       "price": "Rs. 575",
-      "id": 8
+      "id": 8,
+      "description": "The Just Herbs Ayurvedic Lipstick Trial Kit is a collection of four lipsticks made with natural ingredients and Ayurvedic formulations. Each lipstick provides rich color, moisture, and nourishment to your lips. The trial kit includes a range of shades, from bold reds to subtle pinks, allowing you to experiment and find your perfect lip color. Pamper your lips with the goodness of Ayurveda with Just Herbs Lipstick Trial Kit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12087900/2022/3/27/983961fc-8bfc-45ac-9d32-56cae92f22ed1648366551718-Mamaearth-Vitamin-C-Face-Wash-with-Turmeric-for-Skin-Illumin-12.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12087900/2022/3/27/983961fc-8bfc-45ac-9d32-56cae92f22ed1648366551718-Mamaearth-Vitamin-C-Face-Wash-with-Turmeric-for-Skin-Illumin-12.jpg",
       "brand": "Mamaearth",
       "name": "Vitamin C Face Wash 100 ml",
       "discount_price": "Rs. 224",
       "price": "Rs. 249",
-      "id": 9
+      "id": 9,
+      "description": "Mamaearth Vitamin C Face Wash is a refreshing and brightening face wash that helps cleanse your skin and improve its radiance. It is enriched with the goodness of vitamin C and turmeric, which work together to remove impurities, reduce pigmentation, and even out skin tone. This face wash is suitable for all skin types and is free from harmful chemicals. Start your day with Mamaearth Vitamin C Face Wash for a healthy and glowing complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12800174/2020/11/6/eb647a1d-f4cd-4871-bd8e-37393a988f221604660190926-Kama-Ayurveda-10-PIECE-BESTSELLER-GIFT-BOX-6601604660188887-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12800174/2020/11/6/eb647a1d-f4cd-4871-bd8e-37393a988f221604660190926-Kama-Ayurveda-10-PIECE-BESTSELLER-GIFT-BOX-6601604660188887-1.jpg",
       "brand": "KAMA AYURVEDA",
       "name": "Bestseller Gift Set",
       "discount_price": "",
       "price": "",
-      "id": 10
+      "id": 10,
+      "description": "The KAMA AYURVEDA Bestseller Gift Set is a curated collection of their top-selling products. It includes a range of skincare, haircare, and wellness items crafted with Ayurvedic ingredients. Treat yourself or someone special with this luxurious gift set that promotes natural beauty and holistic well-being."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10901912/2022/6/6/99634150-539e-4c43-ac49-b758f592abfa1654534975708MCaffeineSustainableGenderNeutralCoffeeMomentGiftKit1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10901912/2022/6/6/99634150-539e-4c43-ac49-b758f592abfa1654534975708MCaffeineSustainableGenderNeutralCoffeeMomentGiftKit1.jpg",
       "brand": "MCaffeine",
       "name": "Signature Coffee Moment Kit",
       "discount_price": "Rs. 1156",
       "price": "Rs. 1445",
-      "id": 11
+      "id": 11,
+      "description": "The MCaffeine Signature Coffee Moment Kit is a gender-neutral gift set that brings the aromatic indulgence of coffee to your self-care routine. It includes a coffee-infused body scrub, face wash, and hand cream, all enriched with natural ingredients to rejuvenate and nourish your skin. Experience the awakening power of coffee with this luxurious kit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14482556/2022/5/9/787cd635-5168-48b5-834e-894414b727391652071247105-Plum-15-Vitamin-C--Mandarin-Face-Serum-20-ml-212165207124599-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14482556/2022/5/9/787cd635-5168-48b5-834e-894414b727391652071247105-Plum-15-Vitamin-C--Mandarin-Face-Serum-20-ml-212165207124599-1.jpg",
       "brand": "Plum",
       "name": "15% Vitamin C Face Serum",
       "discount_price": "Rs. 440",
       "price": "Rs. 550",
-      "id": 12
+      "id": 12,
+      "description": "Plum 15% Vitamin C Face Serum is a potent formulation that helps brighten and even out your skin tone. Enriched with the goodness of vitamin C and mandarin extracts, this serum boosts collagen production, reduces dark spots, and improves skin elasticity. Add this lightweight and non-greasy serum to your skincare routine for a radiant and youthful complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173102/2022/4/21/a423c374-ed8a-4bb6-8e97-12c0566a87451650517645429MinimalistVitaminC10FaceSerumforGlowingSkin30ml11.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173102/2022/4/21/a423c374-ed8a-4bb6-8e97-12c0566a87451650517645429MinimalistVitaminC10FaceSerumforGlowingSkin30ml11.jpg",
       "brand": "Minimalist",
       "name": "Vitamin C Serum",
       "discount_price": "",
       "price": "",
-      "id": 13
+      "id": 13,
+      "description": "The Minimalist Vitamin C Serum is a powerful antioxidant treatment for glowing skin. It contains a 10% concentration of pure and stable vitamin C, which helps brighten the complexion, fade dark spots, and protect the skin against environmental damage. Experience the benefits of this lightweight and fast-absorbing serum for a healthy and radiant skin tone."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2022/7/18/025215e2-2a58-4116-9e1c-f6918093dec91658124132145-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-342165-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2022/7/18/025215e2-2a58-4116-9e1c-f6918093dec91658124132145-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-342165-1.jpg",
       "brand": "Minimalist",
       "name": "Salicylic Face Wash",
       "discount_price": "",
       "price": "",
-      "id": 14
+      "id": 14,
+      "description": "The Minimalist Salicylic Acid Face Wash is a gentle yet effective cleanser that targets acne and clogged pores. Formulated with 2% salicylic acid and LHA, this face wash exfoliates the skin, unclogs pores, and controls excess oil production. Incorporate this face wash into your daily skincare routine for a clearer and smoother complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15537118/2022/5/25/51a894f6-8080-4596-881a-baf268080b921653462874543TheDermaco2SalicylicAcidSerumwithWillowBark30ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15537118/2022/5/25/51a894f6-8080-4596-881a-baf268080b921653462874543TheDermaco2SalicylicAcidSerumwithWillowBark30ml1.jpg",
       "brand": "The Derma co.",
       "name": "2% Salicylic Acid Serum 30 ml",
       "discount_price": "Rs. 449",
       "price": "Rs. 499",
-      "id": 15
+      "id": 15,
+      "description": "The Derma co. 2% Salicylic Acid Serum is a targeted treatment for acne-prone skin. It contains 2% salicylic acid, which exfoliates the skin, unclogs pores, and reduces acne and blackheads. Infused with willow bark extract, this serum soothes inflammation and promotes a clearer and healthier complexion. Add this serum to your skincare routine for effective acne control."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10924310/2021/2/15/5778c926-2711-4ecf-9708-b08bbc157dcd1613370606696-FACES-CANADA-Weightless-SPF-20-Stay-Matte-Compact---Natural--1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10924310/2021/2/15/5778c926-2711-4ecf-9708-b08bbc157dcd1613370606696-FACES-CANADA-Weightless-SPF-20-Stay-Matte-Compact---Natural--1.jpg",
       "brand": "FACES CANADA",
       "name": "Stay MatteCompact - Natural 02",
       "discount_price": "Rs. 129",
       "price": "Rs. 199",
-      "id": 16
+      "id": 16,
+      "description": "FACES CANADA Stay Matte Compact in the shade Natural 02 is a lightweight and oil-free compact powder. It provides a smooth and matte finish to your makeup while offering sun protection with SPF 20. This long-lasting compact helps control shine and gives your skin a natural and flawless appearance throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15052012/2021/8/26/42070f02-b741-417b-8aa6-bcb143ae77991629927278600-Marie-Claire-Women-Kajal-and-Eyeliner-8521629927277934-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15052012/2021/8/26/42070f02-b741-417b-8aa6-bcb143ae77991629927278600-Marie-Claire-Women-Kajal-and-Eyeliner-8521629927277934-1.jpg",
       "brand": "Marie Claire",
-      "name": "Eye Kohl Me Baby Kajal  - P01",
+      "name": "Eye Kohl Me Baby Kajal - P01",
       "discount_price": "Rs. 69",
       "price": "Rs. 199",
-      "id": 17
+      "id": 17,
+      "description": "Marie Claire Eye Kohl Me Baby Kajal in the shade P01 is a smudge-proof and long-lasting kajal pencil. It glides smoothly on the waterline, adding intensity and definition to your eyes. Whether you want a subtle everyday look or a dramatic smoky eye, this kajal is a must-have for every makeup enthusiast."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16312142/2021/12/28/b7756bff-8924-4ce9-b7e5-6df68c7cf9d11640639577558-Agaro-2000-Watts-Professional-Hair-Dryer-HD-1120-with-Concen-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16312142/2021/12/28/b7756bff-8924-4ce9-b7e5-6df68c7cf9d11640639577558-Agaro-2000-Watts-Professional-Hair-Dryer-HD-1120-with-Concen-1.jpg",
       "brand": "Agaro",
       "name": "2000 Watts Hair Dryer HD-1120",
       "discount_price": "Rs. 1245",
       "price": "Rs. 2595",
-      "id": 18
+      "id": 18,
+      "description": "Agaro 2000 Watts Hair Dryer HD-1120 is a professional-grade hair dryer that delivers powerful airflow for fast and efficient drying. It features multiple heat and speed settings, as well as a concentrator nozzle for precise styling. This hair dryer is designed to reduce frizz and enhance the natural shine of your hair, making it a perfect tool for salon-quality results at home."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17691344/2022/4/6/38a5d211-9a28-4a8e-8968-798aac65a20d1649218947072-Biolage-Unisex-Hair-Serum-6591649218946709-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17691344/2022/4/6/38a5d211-9a28-4a8e-8968-798aac65a20d1649218947072-Biolage-Unisex-Hair-Serum-6591649218946709-1.jpg",
       "brand": "Biolage",
       "name": "6-In-1 Smooth Proof Serum",
       "discount_price": "",
       "price": "",
-      "id": 19
+      "id": 19,
+      "description": "Biolage 6-In-1 Smooth Proof Serum is a versatile hair serum that provides multiple benefits for smoother and frizz-free hair. This lightweight formula tames flyaways, protects against humidity, adds shine, and improves manageability. Experience the transformative power of this serum for salon-like results and a polished finish to your hair."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1920200/2020/10/10/5f2c3eed-16a5-4aa3-bc12-5d71658a16271602272543274LotusHerbalsSustainableWomenWhiteGlowSkinTighteningBrighteni1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1920200/2020/10/10/5f2c3eed-16a5-4aa3-bc12-5d71658a16271602272543274LotusHerbalsSustainableWomenWhiteGlowSkinTighteningBrighteni1.jpg",
       "brand": "Lotus Herbals",
-      "name": "Sustainable WhiteGlow Tightening Gel Creme",
-      "discount_price": "Rs. 243",
-      "price": "Rs. 290",
-      "id": 20
+      "name": "WhiteGlow Skin Whitening & Brightening Gel Creme SPF 25",
+      "discount_price": "",
+      "price": "",
+      "id": 20,
+      "description": "Lotus Herbals WhiteGlow Skin Whitening & Brightening Gel Creme SPF 25 is a lightweight and non-greasy formula that helps reduce dark spots, brighten the complexion, and protect the skin from UV damage. Enriched with natural ingredients like grape, mulberry, milk enzymes, and saxifrage extracts, this gel creme hydrates the skin and promotes a radiant and even-toned complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18245168/2022/6/13/202d3021-5380-4faa-add8-b2b32a3a7fe41655097883177-Innisfree-x-Gauahar-Khan-Healthy-Skin-Starter-Kit-for-Blackh-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18245168/2022/6/13/202d3021-5380-4faa-add8-b2b32a3a7fe41655097883177-Innisfree-x-Gauahar-Khan-Healthy-Skin-Starter-Kit-for-Blackh-1.jpg",
       "brand": "Innisfree",
       "name": "Healthy Skin Starter Kit",
       "discount_price": "Rs. 645",
       "price": "Rs. 1290",
-      "id": 21
+      "id": 21,
+      "description": "The Innisfree Healthy Skin Starter Kit is specially curated to provide you with a complete skincare routine for blackheads and enlarged pores. The kit includes a cleanser, toner, lotion, and mask formulated with natural ingredients to cleanse, hydrate, and tighten your skin. Achieve healthy and radiant skin with this all-in-one starter kit."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15593752/2021/10/27/032350a5-4740-4efe-9f0b-02411c9c67eb1635328440376PlumHelloClearSkinComboKitWithFaceWashFaceSerumMoisturizer1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15593752/2021/10/27/032350a5-4740-4efe-9f0b-02411c9c67eb1635328440376PlumHelloClearSkinComboKitWithFaceWashFaceSerumMoisturizer1.jpg",
       "brand": "Plum",
       "name": "Hello Clear Skin Combo Kit",
       "discount_price": "Rs. 1123",
       "price": "Rs. 1605",
-      "id": 22
+      "id": 22,
+      "description": "The Plum Hello Clear Skin Combo Kit is a complete skincare solution for clear and blemish-free skin. The kit includes a face wash, face serum, and moisturizer infused with natural ingredients like green tea, glycolic acid, and willow bark extract. These products work together to cleanse, exfoliate, and nourish your skin, leaving it refreshed and rejuvenated."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15973834/2022/5/29/f4f0142b-4cbe-4a36-910b-b48d59e468551653793344560Pilgrim25AHA2BHA5PHAFacePeelingSolutionforPigmentationAcneSc1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15973834/2022/5/29/f4f0142b-4cbe-4a36-910b-b48d59e468551653793344560Pilgrim25AHA2BHA5PHAFacePeelingSolutionforPigmentationAcneSc1.jpg",
       "brand": "Pilgrim",
       "name": "AHA BHA Face Peeling Solution",
       "discount_price": "Rs. 517",
       "price": "Rs. 545",
-      "id": 23
+      "id": 23,
+      "description": "The Pilgrim AHA BHA Face Peeling Solution is a powerful exfoliating treatment that helps reduce pigmentation, acne scars, and uneven skin tone. It contains a blend of alpha hydroxy acids (AHA) and beta hydroxy acids (BHA) that gently exfoliate the skin, removing dead cells and promoting cell renewal. Achieve smoother, brighter, and more youthful-looking skin with this face peeling solution."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19283440/2022/8/12/bc88fafe-2e31-444f-82fb-866fcbfbf4641660281536606-TNW-the-natural-wash-Kumkumadi-Toner-100ml-3641660281536297-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19283440/2022/8/12/bc88fafe-2e31-444f-82fb-866fcbfbf4641660281536606-TNW-the-natural-wash-Kumkumadi-Toner-100ml-3641660281536297-1.jpg",
       "brand": "TNW the natural wash",
       "name": "Kumkumadi Toner 100ml",
       "discount_price": "Rs. 266",
       "price": "Rs. 380",
-      "id": 24
+      "id": 24,
+      "description": "The TNW Kumkumadi Toner is a luxurious facial toner enriched with the goodness of saffron and other Ayurvedic ingredients. It helps restore the natural pH balance of the skin, tighten pores, and brighten the complexion. This toner also provides hydration and nourishment, leaving your skin refreshed and revitalized."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18892648/2022/7/15/a38afcbe-38b0-4480-86aa-4f1a219f50851657880472677SUGARPOPSmudge-ProofWaterproofEyelinerPen-Black1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18892648/2022/7/15/a38afcbe-38b0-4480-86aa-4f1a219f50851657880472677SUGARPOPSmudge-ProofWaterproofEyelinerPen-Black1.jpg",
       "brand": "SUGAR POP",
       "name": "Waterproof Eyeliner Pen- Black",
       "discount_price": "Rs. 296",
       "price": "Rs. 329",
-      "id": 25
+      "id": 25,
+      "description": "The SUGAR POP Waterproof Eyeliner Pen in Black is a long-lasting and smudge-proof eyeliner that provides intense color payoff. Its fine tip allows for precise application, and its waterproof formula ensures that your eyeliner stays put all day long. Create bold and defined eyes with this easy-to-use eyeliner pen."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18243886/2022/8/1/a9e42131-88bd-459d-af8b-0d038feb2de01659334963331MACMiniPrepPrimeFix13ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18243886/2022/8/1/a9e42131-88bd-459d-af8b-0d038feb2de01659334963331MACMiniPrepPrimeFix13ml1.jpg",
       "brand": "M.A.C",
       "name": "Mini Prep+ Prime Fix+ Primer",
       "discount_price": "",
       "price": "",
-      "id": 26
+      "id": 26,
+      "description": "The M.A.C Mini Prep+ Prime Fix+ Primer is a lightweight and hydrating primer that preps your skin for makeup application. It helps smooth out the skin's texture, minimize the appearance of pores, and extend the wear of your makeup. This mini-sized version is perfect for travel or touch-ups on the go."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12679490/2020/10/9/8f89d4f4-c305-43ba-902a-390eb3494c1e1602216306120-Biotique-Advanced-Organics-Vitamin-C-Dark-Spot-Solution-30Ml-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12679490/2020/10/9/8f89d4f4-c305-43ba-902a-390eb3494c1e1602216306120-Biotique-Advanced-Organics-Vitamin-C-Dark-Spot-Solution-30Ml-1.jpg",
       "brand": "Biotique",
       "name": "Women Vit C Dark Spot Solution",
       "discount_price": "Rs. 330",
       "price": "Rs. 560",
-      "id": 27
+      "id": 27,
+      "description": "The Biotique Women Vitamin C Dark Spot Solution is a targeted treatment that helps reduce the appearance of dark spots and pigmentation. Enriched with the goodness of vitamin C and other natural ingredients, this solution brightens the skin, evens out the complexion, and promotes a more radiant and youthful look."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13263548/2022/6/30/7396fb7c-50c9-4d05-be43-4e8fa9c64b821656588011143FACESCANADAWeightlessMatteFinishMiniFoundationIvory0118ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13263548/2022/6/30/7396fb7c-50c9-4d05-be43-4e8fa9c64b821656588011143FACESCANADAWeightlessMatteFinishMiniFoundationIvory0118ml1.jpg",
       "brand": "FACES CANADA",
       "name": "Matte Foundation - Ivory 01",
       "discount_price": "Rs. 129",
       "price": "Rs. 199",
-      "id": 28
+      "id": 28,
+      "description": "The FACES CANADA Matte Foundation in Ivory 01 is a lightweight and long-lasting foundation that provides a matte finish. Its oil-free formula blends seamlessly into the skin, providing medium to full coverage. This foundation helps even out skin tone and conceal imperfections, leaving you with a smooth and flawless complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17973256/2022/7/1/115143f3-0d93-4e1b-9dbc-7d07df72ac291656665179960MamaearthGlowOilControlSPF30CompactwithVitaminCTurmeric-Crem1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17973256/2022/7/1/115143f3-0d93-4e1b-9dbc-7d07df72ac291656665179960MamaearthGlowOilControlSPF30CompactwithVitaminCTurmeric-Crem1.jpg",
       "brand": "Mamaearth",
       "name": "Glow Oil Control Compact - 02",
       "discount_price": "Rs. 449",
       "price": "Rs. 499",
-      "id": 29
+      "id": 29,
+      "description": "The Mamaearth Glow Oil Control Compact in Shade 02 is a lightweight and oil-absorbing compact powder that provides a natural matte finish. Enriched with vitamin C and turmeric, this compact helps control shine, minimize the appearance of pores, and even out the skin tone. It also offers SPF 30 protection, making it an ideal choice for everyday wear."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/57619/2022/5/25/1b92f828-f2b6-4197-a7cf-b665c13727261653463210745-Lotus-Herbals-Sun-Safe-3-in-1-Matte-Look-SPF-40-Daily-Sunscr-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/57619/2022/5/25/1b92f828-f2b6-4197-a7cf-b665c13727261653463210745-Lotus-Herbals-Sun-Safe-3-in-1-Matte-Look-SPF-40-Daily-Sunscr-1.jpg",
       "brand": "Lotus Herbals",
       "name": "Safe Sun 3in1 SPF 40 Sunscreen",
       "discount_price": "Rs. 390",
       "price": "Rs. 465",
-      "id": 30
+      "id": 30,
+      "description": "The Lotus Herbals Safe Sun 3in1 SPF 40 Sunscreen is a multitasking sunscreen that offers broad-spectrum protection against UVA and UVB rays. It not only shields your skin from the harmful effects of the sun but also provides a matte finish and acts as a primer for makeup. This non-greasy sunscreen is suitable for all skin types and ideal for daily use."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14269688/2022/1/8/15be65ca-5bf9-4c79-820f-4fd79956d0881641647530463-Renee-Fab-5-Nude-5in1-Lipstick-75g-5291641647529957-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14269688/2022/1/8/15be65ca-5bf9-4c79-820f-4fd79956d0881641647530463-Renee-Fab-5-Nude-5in1-Lipstick-75g-5291641647529957-1.jpg",
       "brand": "Renee",
       "name": "Fab 5 Nude 5 in 1 Lipstick",
       "discount_price": "Rs. 562",
       "price": "Rs. 750",
-      "id": 31
+      "id": 31,
+      "description": "The Renee Fab 5 Nude 5 in 1 Lipstick is a versatile lipstick that offers five beautiful nude shades in one convenient package. Each shade is carefully curated to complement various skin tones and can be worn individually or mixed and matched for endless possibilities. The creamy and long-lasting formula provides intense color payoff and a comfortable matte finish."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6617856/2020/10/19/93831bbd-23bc-463c-8c6f-19ada73680a11603096294019-Garnier-Women-Darkest-Brown-Color-Naturals-Hair-Color-3-4811-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/6617856/2020/10/19/93831bbd-23bc-463c-8c6f-19ada73680a11603096294019-Garnier-Women-Darkest-Brown-Color-Naturals-Hair-Color-3-4811-1.jpg",
       "brand": "Garnier",
       "name": "ColorNaturals 3 Darkest Brown",
       "discount_price": "",
       "price": "",
-      "id": 32
+      "id": 32,
+      "description": "The Garnier ColorNaturals 3 Darkest Brown Hair Color is a permanent hair dye that provides rich and vibrant color to your hair. It covers grays effectively and gives your hair a natural-looking finish. The non-drip formula ensures easy and mess-free application, while the nourishing ingredients leave your hair soft, smooth, and shiny."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047514/2021/11/26/c406ce2d-506f-4aba-aae0-8539381bce2e1637926503015-Plum-Green-Tea-Range-Oil-Free-Moisturizer-50-ml-366163792650-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14047514/2021/11/26/c406ce2d-506f-4aba-aae0-8539381bce2e1637926503015-Plum-Green-Tea-Range-Oil-Free-Moisturizer-50-ml-366163792650-1.jpg",
       "brand": "Plum",
       "name": "Green Tea Oil Free Moisturizer",
       "discount_price": "Rs. 352",
       "price": "Rs. 470",
-      "id": 33
+      "id": 33,
+      "description": "The Plum Green Tea Oil Free Moisturizer is a lightweight and non-greasy moisturizer specially formulated for oily and acne-prone skin. It contains the goodness of green tea extracts that help control sebum production, reduce acne, and provide hydration without clogging pores. This moisturizer leaves your skin feeling refreshed, mattified, and balanced."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17646742/2022/6/23/6c0cfe53-276f-49ce-b10a-7426363cd2051655967999442-DUCRAY-Unisex-Shampoo-and-Conditioner-5281655967999164-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17646742/2022/6/23/6c0cfe53-276f-49ce-b10a-7426363cd2051655967999442-DUCRAY-Unisex-Shampoo-and-Conditioner-5281655967999164-1.jpg",
       "brand": "DUCRAY",
       "name": "Anaphase+ Complement Shampoo",
       "discount_price": "",
       "price": "",
-      "id": 34
+      "id": 34,
+      "description": "The DUCRAY Anaphase+ Complement Shampoo is a specialized shampoo designed to support healthy hair growth and strengthen fragile hair. It contains key ingredients like vitamins, minerals, and plant extracts that nourish the hair follicles, improve blood circulation to the scalp, and promote thicker and stronger hair. This shampoo is suitable for both men and women."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19206258/2022/7/21/9847ef2d-022d-44b2-904c-e051308f7a551658397179978VGRV-568IonicHairStraightenerBrush1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19206258/2022/7/21/9847ef2d-022d-44b2-904c-e051308f7a551658397179978VGRV-568IonicHairStraightenerBrush1.jpg",
       "brand": "VGR",
       "name": "V-568 Ionic Hair Straightener Brush",
       "discount_price": "Rs. 999",
       "price": "Rs. 2299",
-      "id": 35
+      "id": 35,
+      "description": "The VGR V-568 Ionic Hair Straightener Brush is a versatile styling tool that combines the benefits of a hairbrush and a straightener in one. It features advanced ionic technology that reduces frizz and static, leaving your hair smooth, shiny, and straight. The brush heats up quickly and offers adjustable temperature settings for customized styling."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9590379/2019/12/13/05fc4885-39ca-491e-9fcb-56e880e3817b1576212118430-MAC-Mehr-Matte-Lipstick-4741576212116185-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/9590379/2019/12/13/05fc4885-39ca-491e-9fcb-56e880e3817b1576212118430-MAC-Mehr-Matte-Lipstick-4741576212116185-1.jpg",
       "brand": "M.A.C",
       "name": "Matte Lipstick - Mehr",
       "discount_price": "",
       "price": "",
-      "id": 36
+      "id": 36,
+      "description": "The M.A.C Matte Lipstick in the shade Mehr is a cult-favorite lipstick known for its beautiful rosy mauve color. It features a creamy matte formula that glides smoothly on the lips, providing intense pigmentation and long-lasting wear. This lipstick adds a touch of sophistication to any makeup look and suits a wide range of skin tones."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16900038/2022/2/4/5ce2f982-cd15-48b6-b6d6-dba472401b481643948836795MinimalistVitaminB5LightweightOilFreeMoisturizer-50g1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16900038/2022/2/4/5ce2f982-cd15-48b6-b6d6-dba472401b481643948836795MinimalistVitaminB5LightweightOilFreeMoisturizer-50g1.jpg",
       "brand": "Minimalist",
       "name": "Vitamin Moisturizer-50 g",
       "discount_price": "",
       "price": "",
-      "id": 37
+      "id": 37,
+      "description": "The Minimalist Vitamin B5 Lightweight Oil-Free Moisturizer is a hydrating and nourishing moisturizer enriched with vitamin B5 and other skin-loving ingredients. It provides long-lasting hydration without leaving a greasy residue, making it suitable for all skin types, including oily and acne-prone skin. This moisturizer helps improve skin texture, restore moisture balance, and promote a healthy-looking complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2175584/2021/9/25/c589b2c1-403e-4c4e-a6ac-d867b8753e3e1632537686955PlumGreenTeaPoreCleansingSustainableFaceWashforOilyorAcne-Pr1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2175584/2021/9/25/c589b2c1-403e-4c4e-a6ac-d867b8753e3e1632537686955PlumGreenTeaPoreCleansingSustainableFaceWashforOilyorAcne-Pr1.jpg",
       "brand": "Plum",
       "name": "Green Tea Pore Cleansing Face Wash 75 ml",
       "discount_price": "Rs. 224",
       "price": "Rs. 345",
-      "id": 38
+      "id": 38,
+      "description": "The Plum Green Tea Pore Cleansing Face Wash is a gentle and effective cleanser specifically formulated for oily and acne-prone skin. It contains the goodness of green tea extracts that help remove impurities, control excess oil, and minimize the appearance of pores. This face wash leaves your skin feeling clean, refreshed, and balanced without stripping away natural oils."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1884767/2021/12/16/4dcb2afd-6121-49ac-9a88-d5d9bba5be5f1639646472543-Nivea-Nourishing-Body-Milk-with-2x-Almond-Oil-for-Very-Dry-S-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1884767/2021/12/16/4dcb2afd-6121-49ac-9a88-d5d9bba5be5f1639646472543-Nivea-Nourishing-Body-Milk-with-2x-Almond-Oil-for-Very-Dry-S-1.jpg",
       "brand": "Nivea",
       "name": "Nourishing Body Milk 400 ml",
       "discount_price": "Rs. 299",
       "price": "Rs. 399",
-      "id": 39
+      "id": 39,
+      "description": "The Nivea Nourishing Body Milk is a rich and creamy body lotion that provides deep nourishment to very dry skin. It is infused with the goodness of almond oil, which helps moisturize, soften, and smoothen the skin. The fast-absorbing formula leaves your skin feeling intensely hydrated, supple, and radiant."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13263540/2022/7/26/29c9192a-db94-4392-a17e-18024e9eb3431658832192785FACESCANADAWeightlessMatteFinishMiniFoundationBeige0318ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13263540/2022/7/26/29c9192a-db94-4392-a17e-18024e9eb3431658832192785FACESCANADAWeightlessMatteFinishMiniFoundationBeige0318ml1.jpg",
       "brand": "FACES CANADA",
       "name": "Weightless Foundation-Beige 03",
       "discount_price": "Rs. 129",
       "price": "Rs. 199",
-      "id": 40
+      "id": 40,
+      "description": "The FACES CANADA Weightless Matte Finish Mini Foundation in the shade Beige 03 is a lightweight and buildable foundation that provides a natural-looking matte finish. It offers medium to full coverage and helps even out skin tone, blur imperfections, and create a flawless complexion. The travel-friendly size makes it convenient to carry for touch-ups on the go."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17077730/2022/4/13/ab99a8db-bf21-4006-9b9a-385ff9f957b51649858657045-DressBerry-Hydrating-Watermelon-One-In-A-Melon-Body-Wash-wit-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17077730/2022/4/13/ab99a8db-bf21-4006-9b9a-385ff9f957b51649858657045-DressBerry-Hydrating-Watermelon-One-In-A-Melon-Body-Wash-wit-1.jpg",
       "brand": "DressBerry",
       "name": "Watermelon Body Wash 250 ml",
       "discount_price": "Rs. 209",
       "price": "Rs. 299",
-      "id": 41
+      "id": 41,
+      "description": "Refresh and rejuvenate your skin with DressBerry's Watermelon Body Wash. This hydrating body wash nourishes your skin, leaving it feeling soft and smooth. The refreshing watermelon scent uplifts your senses and makes your bathing experience delightful."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18892746/2022/7/1/29323244-6f0a-44f0-b3a5-6d44268787f51656659662777-SUGAR-POP-Women-Mascara-8281656659662572-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/18892746/2022/7/1/29323244-6f0a-44f0-b3a5-6d44268787f51656659662777-SUGAR-POP-Women-Mascara-8281656659662572-1.jpg",
       "brand": "SUGAR POP",
       "name": "Volumizing Mascara",
       "discount_price": "Rs. 269",
       "price": "Rs. 299",
-      "id": 42
+      "id": 42,
+      "description": "Get stunning lashes with SUGAR POP's Volumizing Mascara. This mascara adds volume and length to your lashes, making them look fuller and more dramatic. The smudge-proof formula ensures long-lasting wear without any flaking or clumping."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173098/2022/4/21/29e1b887-dc10-4168-bfa0-c063c94fdbb41650517604682Minimalist2AlphaArbutinSerumWithHyaluronicAcid1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173098/2022/4/21/29e1b887-dc10-4168-bfa0-c063c94fdbb41650517604682Minimalist2AlphaArbutinSerumWithHyaluronicAcid1.jpg",
       "brand": "Minimalist",
       "name": "Alpha Arbutin Face Serum",
       "discount_price": "",
       "price": "",
-      "id": 43
+      "id": 43,
+      "description": "Achieve brighter and more even-toned skin with Minimalist's Alpha Arbutin Face Serum. This serum is enriched with alpha arbutin and hyaluronic acid, which help reduce the appearance of dark spots and hyperpigmentation, giving you a radiant complexion."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16636146/2022/1/13/6229a2a9-384e-4ea0-b46f-281a75f5d2401642052930115-GK-HAIR-Balancing-Shampoo-300-ml-931642052929844-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16636146/2022/1/13/6229a2a9-384e-4ea0-b46f-281a75f5d2401642052930115-GK-HAIR-Balancing-Shampoo-300-ml-931642052929844-1.jpg",
       "brand": "GK HAIR",
       "name": "Balancing Shampoo-300 ml",
       "discount_price": "Rs. 1440",
       "price": "Rs. 1800",
-      "id": 44
+      "id": 44,
+      "description": "Maintain healthy and balanced hair with GK HAIR's Balancing Shampoo. This shampoo gently cleanses your scalp, removing excess oil and impurities, while nourishing your hair with essential nutrients. It leaves your hair feeling refreshed and revitalized."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10699696/2021/6/30/ae1957b1-d3d4-4854-b904-5a3fbbde85cc1625026940390FacesCanadaWeightlessCremeHydratingLipstickwithAlmondOilDark1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10699696/2021/6/30/ae1957b1-d3d4-4854-b904-5a3fbbde85cc1625026940390FacesCanadaWeightlessCremeHydratingLipstickwithAlmondOilDark1.jpg",
       "brand": "FACES CANADA",
       "name": "Dark Cocoa Lipstick 18",
       "discount_price": "Rs. 161",
       "price": "Rs. 249",
-      "id": 45
+      "id": 45,
+      "description": "Enhance your lips with FACES CANADA's Dark Cocoa Lipstick. This hydrating lipstick glides on smoothly, providing intense color payoff and a creamy finish. Enriched with almond oil, it keeps your lips moisturized and nourished throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12415738/2022/1/28/aff3c812-0409-429b-9795-235cfbc706ba1643364146436WOWAloeVeraMultipurposeBeautyGelforSkinandHair150ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12415738/2022/1/28/aff3c812-0409-429b-9795-235cfbc706ba1643364146436WOWAloeVeraMultipurposeBeautyGelforSkinandHair150ml1.jpg",
       "brand": "WOW SKIN SCIENCE",
       "name": "Aloe Vera Beauty Gel",
       "discount_price": "Rs. 209",
       "price": "Rs. 299",
-      "id": 46
+      "id": 46,
+      "description": "Experience the goodness of aloe vera with WOW SKIN SCIENCE's Aloe Vera Beauty Gel. This multipurpose gel can be used on both your skin and hair. It hydrates and soothes your skin, while also promoting healthy hair growth and reducing scalp irritation."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11240518/2022/6/6/2073dac7-3c54-45ef-85b0-c91786dcbd4d1654502383511-MCaffeine-Sustainable-Naked-and-Raw-Under-Eye-Cream---Reliev-12.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11240518/2022/6/6/2073dac7-3c54-45ef-85b0-c91786dcbd4d1654502383511-MCaffeine-Sustainable-Naked-and-Raw-Under-Eye-Cream---Reliev-12.jpg",
       "brand": "MCaffeine",
       "name": "Coffee Under Eye Cream",
       "discount_price": "Rs. 517",
       "price": "Rs. 575",
-      "id": 47
+      "id": 47,
+      "description": "Treat your under-eye area with MCaffeine's Coffee Under Eye Cream. This cream is enriched with coffee extracts that help reduce puffiness, dark circles, and fine lines. It also provides hydration and nourishment to the delicate skin around your eyes."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19012386/2022/8/4/0d2a6325-b486-46a6-8a72-3cae47079a971659595075685-MCaffeine-Coffee-Powder-Sunscreen-SPF-50-PA---4-g-1041659595-11.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19012386/2022/8/4/0d2a6325-b486-46a6-8a72-3cae47079a971659595075685-MCaffeine-Coffee-Powder-Sunscreen-SPF-50-PA---4-g-1041659595-11.jpg",
       "brand": "MCaffeine",
       "name": "Coffee Powder Sunscreen SPF 50",
       "discount_price": "Rs. 577",
       "price": "Rs. 649",
-      "id": 48
+      "id": 48,
+      "description": "Protect your skin from the sun's harmful rays with MCaffeine's Coffee Powder Sunscreen SPF 50. This lightweight sunscreen offers broad-spectrum protection and shields your skin from UVA and UVB rays. It also contains coffee extracts that help brighten and energize your skin."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14981962/2021/8/5/138fe902-9265-479f-b1ab-2259d2d146be1628158385379-KAMA-AYURVEDA-Unisex-Skin-Care-Gift-Set-9301628158385152-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14981962/2021/8/5/138fe902-9265-479f-b1ab-2259d2d146be1628158385379-KAMA-AYURVEDA-Unisex-Skin-Care-Gift-Set-9301628158385152-1.jpg",
       "brand": "KAMA AYURVEDA",
       "name": "Overnight Glow Gift Box",
       "discount_price": "",
       "price": "",
-      "id": 49
+      "id": 49,
+      "description": "Pamper yourself or someone special with KAMA AYURVEDA's Overnight Glow Gift Box. This luxurious skincare set includes a collection of products that work together to enhance your skin's radiance and promote a healthy glow. Indulge in the goodness of Ayurvedic skincare."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14981962/2021/8/5/138fe902-9265-479f-b1ab-2259d2d146be1628158385379-KAMA-AYURVEDA-Unisex-Skin-Care-Gift-Set-9301628158385152-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14981962/2021/8/5/138fe902-9265-479f-b1ab-2259d2d146be1628158385379-KAMA-AYURVEDA-Unisex-Skin-Care-Gift-Set-9301628158385152-1.jpg",
       "brand": "KAMA AYURVEDA",
       "name": "Overnight Glow Gift Box",
       "discount_price": "",
       "price": "",
-      "id": 50
+      "id": 50,
+      "description": "Pamper yourself or someone special with KAMA AYURVEDA's Overnight Glow Gift Box. This luxurious skincare set includes a collection of products that work together to enhance your skin's radiance and promote a healthy glow. Indulge in the goodness of Ayurvedic skincare."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1361439/2022/6/21/5d9a878b-b159-46b2-906a-b36485f9140d1655808769447LakmeAbsoluteBlurPerfectMakeupPrimer1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/1361439/2022/6/21/5d9a878b-b159-46b2-906a-b36485f9140d1655808769447LakmeAbsoluteBlurPerfectMakeupPrimer1.jpg",
       "brand": "Lakme",
       "name": "Blur Perfect Makeup Primer",
       "discount_price": "Rs. 560",
       "price": "Rs. 800",
-      "id": 51
+      "id": 51,
+      "description": "Achieve a flawless makeup base with Lakme's Blur Perfect Makeup Primer. This primer minimizes the appearance of pores and fine lines, creating a smooth canvas for your foundation. It extends the wear of your makeup and helps it stay fresh throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10780736/2022/5/26/98a605c6-20aa-47aa-a03f-fb22cb13e7231653545263196-Bio-Oil-Specialist-Skin-Care-Oil-for-Scars-Stretch-Mark-Agei-1.jpg",
-      "brand": "Bio Oil",
-      "name": "Specialist Skin Care Oil",
-      "discount_price": "Rs. 720",
-      "price": "Rs. 1200",
-      "id": 52
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10780736/2022/5/26/98a605c6-20aa-47aa-a03f-fb22cb13e7231653545263196-Bio-Oil-Skin-Care-Oil-60-ml-6671653545261890-1.jpg",
+      "brand": "Bio-Oil",
+      "name": "Skin Care Oil 60 ml",
+      "discount_price": "Rs. 270",
+      "price": "Rs. 450",
+      "id": 52,
+      "description": "Improve the appearance of scars, stretch marks, and uneven skin tone with Bio-Oil's Skin Care Oil. This specialized skincare oil is formulated with a unique blend of ingredients that help nourish and hydrate your skin, leaving it smooth and supple."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2421530/2022/4/25/3813980e-3d5e-4de0-9878-2ad3d9b567091650869407873FACESCANADAUltimeProMakeupFixer1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2421530/2022/4/25/3813980e-3d5e-4de0-9878-2ad3d9b567091650869407873FACESCANADAUltimeProMakeupFixer1.jpg",
       "brand": "FACES CANADA",
       "name": "Ultime Pro Makeup Fixer",
       "discount_price": "Rs. 421",
       "price": "Rs. 649",
-      "id": 53
+      "id": 53,
+      "description": "FACES CANADA Ultime Pro Makeup Fixer is a lightweight setting spray that helps your makeup last longer. It keeps your makeup in place, preventing smudging and fading throughout the day. The formula is non-sticky and gives a natural finish."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10924306/2021/2/15/c9fc9a18-8351-48ba-bd0e-c4f7fb84d78e1613370780414-FACES-CANADA-Weightless-SPF-20-Stay-Matte-Compact---Beige-03-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10924306/2021/2/15/c9fc9a18-8351-48ba-bd0e-c4f7fb84d78e1613370780414-FACES-CANADA-Weightless-SPF-20-Stay-Matte-Compact---Beige-03-1.jpg",
       "brand": "FACES CANADA",
       "name": "Stay Matte Compact - Beige",
       "discount_price": "Rs. 149",
       "price": "Rs. 199",
-      "id": 54
+      "id": 54,
+      "description": "FACES CANADA Stay Matte Compact in Beige is a lightweight and oil-free compact powder. It provides a matte finish and helps control shine on your face. The compact comes with a mirror and sponge applicator for convenient touch-ups on the go."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10901968/2022/6/4/7aaf1e83-87c6-428c-8450-28e82ba801ee1654329348478MCaffeineSustainableBeDateReadyBodyPolishingGiftKit1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/10901968/2022/6/4/7aaf1e83-87c6-428c-8450-28e82ba801ee1654329348478MCaffeineSustainableBeDateReadyBodyPolishingGiftKit1.jpg",
       "brand": "MCaffeine",
       "name": "2 in 1 Bestseller Gift Box",
       "discount_price": "Rs. 954",
       "price": "Rs. 1193",
-      "id": 55
+      "id": 55,
+      "description": "MCaffeine 2 in 1 Bestseller Gift Box is a perfect gift for yourself or your loved ones. It includes a coffee body scrub and a coffee face wash. The body scrub exfoliates dead skin cells, while the face wash cleanses and rejuvenates the skin, leaving it smooth and refreshed."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11914720/2021/8/13/3db0e1e0-a52e-4d45-b2ce-9aabf1594b031628846256525SUGARCosmeticsGoddessOfFlawlessSPF30BBCream15CappuccinoLight1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11914720/2021/8/13/3db0e1e0-a52e-4d45-b2ce-9aabf1594b031628846256525SUGARCosmeticsGoddessOfFlawlessSPF30BBCream15CappuccinoLight1.jpg",
       "brand": "SUGAR",
       "name": "Flawless SPF30+ BB Cream 15",
       "discount_price": "",
       "price": "",
-      "id": 56
+      "id": 56,
+      "description": "SUGAR Cosmetics Flawless SPF30+ BB Cream 15 provides light coverage with sun protection. It evens out the skin tone and gives a natural-looking finish. The BB cream is enriched with SPF 30 to protect your skin from harmful UV rays."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14197736/2022/4/11/a4590a59-a9ff-48cb-9032-d594e134b2361649616325036Minimalist03RetinolAntiAgingNightSerum30ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14197736/2022/4/11/a4590a59-a9ff-48cb-9032-d594e134b2361649616325036Minimalist03RetinolAntiAgingNightSerum30ml1.jpg",
       "brand": "Minimalist",
       "name": "Retinol Anti Aging Night Serum",
       "discount_price": "",
       "price": "",
-      "id": 57
+      "id": 57,
+      "description": "Minimalist Retinol Anti Aging Night Serum is a potent serum that targets signs of aging. It helps reduce the appearance of wrinkles, fine lines, and dark spots. The serum is enriched with retinol and other skin-loving ingredients to promote skin renewal and improve texture."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16091910/2022/7/7/8ead90f3-dab5-4730-ab08-a777eef4a29a1657182455706Lakme9to5PrimerMatteLiquidConcealer-Nude201.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/16091910/2022/7/7/8ead90f3-dab5-4730-ab08-a777eef4a29a1657182455706Lakme9to5PrimerMatteLiquidConcealer-Nude201.jpg",
       "brand": "Lakme",
       "name": "Liquid Concealer - Nude 20",
       "discount_price": "Rs. 300",
       "price": "Rs. 400",
-      "id": 58
+      "id": 58,
+      "description": "Lakme 9 to 5 Primer Matte Liquid Concealer in Nude 20 is a lightweight concealer that provides medium to full coverage. It effectively hides blemishes, dark circles, and other imperfections. The concealer has a matte finish and blends seamlessly into the skin."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173092/2022/4/11/698ff7aa-61ba-496c-a2ae-ff68eed069e01649661864380Minimalist3PHAAlcoholFreeTonerForOilySkin-150ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173092/2022/4/11/698ff7aa-61ba-496c-a2ae-ff68eed069e01649661864380Minimalist3PHAAlcoholFreeTonerForOilySkin-150ml1.jpg",
       "brand": "Minimalist",
       "name": "3% PHA Alcohol Free Toner",
       "discount_price": "",
       "price": "",
-      "id": 59
+      "id": 59,
+      "description": "Minimalist 3% PHA Alcohol Free Toner is a gentle toner specially formulated for oily skin. It helps remove excess oil, dirt, and impurities, leaving the skin refreshed and balanced. The toner contains polyhydroxy acids (PHAs) that gently exfoliate the skin without causing irritation."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13507856/2021/1/27/521f5712-ff86-4b7d-91d4-c6ca9fdbb1e01611748824967EucalyptusSpearmintMoisturizingBodyOilHairAppliancePhilipsWo1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13507856/2021/1/27/521f5712-ff86-4b7d-91d4-c6ca9fdbb1e01611748824967EucalyptusSpearmintMoisturizingBodyOilHairAppliancePhilipsWo1.jpg",
       "brand": "Philips",
       "name": "Bikini Trimmer BRT383/15",
       "discount_price": "Rs. 1904",
       "price": "Rs. 2295",
-      "id": 60
+      "id": 60,
+      "description": "Philips Bikini Trimmer BRT383/15 is a versatile grooming tool designed for precise trimming of the bikini area. It features rounded trimmer tips that prevent skin irritation and ensure a comfortable trimming experience. The trimmer is battery-powered and compact, making it travel-friendly."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12087894/2022/6/5/d27f0972-b578-43b7-bca1-844921fc8d331654392140003-Mamaearth-HydraGel-Indian-Sunscreen-SPF-50-with-Aloe-Vera--R-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/12087894/2022/6/5/d27f0972-b578-43b7-bca1-844921fc8d331654392140003-Mamaearth-HydraGel-Indian-Sunscreen-SPF-50-with-Aloe-Vera--R-1.jpg",
       "brand": "Mamaearth",
       "name": "Indian Sunscreen SPF 50",
       "discount_price": "Rs. 359",
       "price": "Rs. 399",
-      "id": 61
+      "id": 61,
+      "description": "Mamaearth Indian Sunscreen SPF 50 is a lightweight and non-greasy sunscreen that provides broad-spectrum protection against UVA and UVB rays. It is enriched with aloe vera and other natural ingredients that soothe and moisturize the skin. The sunscreen is suitable for all skin types."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13205364/2021/8/11/8e3a17e1-a5f0-4441-bdc3-805b3e6bffd31628671636936PaulasChoice2BHASkinPerfectingExfoliantLiquid118ml1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13205364/2021/8/11/8e3a17e1-a5f0-4441-bdc3-805b3e6bffd31628671636936PaulasChoice2BHASkinPerfectingExfoliantLiquid118ml1.jpg",
       "brand": "Paulas Choice",
       "name": "2% BHA Skin Exfoliant Liquid",
       "discount_price": "",
       "price": "",
-      "id": 62
+      "id": 62,
+      "description": "Paula's Choice 2% BHA Skin Perfecting Exfoliant Liquid is a gentle exfoliating toner that helps unclog pores and improve skin texture. It contains salicylic acid (BHA) that effectively removes dead skin cells and reduces blackheads and whiteheads. The exfoliant is suitable for all skin types."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13203808/2022/7/18/91b05c9d-7831-445a-9bca-41450d139e661658123837699-DERMAVIVE-Hydra-Cleanser---120-ml-7091658123837366-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/13203808/2022/7/18/91b05c9d-7831-445a-9bca-41450d139e661658123837699-DERMAVIVE-Hydra-Cleanser---120-ml-7091658123837366-1.jpg",
       "brand": "DERMAVIVE",
       "name": "Hydra Cleanser",
       "discount_price": "",
       "price": "",
-      "id": 63
+      "id": 63,
+      "description": "DERMAVIVE Hydra Cleanser is a gentle and hydrating cleanser that effectively removes impurities and makeup from the skin. It is formulated with nourishing ingredients that help maintain the skin's moisture balance, leaving it clean, refreshed, and supple."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8890321/2022/8/10/b232c3bb-3f28-45c1-bb07-a7df1b4042a61660093471996-Faces-Canada-Weightless-Matte-Hydrating-Lipstick-with-Almond-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/8890321/2022/8/10/b232c3bb-3f28-45c1-bb07-a7df1b4042a61660093471996-Faces-Canada-Weightless-Matte-Hydrating-Lipstick-with-Almond-1.jpg",
       "brand": "FACES CANADA",
       "name": "Matte Lipstick - Buff Nude 05",
       "discount_price": "Rs. 209",
       "price": "Rs. 299",
-      "id": 64
+      "id": 64,
+      "description": "FACES CANADA Weightless Matte Hydrating Lipstick in Buff Nude 05 is a long-lasting lipstick with a matte finish. It glides smoothly on the lips, providing intense color payoff and hydration. The lipstick is lightweight and comfortable to wear throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19021914/2022/7/8/e047740a-1d48-4026-b934-6af66dac3fb31657271610815BIODERMAAtodermSOSSprayAnti-IcthingReflexForImmediateRelief51.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/19021914/2022/7/8/e047740a-1d48-4026-b934-6af66dac3fb31657271610815BIODERMAAtodermSOSSprayAnti-IcthingReflexForImmediateRelief51.jpg",
       "brand": "BIODERMA",
       "name": "SOS Spray Anti-Itching",
       "discount_price": "Rs. 1259",
       "price": "Rs. 1399",
-      "id": 65
+      "id": 65,
+      "description": "BIODERMA Atoderm SOS Spray Anti-Itching is a soothing spray that provides immediate relief from itching and irritation. It calms the skin and helps restore its natural balance. The spray is gentle and suitable for sensitive and dry skin."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173094/2022/4/11/441dce19-1854-47a1-839e-c6346f14f67f1649661876510MinimalistSepicalm3OatsFaceMoisturiserForOilyAcneProneSkin-51.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14173094/2022/4/11/441dce19-1854-47a1-839e-c6346f14f67f1649661876510MinimalistSepicalm3OatsFaceMoisturiserForOilyAcneProneSkin-51.jpg",
       "brand": "Minimalist",
       "name": "Sepicalm Face Moisturiser",
       "discount_price": "",
       "price": "",
-      "id": 66
+      "id": 66,
+      "description": "Minimalist Sepicalm 3% Oats Face Moisturiser is specially formulated for oily and acne-prone skin. It provides lightweight hydration without clogging pores or causing breakouts. The moisturizer contains Sepicalm, which helps soothe and calm the skin, reducing redness and inflammation."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15974350/2021/11/2/4b79712b-608d-4c26-81a8-5c522f14c2231635846138253-Makeup-Revolution-London-Women-Eyeshadow-9721635846138181-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/15974350/2021/11/2/4b79712b-608d-4c26-81a8-5c522f14c2231635846138253-Makeup-Revolution-London-Women-Eyeshadow-9721635846138181-1.jpg",
       "brand": "Makeup Revolution London",
       "name": "Set of 3 Reloaded Palettes",
       "discount_price": "Rs. 1291",
       "price": "Rs. 3150",
-      "id": 67
+      "id": 67,
+      "description": "Makeup Revolution London Set of 3 Reloaded Palettes is a collection of eyeshadow palettes featuring a variety of shades and finishes. Each palette offers highly pigmented colors that blend easily and stay vibrant for hours. The palettes are versatile and suitable for creating both everyday and bold eye makeup looks."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4328714/2022/3/21/86ae063e-7806-4878-b007-6c07ae4fabfb1647860143219-Lakme-9-to-5-Weightless-Mousse-Foundation---Beige-Vanilla-6g-1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/4328714/2022/3/21/86ae063e-7806-4878-b007-6c07ae4fabfb1647860143219-Lakme-9-to-5-Weightless-Mousse-Foundation---Beige-Vanilla-6g-1.jpg",
       "brand": "Lakme",
       "name": "Weightless Mousse Foundation",
       "discount_price": "Rs. 127",
       "price": "Rs. 170",
-      "id": 68
+      "id": 68,
+      "description": "Lakme 9 to 5 Weightless Mousse Foundation in Beige Vanilla is a lightweight and breathable foundation that provides medium coverage. It blends seamlessly into the skin, giving a natural-looking finish. The mousse formula feels comfortable on the skin and lasts throughout the day."
     },
     {
-      "image":
-        "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081248/2022/5/25/610a171d-0619-4a25-a121-d3110ed174bc1653465465099MamaearthSustainableActivatedCharcoalFaceWashWithCoffeeForOi1.jpg",
+      "image": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/11081248/2022/5/25/610a171d-0619-4a25-a121-d3110ed174bc1653465465099MamaearthSustainableActivatedCharcoalFaceWashWithCoffeeForOi1.jpg",
       "brand": "Mamaearth",
       "name": "Sustainable Charcoal Face Wash 100 ml",
       "discount_price": "Rs. 224",
       "price": "Rs. 249",
-      "id": 69
+      "id": 69,
+      "description": "Mamaearth Sustainable Charcoal Face Wash is a refreshing cleanser that deeply cleanses the skin and removes impurities. It is enriched with activated charcoal and coffee, which help draw out toxins and excess oil from the skin, leaving it clean and revitalized."
     }
   ],
   
