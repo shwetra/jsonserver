@@ -9919,5 +9919,1714 @@
       "id": 39,
       "description": "A rich and nourishing body milk that helps to deeply hydrate dry skin. Enriched with almond oil, it leaves skin feeling soft, smooth, and supple."
     }
+  ],
+
+  "youtube":[
+    {
+      "kind": "youtube#searchListResponse",
+      "etag": "LROZjf0L-DuVGyKZkEIV56jEwEA",
+      "nextPageToken": "CDIQAA",
+      "regionCode": "IN",
+      "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 50
+      },
+      "items": [
+        {
+          "kind": "youtube#searchResult",
+          "etag": "ErhuNjit47cgWV3VTlveg4MzqLk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "0aeZX1l4JT4"
+          },
+          "snippet": {
+            "publishedAt": "2020-11-24T11:00:01Z",
+            "channelId": "UCfJT_eYDTmDE-ovKaxVE1ig",
+            "title": "How to use Microsoft Power Query",
+            "description": "In this step-by-step tutorial, learn how you can use Microsoft Power Query to get and clean up data in both Microsoft Excel and ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0aeZX1l4JT4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0aeZX1l4JT4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0aeZX1l4JT4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Kevin Stratvert",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-11-24T11:00:01Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "OjA0qHUf00omwupaAxmxhcsFz5M",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "bW6P2YvLyZg"
+          },
+          "snippet": {
+            "publishedAt": "2017-07-01T19:06:34Z",
+            "channelId": "UC8p19gUXJYTsUPEpusHgteQ",
+            "title": "Google Sheets QUERY Function Tutorial - SELECT, WHERE, LIKE, AND, OR, LIMIT statements - Part 1",
+            "description": "Video tutorial series about QUERY function in Google Sheets. In this tutorial we'll cover how to use QUERY function in Google ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Learn Google Sheets & Excel Spreadsheets",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-07-01T19:06:34Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "L6VW9k2HdFW7hOL48CLodGx_0EQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "6Qt3ChyA1KQ"
+          },
+          "snippet": {
+            "publishedAt": "2019-06-18T14:54:43Z",
+            "channelId": "UCIrfp0tjWW5QowJCJlsklWQ",
+            "title": "Creating the Query : Using Query Design Window, Computer Science Lecture | Sabaq.pk |",
+            "description": "Click On Create , Click On Query Design Wizard And Then Select Tables And Their Relationship This video is about: Creating the ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6Qt3ChyA1KQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6Qt3ChyA1KQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6Qt3ChyA1KQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Sabaq Foundation - Free Videos & Tests, Grades K-14",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-06-18T14:54:43Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "ReFSlcTkKoekWJwyIMO1C8e7kb0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "_4eWFfHdaGY"
+          },
+          "snippet": {
+            "publishedAt": "2022-04-05T01:56:22Z",
+            "channelId": "UCiX_Xnsr7fMBjuVhEy3Ri_Q",
+            "title": "MS ACCESS IN HINDI | PART-19 QUERY | WHAT IS QUERY | SELECT QUERY | CREATE QUERY | DIGITAL BHANDAR",
+            "description": "MS-Access मे Select Query को उपयोग करना सीखें। Part-18 Join Types Link. https://youtu.be/S4I6VRFgl2w ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_4eWFfHdaGY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_4eWFfHdaGY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_4eWFfHdaGY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Digital Bhandar",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-05T01:56:22Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "6zMtqe-eYCERKIqSKScwDE8sr44",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "oCKvAcXTLZo"
+          },
+          "snippet": {
+            "publishedAt": "2020-12-29T12:00:30Z",
+            "channelId": "UCJtUOos_MwJa_Ewii-R3cJA",
+            "title": "Google Sheets Query Function Explained",
+            "description": "This is a complete Google Sheets Query function tutorial. The QUERY functions is one of THE most powerful functions in Google ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oCKvAcXTLZo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oCKvAcXTLZo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oCKvAcXTLZo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Leila Gharani",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-12-29T12:00:30Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "ZZVE86fLtTFUQggd_MXUY5ODXaQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "LUL1nnxUz_c"
+          },
+          "snippet": {
+            "publishedAt": "2016-04-08T18:12:18Z",
+            "channelId": "UCeYUHG6o0YguM-g23htdsSw",
+            "title": "Access: Designing a Simple Query",
+            "description": "In this video, you'll learn the basics of designing a simple query in Access 2019, Access 2016, and Office 365.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LUL1nnxUz_c/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LUL1nnxUz_c/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LUL1nnxUz_c/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "GCFLearnFree",
+            "liveBroadcastContent": "none",
+            "publishTime": "2016-04-08T18:12:18Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "7iEd1dVzH4mRYmYoruMsHdgCwdM",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "gSHPdskFL-Q"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-16T14:42:19Z",
+            "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+            "title": "Async Zustand Playing Nice With React-Query",
+            "description": "Let's figure out how to do async work in a Zustand store, and how to connect it to React-Query if that's something you want to do.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/gSHPdskFL-Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/gSHPdskFL-Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/gSHPdskFL-Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Jack Herrington",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-16T14:42:19Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "W6veY6CGBrF7DkxlRLH1uZ9AKRw",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "NqjfQswuBug"
+          },
+          "snippet": {
+            "publishedAt": "2022-09-08T12:00:19Z",
+            "channelId": "UCbNIC-svDbtUOH2qsLnPQPg",
+            "title": "What Is a Query | Explained",
+            "description": "Learn what is a query with Hostinger Academy! Build your website today with Hostinger https://bit.ly/3QkN0SJ Use the ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/NqjfQswuBug/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/NqjfQswuBug/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/NqjfQswuBug/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Hostinger Academy",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-08T12:00:19Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "XAbvo5c6jtAYicXxsiWVwTMOE08",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "tHdUclXRf4Q"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-26T10:45:02Z",
+            "channelId": "UCT1ZbMXrjHw-SBWFgEtuHWw",
+            "title": "SQL Query to fetch the number of employees | SQL Interview #shorts #viralshorts #sqlquery #tutorial",
+            "description": "Write a query to fetch the number of employees working in the department 'HR'. #SQLstatements #SQLcommand #SQLinterviews ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tHdUclXRf4Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tHdUclXRf4Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tHdUclXRf4Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Learn by Dibya",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-26T10:45:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "SrwwLWeXxQ-54Vax6ZLR8P4RagQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "srMBmtVeS00"
+          },
+          "snippet": {
+            "publishedAt": "2022-11-18T22:29:31Z",
+            "channelId": "UCMn28O1sQGochG94HdlthbA",
+            "title": "React Query con Vitejs y REST API (json-server) Ejemplo Practico CRUD",
+            "description": "React query es una biblioteca de Javascript para proyectos de React que permite administrar el estado de una aplicación web ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/srMBmtVeS00/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/srMBmtVeS00/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/srMBmtVeS00/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Fazt Code",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-18T22:29:31Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "u71h6QzK52HNMb2qvMeHO9ELkWQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "JaM2rExmmqs"
+          },
+          "snippet": {
+            "publishedAt": "2022-07-05T14:53:15Z",
+            "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+            "title": "Five Clever Hacks for React-Query and SWR",
+            "description": "Five things we can do with react-query and swr that aren't just running a single query.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/JaM2rExmmqs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/JaM2rExmmqs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/JaM2rExmmqs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Jack Herrington",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-07-05T14:53:15Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "KefxSrU_3Ww44nUimt6Nc-Nt0CE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "2MZftBxOrFk"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-20T15:49:02Z",
+            "channelId": "UChvL1yGRGKhdXwu1MadvKcQ",
+            "title": "Google Sheets Powerful Query Function Explained",
+            "description": "Google Sheets Powerful Query Function Explained Direct Link Data Transformation file-https://bit.ly/41VZN4h Download the ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/2MZftBxOrFk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/2MZftBxOrFk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/2MZftBxOrFk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Innozant",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-20T15:49:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "BTflbX-CU1DfbfJQY_Dl6zx5ml0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "4-SOv7eTfoQ"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-06T18:27:30Z",
+            "channelId": "UCdldbhAwO16vjnDwACTs5gQ",
+            "title": "React Query за 10 минут! Быстрый курс",
+            "description": "В этом ролике я расскажу о том, что такое React Query, как делать запрос на бэкенд, пагинацию, отправку POST запроса ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4-SOv7eTfoQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4-SOv7eTfoQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4-SOv7eTfoQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Archakov Blog",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-06T18:27:30Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "nmnYjboUhpmqtMwiLiokeDsRwLU",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "lVLz_ASqAio"
+          },
+          "snippet": {
+            "publishedAt": "2023-01-10T17:00:33Z",
+            "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+            "title": "React Query Makes Writing React Code 200% Better",
+            "description": "I absolutely love React Query, also known as TanStack Query. This library singlehandedly makes working in React so much nicer ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lVLz_ASqAio/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lVLz_ASqAio/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lVLz_ASqAio/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Web Dev Simplified",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-01-10T17:00:33Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "86Sv8HSLBGvRrtRW5GXPK_0uNE0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "LDS1ll93P-s"
+          },
+          "snippet": {
+            "publishedAt": "2021-10-18T13:58:01Z",
+            "channelId": "UC6vRUjYqDuoUsYsku86Lrsw",
+            "title": "Redux Toolkit Query vs React Query",
+            "description": "Picking an API access library for your React app is tough, there are so many great choices! Let's take a look at two of the most ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/LDS1ll93P-s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/LDS1ll93P-s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/LDS1ll93P-s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Jack Herrington",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-18T13:58:01Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "AlAo_UclfFVw1Y4jzD1eYi-Ovf4",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "r8Dg0KVnfMA"
+          },
+          "snippet": {
+            "publishedAt": "2023-01-17T17:00:35Z",
+            "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+            "title": "Learn React Query In 50 Minutes",
+            "description": "Learn React Today Course: https://courses.webdevsimplified.com/learn-react-today TanStack Query (also known as React Query) ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r8Dg0KVnfMA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r8Dg0KVnfMA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r8Dg0KVnfMA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Web Dev Simplified",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-01-17T17:00:35Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "xZ_1-DJdKQUoETb7UUp_3jhXvuo",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "jHx-_1s25zc"
+          },
+          "snippet": {
+            "publishedAt": "2016-06-16T11:56:08Z",
+            "channelId": "UClXjFXc4TbZS82qR6NrMqjA",
+            "title": "How to create a simple select query in Microsoft Access",
+            "description": "One of the most basic things in Microsoft Access are simple select queries such as this one. - For beginners in Access. More tips ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jHx-_1s25zc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jHx-_1s25zc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jHx-_1s25zc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "codekabinett.com/en",
+            "liveBroadcastContent": "none",
+            "publishTime": "2016-06-16T11:56:08Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "4Gfr6BE7-9xQ1un3qNWZqqhDLE8",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "novnyCaa7To"
+          },
+          "snippet": {
+            "publishedAt": "2022-03-08T15:59:49Z",
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "React Query in 100 Seconds",
+            "description": "React Query is a tool that makes your data fetching code faster, easier, and more powerful. Learn how to use React Query it in a ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/novnyCaa7To/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/novnyCaa7To/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/novnyCaa7To/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Fireship",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-08T15:59:49Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "G_iup-p8jTshB7nU3GhaVVX0ILQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "w-bcsgjxEO8"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-25T02:52:15Z",
+            "channelId": "UChvL1yGRGKhdXwu1MadvKcQ",
+            "title": "Google Sheets QUERY FUNCTION Examples-Select, Where, Order by , Group by",
+            "description": "Google Sheets QUERY FUNCTION Examples-Select, Where, Order by , Group by Direct Link Data Transformation ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/w-bcsgjxEO8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/w-bcsgjxEO8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/w-bcsgjxEO8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Innozant",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-25T02:52:15Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "D_M9Rw4N0FYLmGFQ7bgNnHB5Hrk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "D6ho5zOwZnA"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-24T12:30:14Z",
+            "channelId": "UCQ_R6vwEXkFAlw0X4P-znbw",
+            "title": "5 Best Practices in Power Query",
+            "description": "In this video, we will learn about some best practices that can help us to be more efficient & smart working on Power Query!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/D6ho5zOwZnA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/D6ho5zOwZnA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/D6ho5zOwZnA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Goodly",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-24T12:30:14Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "r6uEGlNmT0jcEmFEtLH6R63XjFI",
+          "id": {
+            "kind": "youtube#channel",
+            "channelId": "UCvQCM5pRSYY5CE2UHHhTuOQ"
+          },
+          "snippet": {
+            "publishedAt": "2014-02-06T15:16:53Z",
+            "channelId": "UCvQCM5pRSYY5CE2UHHhTuOQ",
+            "title": "Query & Schultz",
+            "description": "A show about sports... mostly. Welcome to the Query & Schultz show page! Weekly episodes stream LIVE each Monday at 7:30p ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPCmaQ9n-RdXGuX0QT_gGCCCl40pF8vcMonc-GCXg=s88-c-k-c0xffffffff-no-rj-mo"
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPCmaQ9n-RdXGuX0QT_gGCCCl40pF8vcMonc-GCXg=s240-c-k-c0xffffffff-no-rj-mo"
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPCmaQ9n-RdXGuX0QT_gGCCCl40pF8vcMonc-GCXg=s800-c-k-c0xffffffff-no-rj-mo"
+              }
+            },
+            "channelTitle": "Query & Schultz",
+            "liveBroadcastContent": "none",
+            "publishTime": "2014-02-06T15:16:53Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "LYdHjmuvKj1FTpWBAGjznjhNyiE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "WV-hobu7Osw"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-30T12:29:22Z",
+            "channelId": "UCvD2rJJrp0aS48-KCk0eMHQ",
+            "title": "Power Query - Combine Excel files with different sheet names",
+            "description": "How to consolidate multiple Excel files when the sheet names are different. Check out the updates in this newer video: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/WV-hobu7Osw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/WV-hobu7Osw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/WV-hobu7Osw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Access Analytic",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-30T12:29:22Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "1NSroqIjniRvs2fa0Fv6Jg9op9c",
+          "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLv9Pf9aNgemuRYz7VMCRdRmr0m0V_qGnR"
+          },
+          "snippet": {
+            "publishedAt": "2017-10-31T21:17:00Z",
+            "channelId": "UC8p19gUXJYTsUPEpusHgteQ",
+            "title": "How to Use Google Sheets Query Function",
+            "description": "Google Query Language & Google Sheets Query function, all you need to know about it is in this playlist.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bW6P2YvLyZg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Learn Google Sheets & Excel Spreadsheets",
+            "liveBroadcastContent": "none",
+            "publishTime": "2017-10-31T21:17:00Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "saeK9xTJGkKtUbLkZhqYKmVxGHU",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "cKbvRlsHcsY"
+          },
+          "snippet": {
+            "publishedAt": "2023-02-02T16:00:30Z",
+            "channelId": "UC5_6ZD6s8klmMu9TXEB_1IA",
+            "title": "Query, Key and Value vectors in Transformer Neural Networks",
+            "description": "shorts #machinelearning #deeplearning.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cKbvRlsHcsY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cKbvRlsHcsY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cKbvRlsHcsY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CodeEmporium",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-02T16:00:30Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "-ZpaPg9402zLXjNZBvc1REMNsmk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "VG9KYCS0-8E"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-24T13:04:33Z",
+            "channelId": "UC3-uyUX8s536lUkrWwYvfDg",
+            "title": "LangChain, SQL Agents &amp; OpenAI LLMs: Query Database Using Natural Language | Code",
+            "description": "Discover how you can harness the power of LangChain, SQL Agents, and OpenAI LLMs to query databases using natural ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/VG9KYCS0-8E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/VG9KYCS0-8E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/VG9KYCS0-8E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Pradip Nichite",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-24T13:04:33Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "sr--02rOg3l1UgvLEtUwoioOpYA",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "krIXv38DZ0k"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-23T11:00:11Z",
+            "channelId": "UCvqYqoAu_Yp2v3hOBhi6qiQ",
+            "title": "Query Optimizer and Optimization Process in Microsoft SQL Server",
+            "description": "تعلم البرمجة من الصفر للإحتراف مجانا. كورس تعليم البرمجة للمبتدئين من الصفر. افضل كورس لتعلم البرمجة للمبتدئين. شرح البرمجة ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/krIXv38DZ0k/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/krIXv38DZ0k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/krIXv38DZ0k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "OctuCode",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-23T11:00:11Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "Vv1L8A8I_C0xTElrqw_mPMB-h54",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "PiFAa_jjaEI"
+          },
+          "snippet": {
+            "publishedAt": "2020-08-26T08:50:27Z",
+            "channelId": "UC8uU_wruBMHeeRma49dtZKA",
+            "title": "Power Query Tutorial - What is it, how to use it &amp; 4 complete examples + Free download",
+            "description": "Power Query (Get & Transform data in Excel) is a true game changer . It can simplify and automate various data activities.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PiFAa_jjaEI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PiFAa_jjaEI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PiFAa_jjaEI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Chandoo",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-26T08:50:27Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "JNGMVJInHOT7T1HC7PloRWQypsI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "weafpG2yG1w"
+          },
+          "snippet": {
+            "publishedAt": "2022-04-12T12:30:28Z",
+            "channelId": "UCQ_R6vwEXkFAlw0X4P-znbw",
+            "title": "Reference an Intermediate Step from another Query | Power Query Tricks",
+            "description": "ONLINE COURSES ===== ✔️ Mastering DAX in Power BI - https://goodly.co.in/learn-dax-powerbi/ ✔️ Power Query Course- ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/weafpG2yG1w/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/weafpG2yG1w/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/weafpG2yG1w/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Goodly",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-12T12:30:28Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "xNY-VL7t6RLT-g8jPM7i7PqDM6s",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "S5gX-LLAZIM"
+          },
+          "snippet": {
+            "publishedAt": "2022-08-10T13:56:09Z",
+            "channelId": "UCnz-ZXXER4jOvuED5trXfEA",
+            "title": "Solving Complex SQL Query from HackerRank | SQL Interview Query",
+            "description": "In this video, we will learn how to solve a complex SQL query. The SQL problem is taken from HackerRank. We shall use ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/S5gX-LLAZIM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/S5gX-LLAZIM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/S5gX-LLAZIM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "techTFQ",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-08-10T13:56:09Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "_j4lUHW8ixV9v-6JQNdgEF2SI5Q",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "PtHRZqh3LHI"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-01T12:00:19Z",
+            "channelId": "UCH7Ulw-HEr62_SUzCC9K8oQ",
+            "title": "React Query tips from the maintainer @tkDodo",
+            "description": "I made some mistakes in my react-query refactoring video last week! But now we've got Dominik from the react-query team here to ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PtHRZqh3LHI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PtHRZqh3LHI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PtHRZqh3LHI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Andrew Burgess",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-01T12:00:19Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "v-b8FNz9vdibZ2BbCe8Luh_xql4",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "TukZd6LjeBc"
+          },
+          "snippet": {
+            "publishedAt": "2021-01-18T06:02:16Z",
+            "channelId": "UCfRoKBBToKjXolFYSDe7Y7g",
+            "title": "Use MySQL EXPLAIN for Query Optimization",
+            "description": "Use the link below to get 60% OFF on the Entire Course. MySQL High-Performance Guide Course ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/TukZd6LjeBc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/TukZd6LjeBc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/TukZd6LjeBc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "High-Performance Programming",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-18T06:02:16Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "IPuGKKTim6PaDHaZU1V1jwZS-CE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Al0viFDqNn4"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-09T17:45:00Z",
+            "channelId": "UCkHdBeQ4DuvBXTahMYZVlMA",
+            "title": "Learn Excel Power Query to Automate Boring Tasks",
+            "description": "Learn Power Query in just 10 minutes to merge multiples Excel files, clean up data, and analyse it. Take our Power BI for ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Al0viFDqNn4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Al0viFDqNn4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Al0viFDqNn4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Kenji Explains",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-09T17:45:00Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "OgFgc0sfpLvfhKuBSE1tY5a8sjM",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "-z0LQRwbS0Q"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-23T10:00:00Z",
+            "channelId": "UCEJ3H9iJ7JoiNOJJAJv21-g",
+            "title": "NextJs 13.4 With React Query And App Router",
+            "description": "Don't forget to like and subscribe. Code for the project in the video: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-z0LQRwbS0Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-z0LQRwbS0Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-z0LQRwbS0Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Jack's Codding Arsenal",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-23T10:00:00Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "qaC2M-sLGa7HwPbL0P7cztAl8gQ",
+          "id": {
+            "kind": "youtube#playlist",
+            "playlistId": "PLxCzCOWd7aiHqU4HKL7-SITyuSIcD93id"
+          },
+          "snippet": {
+            "publishedAt": "2019-03-14T08:00:02Z",
+            "channelId": "UCJihyK0A38SZ6SdJirEdIOw",
+            "title": "Structured Query Language (SQL)",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Gate Smashers",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-03-14T08:00:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "MbKjsBzlJAfU3_eenxOFMu9u_c0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Ev60HKYFM0s"
+          },
+          "snippet": {
+            "publishedAt": "2021-10-04T13:30:03Z",
+            "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+            "title": "React Query Tutorial - 3 - Fetching Data with useQuery",
+            "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Ev60HKYFM0s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Ev60HKYFM0s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Ev60HKYFM0s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Codevolution",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-04T13:30:03Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "WFqk9wQdzP8IkCKnzvv6-WATQ2k",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "jBEFaDCXB34"
+          },
+          "snippet": {
+            "publishedAt": "2020-08-30T10:57:43Z",
+            "channelId": "UCqwLHNFtrOjrOC3CnvviS1g",
+            "title": "PQB: Power Query Basics From A to Z - Full Course, 5 hours, 17 topics, 25+ Examples",
+            "description": "0:00 Intro ------------------------------------------------------------------------- 3:27 PQB01: Introduction \"Get & Transform\" Automate Data ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/jBEFaDCXB34/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/jBEFaDCXB34/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/jBEFaDCXB34/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "AAA Excel’s Power",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-08-30T10:57:43Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "Xn9DTLmxfF7kPeVv7ytNAmWaSKg",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "6lBqYInBldk"
+          },
+          "snippet": {
+            "publishedAt": "2020-06-25T09:00:02Z",
+            "channelId": "UCJtUOos_MwJa_Ewii-R3cJA",
+            "title": "How Power Query Will Change the Way You Use Excel",
+            "description": "Join 400000+ professionals in our courses: https://www.xelplus.com/courses/ Power Query is like an Instant Miracle Cure to your ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/6lBqYInBldk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/6lBqYInBldk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/6lBqYInBldk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Leila Gharani",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-06-25T09:00:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "EZNOxOS2lrv39ftMjMabtRE4_Q8",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "U97r2_O8IyI"
+          },
+          "snippet": {
+            "publishedAt": "2021-07-29T12:30:06Z",
+            "channelId": "UCiYjpuUaSfkvdZkmtDU7JRw",
+            "title": "VLOOKUP in Power Query Using List Functions",
+            "description": "Using List functions in Power Query to do Exact Lookup and Approximate Match Lookup is faster and easier to create than using ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/U97r2_O8IyI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/U97r2_O8IyI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/U97r2_O8IyI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "MyOnlineTrainingHub",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-07-29T12:30:06Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "zHQpHDCIFQujRLE9F-DWqOaQeF0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "L4BuUzccLpo"
+          },
+          "snippet": {
+            "publishedAt": "2020-10-14T23:00:12Z",
+            "channelId": "UCiYjpuUaSfkvdZkmtDU7JRw",
+            "title": "How to easily automate boring Excel tasks with Power Query!",
+            "description": "Power Query can automate the boring and laborious tasks of getting and cleaning data, reducing time spent on these tasks down ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/L4BuUzccLpo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/L4BuUzccLpo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/L4BuUzccLpo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "MyOnlineTrainingHub",
+            "liveBroadcastContent": "none",
+            "publishTime": "2020-10-14T23:00:12Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "DcWMOoWYnApdNR8N-qevxab71TE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "4p-G7fGhqRk"
+          },
+          "snippet": {
+            "publishedAt": "2022-05-18T13:21:24Z",
+            "channelId": "UCnz-ZXXER4jOvuED5trXfEA",
+            "title": "Solving SQL Query | Rows to Column in SQL",
+            "description": "In this video, we will solve an SQL Query where we will need to transform data from rows to column. We can transform data from ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4p-G7fGhqRk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4p-G7fGhqRk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4p-G7fGhqRk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "techTFQ",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-18T13:21:24Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "85xOmBIO0VEQ_XHeaw_x4rcCWo4",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "E6edg0ldufA"
+          },
+          "snippet": {
+            "publishedAt": "2022-03-18T12:30:06Z",
+            "channelId": "UCQ_R6vwEXkFAlw0X4P-znbw",
+            "title": "Table.TransformColumns in Power Query | Super Function ⚡",
+            "description": "Table.TransformColumns function in Power Query has quite a lot of hidden super powers if you decide it customize it. In this video ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/E6edg0ldufA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/E6edg0ldufA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/E6edg0ldufA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Goodly",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-18T12:30:06Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "_BfbkBxpNaL65Q8a99UjQIZmeWk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "2TX8ojaSwF0"
+          },
+          "snippet": {
+            "publishedAt": "2021-10-06T12:30:02Z",
+            "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+            "title": "React Query Tutorial - 6 - Query Cache",
+            "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/2TX8ojaSwF0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/2TX8ojaSwF0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/2TX8ojaSwF0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Codevolution",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-06T12:30:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "bIrKUk1DWpyK9inO3YcDQc0cJL0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Nbhd0B5ldJE"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-23T11:45:02Z",
+            "channelId": "UCiYjpuUaSfkvdZkmtDU7JRw",
+            "title": "You&#39;re Combining Files from a Folder with Power Query ALL WRONG!",
+            "description": "Most people combine files from a folder with Power Query all wrong. In this video I show you why it's wrong and the way you ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Nbhd0B5ldJE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Nbhd0B5ldJE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Nbhd0B5ldJE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "MyOnlineTrainingHub",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-23T11:45:02Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "lhIs7bojSau0TY__9wHLc9Ol00g",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "fL2rgPGR0Eg"
+          },
+          "snippet": {
+            "publishedAt": "2021-12-27T17:12:28Z",
+            "channelId": "UCtY8p96hHhCsKqMMKGDMp7w",
+            "title": "Interview SQL Query On Joins | Campus Preparation | Solve Any SQL Query | JOINS",
+            "description": "In this video we will solve 4 SQL Query based on JOINS which are the very important for interview preparation .if you will solve ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fL2rgPGR0Eg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fL2rgPGR0Eg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fL2rgPGR0Eg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CodeEra",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-12-27T17:12:28Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "HLQMjK9N2f-r84mE2WYCEP6UanQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "5PJYAOluuJo"
+          },
+          "snippet": {
+            "publishedAt": "2022-04-21T12:00:05Z",
+            "channelId": "UCiYjpuUaSfkvdZkmtDU7JRw",
+            "title": "Remove Blank Rows/Columns with Power Query Incl. STUBBORN Characters!",
+            "description": "Non-printing characters, spaces and empty strings can make it difficult to remove blank rows and columns. This video shows two ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5PJYAOluuJo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5PJYAOluuJo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5PJYAOluuJo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "MyOnlineTrainingHub",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-21T12:00:05Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "0McGeVISp1v5nhHdGcIVxk2z-3I",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "yviVaX7-wT4"
+          },
+          "snippet": {
+            "publishedAt": "2022-03-16T06:00:25Z",
+            "channelId": "UCTuplgOBi6tJIlesIboymGA",
+            "title": "Why I Sometimes Use query() Method?",
+            "description": "A short answer to the question I get. Why User::query() if it doesn't add any functionality? - - - - - Support the channel by checking ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yviVaX7-wT4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yviVaX7-wT4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yviVaX7-wT4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Laravel Daily",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-16T06:00:25Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "7lSGIw1OiboTmXsdZzw1rLS-iIU",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "q9npE47O2UI"
+          },
+          "snippet": {
+            "publishedAt": "2021-07-29T16:00:21Z",
+            "channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+            "title": "How does query processing work in BigQuery?",
+            "description": "Read the blog → https://goo.gle/3iWWSDJ Read the docs → https://goo.gle/2VjJTn7 Ever wonder how BigQuery processes your ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/q9npE47O2UI/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/q9npE47O2UI/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/q9npE47O2UI/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Google Cloud Tech",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-07-29T16:00:21Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "leeA89Jq11a5M771MPx1vLjRTlY",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "323H_mOOWQ4"
+          },
+          "snippet": {
+            "publishedAt": "2019-03-14T08:54:51Z",
+            "channelId": "UCJihyK0A38SZ6SdJirEdIOw",
+            "title": "Lec-49: Introduction to Structured Query Language | points regarding its Features and Syllabus",
+            "description": "Subscribe to our new channel:https://www.youtube.com/@varunainashots The Structured Query Language (SQL) is the most ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/323H_mOOWQ4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Gate Smashers",
+            "liveBroadcastContent": "none",
+            "publishTime": "2019-03-14T08:54:51Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "pNs4Q1ZVIBdYwkp4Jl2ljdpm21U",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "A3gN4ji5p6E"
+          },
+          "snippet": {
+            "publishedAt": "2021-10-10T12:30:06Z",
+            "channelId": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+            "title": "React Query Tutorial - 8 - Refetch Defaults",
+            "description": "Courses - https://learn.codevolution.dev/ Support UPI - https://support.codevolution.dev/ Support PayPal ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/A3gN4ji5p6E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/A3gN4ji5p6E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/A3gN4ji5p6E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Codevolution",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-10-10T12:30:06Z"
+          }
+        },
+        {
+          "kind": "youtube#searchResult",
+          "etag": "SAWupdGoAsCbEQImIK5NIFpP_Po",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "PSPQZNq93eg"
+          },
+          "snippet": {
+            "publishedAt": "2023-01-12T14:00:11Z",
+            "channelId": "UCy2rBgj4M1tzK-urTZ28zcA",
+            "title": "How To Use Query Parameter In Power BI [2023 Update]",
+            "description": "In this tutorial, Sam shows how to use the query parameter feature inside of Power BI. You can bring significant scale to your ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PSPQZNq93eg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PSPQZNq93eg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PSPQZNq93eg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Enterprise DNA",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-01-12T14:00:11Z"
+          }
+        }
+      ]
+    }
   ]
 }
